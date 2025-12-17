@@ -1,0 +1,18 @@
+{
+  "n_rows_total": 26171,
+  "n_train": 20936,
+  "n_val": 2617,
+  "n_test": 2618,
+  "features": [
+    "site_eui",
+    "energy_star_score",
+    "gross_floor_area_sqft"
+  ],
+  "target": "total_ghg_mtco2e (log1p during training)",
+  "test_rmse": 1007274.0,
+  "test_mae": 19874.224609375,
+  "test_rmse_log": 0.43505582213401794,
+  "test_mae_log": 0.21440014243125916,
+  "device": "cpu",
+  "seed": 42
+}
