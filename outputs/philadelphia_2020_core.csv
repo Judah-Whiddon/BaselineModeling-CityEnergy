@@ -1,0 +1,1475 @@
+city,property_id,property_name,gross_floor_area_sqft,site_eui,energy_star_score,total_ghg_mtco2e,address,zip,year_built
+philadelphia,,South Philadelphia Station ZSPH/190 – 1 Tinicum Island Road,154048.0,62.0,9.0,712.5, 1 Tinicum Island Road,19113,1996
+philadelphia,771013000,Gibbon Building,778752.0,253.0,37.0,16179.9,111 South11th Street,19107-5098,1978
+philadelphia,771013000,Foerderer Pavilion,233930.0,253.3,48.0,4688.1,117 South 11th Street,19107-4998,1954
+philadelphia,771015010,Bluemle Life Science Building,287286.0,274.3,,6540.9,951 Locust Street,19107-5541,1991
+philadelphia,771016500,Jefferson Alumni Hall,455711.0,286.5,,10291.5,1020 Locust Street,19107-6799,1968
+philadelphia,771019000,Scott Memorial Library,111970.0,108.2,,1090.8,1020 Walnut Street,19107-5587,1976
+philadelphia,771019000,Martin Building,81525.0,82.8,51.0,539.3,201 South 11th Street,19107-5595,1959
+philadelphia,771020000,Thompson Building,171219.0,177.3,91.0,2417.0,1020 Sansom Street,19107-5004,1925
+philadelphia,771020000,College Building,191783.0,174.8,10.0,2718.8,1025 Walnut Street,19107-4083,1928
+philadelphia,771020000,Curtis Building,136566.0,130.2,34.0,1381.0,1015 Walnut Street,19107-5099,1928
+philadelphia,771020000,Main Building,169807.0,176.6,91.0,2365.5,132 S. 10th Street,19107-5244,1906
+philadelphia,771020500,Medical Office Building,82972.0,105.1,22.0,821.4,1100-04 Walnut Street,19107-5563,1985
+philadelphia,771021000,Edison Building,244109.0,76.5,48.0,1564.0,130 South 9th Street,19107-5233,1930
+philadelphia,774577000,Overbrook School for the Blind,375473.0,54.8,99.0,907.3,6333 Malvern Avenue,19151,1900
+philadelphia,775107300,Everett Richardson,368193.0,60.3,,576.1,2800 West Cheltenham Avenue,19150,2006
+philadelphia,775329000,St. Raymond of Penafort,61900.0,41.1,88.0,146.7,1350 E Vernon Road,19150,1950
+philadelphia,778503000,Campus Center,89596.0,71.2,,462.0,9801 Frankford Avenue,19114-2009,1988
+philadelphia,778771890,Tacony Academy Charter School,86492.0,29.3,100.0,141.0,6201 Keystone St,19135-3701,2015
+philadelphia,78-8-0070-16,Building 990,70318.0,33.5,65.0,199.4,2001 Kitty Hawk Avenue,19112,1969
+philadelphia,78-8-0099-00,Building 101 - CBRE,100766.0,68.6,63.0,360.3,4747 South Broad Street,19112,1911
+philadelphia,783262200,Cassidy,59123.0,167.7,2.0,743.6,6523 LANDSDOWNE AVE,19151,1924
+philadelphia,783262225,Overbrook Education Center,55128.0,64.5,35.0,263.2,6722 LANSDOWNE AVE,19151,1915
+philadelphia,783600400,Lamberton,110193.0,37.7,97.0,316.6,7501 WOODBINE AVE,19151,1949
+philadelphia,784269400,Leeds,168259.0,16.6,96.0,226.6,1100 E MT. PLEASANT AVE,19150,1955
+philadelphia,784479400,Edmonds FS,80500.0,16.5,97.0,104.2,8025 THOURON AVE,19150,1949
+philadelphia,788008020,"Urban Outfitters, Inc. - Building #017, 014",48129.0,82.3,54.0,288.5,1620 Kitty Hawk Ave,19112,1916
+philadelphia,788008310,"Urban Outfitters, Inc. - Building #18",106698.0,136.1,31.0,1087.5,1620 Kitty Hawk Ave,19112,1916
+philadelphia,788008310,"Urban Outfitters, Inc. - Building #010",53115.0,907.4,1.0,2710.0,5000 S Broad Street,19112,1903
+philadelphia,881079300,Chimney Hill,124390.0,51.6,79.0,410.1,161 Leverington Avenue,19127,1994
+philadelphia,881088800,The Isle,215806.0,36.0,67.0,550.2,1 Cotton Street,19127,2017
+philadelphia,881089500,Ridge Carlton Apartments,161310.0,53.2,73.0,579.2,7373 Ridge Avenue,19128-3232,1970
+philadelphia,881093010,HENRY ON THE PARK - Morgan,713859.0,65.6,54.0,2346.5,7901 HENRY AVE,19128-3060,1965
+philadelphia,881121100,Sprucewood,20220.0,9.0,,10.8,4105 Spruce Street,19444,1920
+philadelphia,881126002,Overbrook Tower - 1101 North 63rd St,14225.0,83.8,99.0,100.7,1101 North 63rd St,19151,1980
+philadelphia,881155012,Laverock Apt.,83286.0,,,,1000 Ivy Hill Rd.,19150,2007
+philadelphia,881196000,BROOKMONT APARTMENT HOMES - Morgan,225400.0,51.5,30.0,959.8,600 RED LION RD,219115-1246,1971
+philadelphia,881230520,Harmony Place Assisted Living,88900.0,59.7,,358.6,8400 Roosevelt Boulevard,19452,1999
+philadelphia,881447300,Caring Heart Rehabilition and Nursing Center,140000.0,80.7,88.0,839.7,6445 Germantown Ave,19119-2345,1955
+philadelphia,881551176; 881179520,St Regis Apartments,362265.0,56.7,80.0,1227.0,2201 Tremont Street,19034,1968
+philadelphia,882507900,1026-44 MARKET ST,89159.0,53.4,72.0,427.8,1026-44 MARKET ST,19107-4205,1960
+philadelphia,883025600/883025300,123 S. Broad,1094000.0,59.4,,4980.3,123 S. Broad St.,19109,1928
+philadelphia,883028250,401 North Broad Lessee LLC,1501343.0,314.5,,42916.1,401 North Broad,19108,1929
+philadelphia,883082000,8800 Tinicum Blvd Eastwick Center/PA/Site #F166,936822.0,64.2,42.0,2743.4,8800 TINICUM BLVD,191533111,1990
+philadelphia,883088505,Pennypack Associates,32301.0,25.1,99.0,63.8,8400 Roosevelt Boulevard,19452,2000
+philadelphia,883336000,Land Title Building,365000.0,65.2,59.0,1896.5,100 S. Broad St.,19110,1890
+philadelphia,883400800,St. Christopher Parking Garage,268578.0,3.8,,95.4,120 E Erie Ave,19134-1009,1960
+philadelphia,883703600,A0000031 - SOFITEL_PHL_SPARTANS,266000.0,96.7,44.0,1688.1,116-22 S 17TH ST,10103,1964
+philadelphia,884083300,8944-Philadelphia - Fountain Street,76699.0,19.7,,113.0,116 Fountain Street,19127,2017
+philadelphia,884123105,Waste Management of PA - PTS,82785.0,32.3,,215.5,3605 Grays Ferry Ave,19146-2703,1984
+philadelphia,884144590,PHILADELPHIA,170780.0,108.6,34.0,1519.5,700 PATTISON AVE,19148-5339,1950
+philadelphia,884212501,Pride Capital LLC,160000.0,7.2,,87.8,5400 eadom st.,191371303,1930
+philadelphia,884256500,7601 State Road,200665.0,28.2,64.0,464.0,7601 State Road,19021,1968
+philadelphia,884340559,Callowhill Depot,213000.0,97.7,,1371.7,5900 Callowhill Street,19151,1913
+philadelphia,884629502,1860-Philadelphia - Leverington Ave,63450.0,10.0,,51.2,59 Leverington Ave,19127,2018
+philadelphia,,1401 Walnut Street,101827.0,71.9,1.0,672.6,1401 Walnut Street,19102,1950
+philadelphia,771004500,DUMed-219 North Broad St,90250.0,56.4,,475.7,219-25 North Broad Street,19102,1955
+philadelphia,771063000,Roman Catholic High School,92588.0,50.7,82.0,277.2,301 N. Broad Street,19102,1890
+philadelphia,771500000,Anderson Hall,138123.0,43.2,,486.4,329-35 South Broad Street,19102,1916
+philadelphia,772028000,DUMed-1427 Vine Street Building,76793.0,84.3,,549.6,1427-33 Vine Street,19102,1940
+philadelphia,772046000,Magee Rehabilitation Hospital,146912.0,153.6,,1672.7,1513 Race St,19102,1981
+philadelphia,772059100,One Parkway Building,502000.0,94.5,66.0,3877.4,1515-29 Arch St,19102,1962
+philadelphia,772239900,1600 Vine Street,210000.0,62.0,,1246.2,1600 Vine Street,19102,1998
+philadelphia,772505500,Merriam Theater,77964.0,36.2,,203.4,250 South Broad Street,19102,1918
+philadelphia,772508001/772508010,Hamilton/Furness,116264.0,75.1,,633.6,320 S. Broad Street/1499 Pine Street,19102,1876
+philadelphia,772513020,Peirce College,94151.0,44.9,,372.4,1420-1434 Pine Street,19102,1898
+philadelphia,772516000,Pine Residence Hall,53577.0,49.6,60.0,230.1,1500-02 Pine Street,19102,1920
+philadelphia,772724000,Historic Landmark Building,71000.0,83.2,,464.3,118 N. Broad Street,19102,1865
+philadelphia,772724100,Samuel MV Hamilton Building,240000.0,109.1,,1967.6,128 N. Broad Street,19102,1905
+philadelphia,772727000,Academy of Music,144080.0,54.0,,649.9,240 South Broad Street,19102,1857
+philadelphia,772727205,Kimmel Center for the Performing Arts,468307.0,72.2,,2264.7,300 South Broad Street,19102,2001
+philadelphia,772732000,(PA3537)	Academy House COA,739800.0,40.3,67.0,2591.9,1420 Locust Street,19102,1977
+philadelphia,782003200,Municipal Services Building (MSB),491000.0,89.8,63.0,3523.8,1401 JFK Blvd,19102,1968
+philadelphia,782003255,Family Court_Arch St,651587.0,106.0,45.0,4425.5,1500 Arch St,19102,2014
+philadelphia,782273400,City Hall,659185.0,86.7,62.0,3976.8,1400 Market St,19102,1900
+philadelphia,881030000,1500 Locust,887048.0,40.8,93.0,2241.6,1500 Locust Street,19102,1974
+philadelphia,881030500,Versailles,143600.0,46.9,75.0,530.6,1530 Locust St,19102,1929
+philadelphia,881031008,Westbury Apartments,95548.0,85.3,22.0,612.0,271 S. 15th St,19102,1929
+philadelphia,881031014,The Avenir,140000.0,56.4,44.0,719.7,42 South 15th Street ,19102,1909
+philadelphia,881038000,The Metropolitan,120000.0,49.4,23.0,567.0,117 North 15th Street,19102,1926
+philadelphia,"881041406, 881041339",Hanover North Broad,519504.0,37.5,,1270.4,322 N BROAD ST,19102,2017
+philadelphia,881809317,1600 Callowhill,89863.0,66.7,23.0,448.2,352 N. 16th St.  ,19102,2018
+philadelphia,882037110,1430 Walnut Street,61432.0,248.9,,1174.6,1430 Walnut Street,19102,2015
+philadelphia,882887800,The Racquet Club of Philadelphia,91960.0,116.8,,715.8,215 South 16th STreet,19102,1907
+philadelphia,883019502,Bailey,55784.0,30.0,73.0,160.1,1218 Chestnut St,19102,1950
+philadelphia,883031800,Two Liberty Place,1326799.9,42.7,73.0,5257.8,50 South 16th Street,19102,1990
+philadelphia,883038000,1435 Walnut (Drexel Building),57220.0,51.9,,256.1,1435 Walnut St.,19102,1908
+philadelphia,883039500,1420 Walnut,108000.0,54.7,64.0,541.5,1420 Walnut Street,19102,1927
+philadelphia,883039600,1429 Walnut,77472.0,52.8,56.0,381.9,1429-33 Walnut St.,19102,1916
+philadelphia,883040500,1500 Walnut,329468.0,87.5,50.0,2004.4,1500-06 Walnut St.,19102,1930
+philadelphia,883041500,1528 Walnut,206625.0,61.0,48.0,1154.6,1528 Walnut Street,19102,1927
+philadelphia,883045400,1525 Locust,97811.0,75.4,34.0,706.2,1525-29 Locust St.,19102,1983
+philadelphia,883048000,230 S. Broad,214486.0,75.5,48.0,1346.4,230 S. Broad St.,19102,1908
+philadelphia,883048700,30 South 15th Associates,241831.0,77.6,64.0,1526.2,30 South 15th Street,19102,1985
+philadelphia,883054361,Two Commerce Square,1151501.4,43.8,84.0,4577.7,2001 Market Street,19102,1992
+philadelphia,883060510,Three Parkway,610065.0,45.2,91.0,2458.8,1601 Cherry Street,19102,1970
+philadelphia,883320000,Centre Square - 1500 Market Street,2260778.0,59.5,72.0,10343.8,1500 MARKET ST,19102,1974
+philadelphia,883334010,1518 Walnut Street,103560.0,72.7,81.0,571.1,1518 Walnut Street,19102,1929
+philadelphia,883337500,1515 Market Street,523500.0,69.2,58.0,3168.4,Suite 1040,19102,1958
+philadelphia,883408600,12th and Walnut,225615.0,99.1,,77.6,1201 Walnut Street,19102,1979
+philadelphia,883410510,LOVE PARK LLC,10020.0,107896.0,,206.5,1501 John F Kennedy BLVD,19102,1960
+philadelphia,883411000,Urban Growth Property LIM,100000.0,9.8,,93.8,1815-25 Arch Street,19102,1988
+philadelphia,883413000,Parkway Building,173512.0,162.1,,270.0,150 N. Broad Street,19102,1987
+philadelphia,883421500,MidTown Garage,110000.0,8.5,,79.7,1416 Chestnut St.,19102,1984
+philadelphia,883423600,Avenue of the Arts,243057.0,33.8,,692.0,1501 Spruce Street,19102,2002
+philadelphia,883425500,Interpark 15th and Samson,10000.0,0.1,,0.1,114 South 15th Street,19102,1950
+philadelphia,883701000,The Bellevue,634329.0,130.4,,6074.0,200 S. Broad Street,19102,1904
+philadelphia,883701500,Union League of Philadelphia,221044.0,102.7,,1658.9,140 S Broad St.,19102,1865
+philadelphia,883702100,73R49-Philadelphia Ritz Carlton,350000.0,111.4,24.0,3065.6,10 Avenue Of The Arts,19102,1990
+philadelphia,888035538,The Lanesborough,105000.0,36.1,97.0,267.2,1601 Locust Street,19102,1931
+philadelphia,888035710,Chelsea Condo,55000.0,65.7,,297.9,1515 Locust Street,19102,1950
+philadelphia,888071440,The Drake,177067.0,134.7,,1757.9,1512 Spruce Street,19102,1929
+philadelphia,888082628,The Touraine Apartments,232318.0,61.6,45.0,957.2,1520-1528 Spruce Street,19102,1917
+philadelphia,888087200,Packard Grande,444600.0,50.9,58.0,2110.0,111 S 15th St,19102,1924
+philadelphia,888093600;888093602;888093604;888093824;888093826;888093828;888093830;888093832;888093700;888093702;888093704;888093706;888093708;888093710;888093712;888093714;888093717;888093721;888093724;888093726;888093729;888093732;888093734;888093736;888093738;888093741;888093744;888093746;888093748;888093750;888093752;888093754;888093756;888093758;888093760;888093762;888093765;888093768;888093770;888093772;888093774;888093776;888093778;888093780;888093782;888093784;888093786;888093788;888093790;888093792;888093794;888093796;888093798;888093800;888093802;888093804;888093806;888093808;888093810;888093812;888093814;888093816;888093818;888093820;888093822;888093606;888093608;888093610;888093612;888093614;888093616;888093618;888093620;888093622;888093624;888093626;888093628;888093630;888093632;888093634;888093636;888093638;888093640;888093642;888093644;888093646;888093648;888093650;888093652;888093654;888093656;888093658;888093660;888093662;888093665;888093668;888093670;888093672;888093674;888093676;888093678;888093680;888093682;888093684;888093686;888093689;888093692;888093694;888093696;888093698,(PA2649) - The Aria Condo,144137.0,94.9,2.0,1090.0,1425 Locust Street,19102,1900
+philadelphia,888094900,The Residence's At The Ritz Carlton Philadelphia,515912.0,38.0,52.0,1857.4,1414 South Penn Square,19102,2008
+philadelphia,888114920,Ellington Condominium,100000.0,175.3,,1351.3,"1500 Chestnut Street, #4-I",19102,1929
+philadelphia,,The Sansom - Panco Management,74492.0,50.0,18.0,356.8,1601 SANSOM ST,19103,2013
+philadelphia,772199000,Friends Select School,123306.0,87.9,34.0,769.0,17th and The Benjamin Franklin Parkway,19103,1969
+philadelphia,772269000,archdoicese of philadelphia,170750.0,114.1,,1484.9,222 n.th st.,19103,1970
+philadelphia,772283000,Hallahan High School,104730.0,72.4,45.0,442.0,311 N. 19th Street,19103,1911
+philadelphia,772525500,College of Physicians,68967.0,93.6,,504.7,19 S. 22nd Street,19103,1909
+philadelphia,772614000,CO/GLC 11310/1631 ARCH ST/PHILADELPHIA/PA,160661.0,299.2,,4414.7,1631 ARCH ST,19103,1905
+philadelphia,772636525,Jewish Federation of Greater Philadelphia,120943.0,52.2,89.0,516.0,2100 Arch Street,19103,1913
+philadelphia,772734500,Academy of Natural Sciences of Drexel University,250000.0,69.1,,1472.2,1900 Benjamin Franklin Parkway,19103,1876
+philadelphia,782092400,Greenfield,96000.0,45.4,62.0,327.3,2200 CHESTNUT ST,19103,1968
+philadelphia,782598000,Family Court-CLOSED,250000.0,57.2,80.0,994.2,1801 Vine St,19103,1941
+philadelphia,782598210,Central Library,200680.0,126.8,,2207.2,1901 Vine St,19103,1922
+philadelphia,"788007700, 788008001, 788008100","Urban Outfitters, Inc. - Building #003, 007, 012, 015, 025, 543",325133.0,224.3,3.0,5728.2,5000 S. 15th Street,19103,1916
+philadelphia,881012260,Icon 1616,274250.0,43.6,,857.9,1616 Walnut St,19103,1929
+philadelphia,881021500,The Townhouse,78750.0,75.7,63.0,368.9,301 S 19th St,19103,1933
+philadelphia,881021502,The Harper,260172.0,35.9,73.0,868.0,112 S. 19th Street,19103,2019
+philadelphia,881023000,William Penn House,825000.0,39.6,87.0,2197.8,1919 Chestnut Street,19103,1965
+philadelphia,881025000,The Wellington,14892.0,255.0,3.0,352.6,1849 Walnut Street,19103,1925
+philadelphia,881025500,The Rittenhouse Plaza,279109.0,72.1,32.0,1491.4,1901 Walnut Street,19103,1924
+philadelphia,881026300,The Chatham,85328.0,37.1,69.0,293.8,135 S. 20th Street,19103,1927
+philadelphia,881026500,(PA2219) - 2101 Cooperative Inc.,320000.0,66.1,39.0,1424.1,118 South 21st Street,19103,1953
+philadelphia,881027000,Rittenhouse Claridge,463430.0,65.8,87.0,1749.0,201 S. 18th St.,19103,1951
+philadelphia,881028510,The Roosevelt Apartments,64308.0,53.9,,301.0,2220 Walnut Street ,19103,1927
+philadelphia,881028800,Riverloft (rv67),196225.0,49.8,52.0,791.1,2300 Walnut St.,19103,1910
+philadelphia,881029000,The Carlyle,7193.0,288.3,,192.5,2031 Locust Street,19103,1928
+philadelphia,881030550,Lenfest Hall,94747.0,82.7,,618.3,1616 Locust St.,19103,2011
+philadelphia,881032850,Locust on the Park (lc003),198064.0,38.1,49.0,638.8,201 S 25th St,19103,2016
+philadelphia,881034500,Penn Center House,600537.0,51.7,84.0,2082.7,1900 JFK Blvd.,19103,1959
+philadelphia,881035000,"The Sterling Apts (sr43,sl43)",518241.0,118.3,4.0,4051.5,1801 John F Kennedy Blv,19103,1961
+philadelphia,881035500,"(PA2610) - Kennedy House, Inc.",1060000.0,36.2,83.0,2561.0,1901 John F. Kennedy Boulevard,19103,1969
+philadelphia,881035640,1919 Market St (mk51),1111001.0,23.2,,1432.1,1919 Market Street,19103,2016
+philadelphia,881035900,The Lofts @ 1835 Arch,269842.0,49.0,42.0,1124.8,1835 Arch Street,19103,2001
+philadelphia,881036500,Westminster Arch Apartments,73614.0,40.4,86.0,246.7,2213-25 Arch Street,19103,1890
+philadelphia,881146350,One Franklin Town,521968.0,32.2,85.0,1453.8,1 Franklin Town Boulevard,19103,1988
+philadelphia,881146359,The Alexander,547684.0,39.1,74.0,1517.5,1601 Vine Street,19103,2018
+philadelphia,881547025,The Point at Rittenhouse Row - Panco Management,95134.0,62.2,10.0,516.9,1601 Sansom St,19103,1970
+philadelphia,881547560,The Latham,57178.0,86.7,39.0,400.8,135 S. 17th Street,19103,1950
+philadelphia,881555000,Edgewater,396792.0,30.4,95.0,875.9,2323 Race St,19103,2006
+philadelphia,881562500,1700 Chestnut Street,105550.0,60.3,18.0,609.0,1700 Chestnut Street,19103,1950
+philadelphia,881564050,1930 Chestnut,125994.0,80.4,9.0,840.8,1930 Chestnut Street,19103,2003
+philadelphia,881566510,AQ Rittenhouse - CO (qr04),92077.0,48.4,72.0,384.3,2017-23 Chestnut St.,19103,2015
+philadelphia,881566975,2116 Chestnut Apartments,410780.0,49.1,58.0,1342.5,2116 Chestnut Street,19103,2013
+philadelphia,881569810,400 Walnut,91900.0,47.8,25.0,400.8,400 Walnut Street,19103,2002
+philadelphia,882862100,The Shops at Liberty Place,202609.0,129.7,,2492.9,1625 Chestnut St.,19103,1990
+philadelphia,883031500,"1600 MARKET STREET, Site #602760",921746.0,43.0,81.0,3203.5,1600 MARKET ST,19103,1983
+philadelphia,883031676,One Liberty Place,1336425.0,50.3,64.0,6432.1,1650 Market Street,19103,1987
+philadelphia,883032000,1700 Market Street,1099385.0,65.8,75.0,5239.7,1700 Market Street,19103,1968
+philadelphia,883032500,1760 Market,138128.0,58.6,57.0,754.2,1760 Market Street,19103,1980
+philadelphia,883033001,1818 Market St,1196641.0,61.8,75.0,5230.5,1818 Market St Suite 1120,19103,1973
+philadelphia,883034000,1900 Market Street,495425.0,44.7,83.0,1936.8,1900 Market Street,19103,1981
+philadelphia,883034200,Independence Blue Cross,982710.0,61.9,68.0,4156.6,1901 Market Street,19103,1988
+philadelphia,883036500,The Philadelphia Design Building,99556.0,101.9,89.0,939.2,2300 Chestnut Street,19103,1910
+philadelphia,883036600,KlingStubbins,105000.0,28.3,99.0,219.6,2301 Chestnut Street,19103,1920
+philadelphia,883039105,2401 Walnut,163836.0,38.3,87.0,550.7,2401 Walnut Street,19103,1925
+philadelphia,883050000,Hotel Palomar Philadelphia,156650.0,97.7,52.0,1116.6,117 South 17th Street,19103,2009
+philadelphia,883051000,Medical Tower Building,95000.0,70.9,68.0,561.3,255 South 17th Street,19103,1930
+philadelphia,883051500,30 South 17th Street,761162.0,63.1,72.0,4026.9,30 South 17th Street,19103,1975
+philadelphia,883053000,1635 Market,286585.0,84.9,49.0,2065.8,1635 Market,19103,1966
+philadelphia,883053525,"1735 MARKET STREET - OFFICE, Site # 602850",1571144.0,46.8,67.0,6498.4,1735 MARKET ST OFC,19103,1990
+philadelphia,883053530,1701 Market Street,414598.0,83.7,44.0,2327.1,1701 Market Street,19103,1957
+philadelphia,883054000,12589 Ten Penn Center,721408.0,42.5,78.0,2712.0,1801 Market Street,19103,1981
+philadelphia,883054371,One Commerce Square,1122542.0,55.8,76.0,5481.4,2005 Market Street,19103,1987
+philadelphia,883054500,PECO MAIN OFFICE BUILDING,897201.0,76.1,44.0,6244.4,2301 Market Street,19103,1971
+philadelphia,883055500,2 Penn,500000.0,53.4,72.0,2359.3,1500 John F. Kennedy Boulevard,19103,1956
+philadelphia,883056000,Four Penn Center,543134.0,61.5,70.0,885.9,1600 JFK Blvd,19103,1964
+philadelphia,883056100,1800 JFK,248000.0,39.9,82.0,946.0,1800 John F. Kennedy Boulevard,19103,1983
+philadelphia,883056300,1880 JFK,248000.0,41.6,80.0,986.9,1880 John F. Kennedy Boulevard,19103,1983
+philadelphia,883056500,8 Penn,235000.0,83.4,59.0,1597.9,1628 JFK Blvd,19103,1981
+philadelphia,883056605,pen03066 1701 JFK Blvd,1538959.0,61.6,78.0,8518.7,1701 JFK Blvd,19103,2008
+philadelphia,883058000,1650 Arch St,553349.0,73.0,52.0,3428.5,1650 Arch St,19103,1974
+philadelphia,883059004,Three Logan Square,1377698.0,57.5,81.0,6232.9,1717 Arch Street,19103,1990
+philadelphia,883061505,ONE LOGAN SQUARE,1111787.0,42.8,92.0,4141.1,130 NORTH 18TH STREET,19103,1983
+philadelphia,883061805,TWO LOGAN SQUARE,808040.0,55.4,87.0,4287.5,100 NORTH 18TH STREET,19103,1988
+philadelphia,883066000,100 N. 20th Street,89150.0,40.9,87.0,322.5,100 North 20th Street,19103,1981
+philadelphia,883104005,1835 Market Street,751503.0,96.3,61.0,5266.8,1835 Market Street,19103,1986
+philadelphia,883324100,American Red Cross - Humanitarian Services,80679.0,58.2,61.0,366.5,2221 Chestnut St.,19103,1972
+philadelphia,883338000,APF - 1601 Market Street,797218.0,52.8,80.0,3651.8,1601 Market St,19103,1969
+philadelphia,883339500,One Penn Center,710000.0,35.4,91.0,2247.4,1617 John F. Kennedy Blvd,19103,1929
+philadelphia,883421000,Penn Warwick Garage,54000.0,6.0,,31.1,1708 Chancellor Street,19103,1930
+philadelphia,883422500,2027 sansom,118768.0,16.8,,104.1,2027-39 sansom st,19103,1930
+philadelphia,883427750,171-Rittenhouse Hotel,134484.0,76.7,70.0,832.9,210 West Rittenhouse Square,19103,1989
+philadelphia,883429000,2100-06 chestnut,66000.0,,,,2100-06 chestnut,19103,1929
+philadelphia,883700200,Comcast Technology Center,1852615.0,88.3,54.0,13704.7,1800 Arch Street,19103,2018
+philadelphia,883700600,Sonesta - Philadelphia,414000.0,93.8,71.0,1875.5,1800 Market Street,19103,1970
+philadelphia,883700600,Sonesta - Philadelphia,414000.0,96.2,69.0,1912.6,1800 Market Street,19103,1970
+philadelphia,883702700,Rittenhouse Parking Garage,93456.0,6.2,,47.7,2000-04 Walnut Street,19103,1989
+philadelphia,883703600,Sofitel Philadelphia,290966.0,85.1,64.0,1839.3,120 South 17th Street,19103,2000
+philadelphia,883704000,266-WestPhiladelphia,256265.0,61.6,90.0,1286.8,99 S. 17th,19103,2017
+philadelphia,883704900; 883704800,Club Quarters Hotel Philadelphia,264618.0,30.2,100.0,703.6,1628 Chestnut Street,19103,1927
+philadelphia,883707000,AKA Rittenhouse Square,99722.0,52.0,36.0,431.7,135 South 18th Street,19103,1912
+philadelphia,883720300,The Windsor Suites,396981.0,,,,1700 Benjamin Franklin Parkway,19103,1963
+philadelphia,883720500,The Logan Hotel,347903.0,112.6,59.0,2421.2,One Logan Square,19103,1983
+philadelphia,883776650,219-227 S. Broad,184634.0,60.6,50.0,925.7,219 S. Broad Street,19103,2018
+philadelphia,884055850,Walnut Bridge Parking & Storage,156616.0,28.5,,173.7,200 South 24th St,19103,1913
+philadelphia,885876140,1425 Arch Street,90085.0,37.7,77.0,317.8,1425 Arch Street,19103,1909
+philadelphia,886617500,Kate's Place,60000.0,101.7,38.0,449.7,1929 Sansom St,19103,1900
+philadelphia,886930301,John Fox Towers,212742.0,67.1,53.0,1022.8,22 South 22nd Street,19103,1966
+philadelphia,888036058,23 A Condominium,154600.0,10.6,100.0,142.7,23 S 23rd Street,19103,2006
+philadelphia,888049620,Locust Point Condominium Association,118975.0,20.4,100.0,167.7,2429-42 Locust St ,19103,2007
+philadelphia,888070010,Barclay,283000.0,89.8,12.0,1779.1,237 S 18th St.,19103,1929
+philadelphia,888081504,Dorchester Owners Association,437034.0,112.5,7.0,3327.9,226 W. Rittenhouse Square,19103,1963
+philadelphia,888081524,1820 Rittenhouse Square,105600.0,78.9,9.0,590.3,1820 Rittenhouse Square,19103,1900
+philadelphia,888081542,250 South 18th Street,78000.0,36.0,81.0,231.3,250 South 18th Street,19103,1900
+philadelphia,888081620,1900 Rittenhouse Square,140000.0,28.7,96.0,307.7,1900 Rittenhouse Square,19103,1900
+philadelphia,888081773,1830 Rittenhouse Square,114000.0,54.4,41.0,472.3,1830 Rittenhouse Square,19103,1900
+philadelphia,888082686,Council for Two Twenty West Rittenhouse Square,141871.0,111.1,2.0,1070.7,220 W Rittenhouse Square,19103,1957
+philadelphia,888083127,Rittenhouse Savoy Owners Assn,249858.0,19.6,99.0,454.7,1806 Rittenhouse Square,19103,1953
+philadelphia,888083961,Rivers Edge Condominium Association,270000.0,33.0,88.0,672.1,2301 Cherry St,19103,1982
+philadelphia,888084309,2201 Cherry Street,58500.0,32.5,87.0,163.2,2201 Cherry St,19103,1988
+philadelphia,888085258;883702700,(PA2473) - Rittenhouse Condo & Hotel,599412.0,60.6,36.0,2928.1,210 W Rittenhouse Sq,19103,1989
+philadelphia,888086855,250 South 17th Street,56000.0,44.9,57.0,212.0,250 South 17th Street,19103,1900
+philadelphia,888088272,(PA2450) - Belgravia,67493.0,52.4,31.0,309.2,1811 Chestnut Street,19103,1903
+philadelphia,888089352,1706 Rittenhouse Square,156175.0,59.2,19.0,749.3,1706 Rittenhouse Square,19103,2010
+philadelphia,888089772,(PA2632) - One Riverside Condo,203017.0,32.1,77.0,624.0,210 S 25th St,19103,2016
+philadelphia,888090644,Wanamaker House,278926.0,65.9,30.0,1503.5,2020 Walnut Street,19103,1983
+philadelphia,888093017,Parc Rittenhouse Condominium,440018.0,74.3,2.0,2655.5,225 S 18th Street,19103,1928
+philadelphia,888094100,Murano Condominium  ASN,710082.0,60.7,40.0,2893.5,2101 Market St.,19103,2008
+philadelphia,888095900,10 Rittenhouse Square,520715.0,59.0,18.0,2323.3,130 S 18th St.,19103,2009
+philadelphia,888111280,2200 Arch Street,415000.0,40.5,39.0,1161.6,2200 Arch St,19103,1996
+philadelphia,888112500,Riverwest Condominium,337140.0,62.2,50.0,1492.3,2101 Chestnut Street,19103,1957
+philadelphia,,Study Philadelphia Operating LLC,134000.0,54.3,92.0,603.7,20 South 33rd Street,19104,2016
+philadelphia,,3675 Market Street,355250.0,155.2,18.0,4089.5,3675 Market Street,19104,2018
+philadelphia,,Philadelphia,1762546.0,207.1,53.0,20430.1,University and Woodland Avenues,19104,1966
+philadelphia,,University of Pennsylvania,14350000.0,186.9,,188129.2,3101 Walnut Street,19104,1873
+philadelphia,772029000,Stiles Alumni Hall,142903.0,84.5,32.0,1036.3,225 North 15th Street,19104,1972
+philadelphia,"773000800, 773001000, 773003070,  773001500,
+883209520,883081725,773740500, 773740200, 773513200, 773003030, 773003050",The Children's Hospital fo Philadelphia,6353396.0,196.2,,91726.4,34th Street and Civic Center Blvd.,19104,1974
+philadelphia,773009000,Hospital of the University of Pennsylvania,1791804.0,346.1,3.0,48929.0,3400 Spruce St,19104,1913
+philadelphia,773080200,St. Leonard's Court,52306.0,75.8,53.0,319.0,3819 Chestnut Street,19104,1985
+philadelphia,773081005,4025 Chestnut (American Law Institute),75832.0,96.2,49.0,418.1,4023-27 Chestnut St.,19104,1968
+philadelphia,773151500,Penn Alexander,84357.0,75.9,16.0,494.7,4209 SPRUCE ST,19104,2002
+philadelphia,773151500,Divinty School,44143.0,92.3,,251.3,4201 Spruce Street,19104,1921
+philadelphia,773151500,Berkshire,44900.0,90.9,,230.9,4101 Spruce Street,19104,1925
+philadelphia,773542000,3601 Spruce Street,255000.0,285.3,,5957.0,3601 Spruce Street,19104,1894
+philadelphia,773566000,Sansom Common,259330.0,319.8,1.0,5477.0,3600 Walnut Street,19104,1997
+philadelphia,773579000,4015 Walnut Street,63316.0,47.4,,213.1,4015 Walnut Street,19104,1925
+philadelphia,773594600,HMS SCHOOL,80000.0,62.1,,356.5,4400 Baltimore ave,19104,1885
+philadelphia,773620005,CO/GLC 13090/3810 CHESTNUT ST/PHILADELPHIA/PA,75176.0,158.4,,1088.0,3810 CHESTNUT ST,19104,1905
+philadelphia,773685500,Ralston House,71686.0,31.8,,169.9,3615 Chestnut Street,19104,1887
+philadelphia,773687010,3930 Chestnut St.,67084.0,140.6,36.0,672.3,3930 Chestnut St,19104,1966
+philadelphia,773702000,Monell Chemical Senses Center,60000.0,283.0,,1350.6,3500 Market Street,19104,1970
+philadelphia,773717110,Translational Research Lab at University of Pennsylvania,125000.0,33.5,90.0,396.8,125 South 31st Street,19104,1948
+philadelphia,773717120,TRL 31st Street,125000.0,593.8,,6061.1,125 S. 31st Street,19104,2004
+philadelphia,773740100,Center for Advanced Medicine,1951601.0,155.5,49.0,23724.4,3400 Civic Center Blvd,19104,2005
+philadelphia,773740401,3600 Civic Center Garage,546010.0,3.9,,204.6,3600 Civic Center Blvd.,19104,2014
+philadelphia,774001000,Ralston Mercy Douglass,56784.0,83.7,4.0,363.2,3817 MARKET STREET,19104,2000
+philadelphia,774002001,Penn Presbyterian Medical Center,1143882.0,209.0,57.0,16079.1,51 North 39th St,19104,1922
+philadelphia,774513500,81-3201 Arch Street,72670.0,50.9,,326.6,3201-21 Arch Street,19104,1920
+philadelphia,774516000,"1,2,3,4-Main,Randell,Curtis,Alumni",330200.0,111.5,,3126.4,3101 Chestnut Street,19104,1891
+philadelphia,774517051 ; 774517200  ,"8,9B,9A,9C- Creese /MacAlister /Mandell / Handschumacher",217857.0,92.4,,1710.8,3200-60 Chestnut Street,19104,1973
+philadelphia,774518010,"5,6,12,53,58,61-Quad Buildings",596958.0,112.0,,5465.1,3201 Chestnut Street,19104,1898
+philadelphia,774525000,"27,27A-LeBow / CAT Engineering",126910.0,111.5,,1201.6,3100-16 Market Street,19104,1989
+philadelphia,774526000 ; 774525100 ; 885633160 ,"7,7A-Bossone / Commonwealth",161154.0,193.0,,2223.1,3118-38 Market Street,19104,2004
+philadelphia,774528000,13-Nesbitt,81853.0,106.9,,702.3,3201-47 Market Street,19104,1970
+philadelphia,774530510,"14,14A-Daskalakis Athletic Center / Recreation Center",267003.0,99.1,,2112.4,3301 Market Street,19104,1976
+philadelphia,774530700,"15,16,90-Haggerty/General Service/Law",477506.0,71.3,,1594.7,3300-3350 Market Street,19104,1971
+philadelphia,774551000,"55,55A,55B,55C-Academic/DesignAnnex/MathForum/Police Station",117048.0,94.9,,854.7,101 North 33rd Street,19104,1926
+philadelphia,774688100,Monell Center,61589.0,176.7,,900.1,3508 Market Street,19104,1970
+philadelphia,774688600,National Board of Medical Examiners,165000.0,87.1,56.0,1207.9,3750 Market Street,19104,1980
+philadelphia,774688700,71-URBN Center,146918.0,79.9,,1074.7,3501 Market Street,19104,2008
+philadelphia,774737900,Center Post Apartments,80733.0,78.1,49.0,351.2,55 N 40th Street,19104,1940
+philadelphia,783042200,Leidy,67000.0,,,0.0,1301 BELMONT AVE,19104,1963
+philadelphia,783065600,Belmont,87000.0,70.0,32.0,372.2,4030 BROWN ST,19104,1927
+philadelphia,783094601,evo at Cira Centre South - vc68,478494.0,42.3,,1733.7,2930 Chestnut St,19104,2014
+philadelphia,783172380,School of the Future,162211.0,62.2,46.0,752.9,4021 PARKSIDE AVE,19104,2006
+philadelphia,783206951,Locke,77000.0,62.1,67.0,368.7,4550 HAVERFORD AVE,19104,1965
+philadelphia,783364400,Miller,67200.0,93.6,6.0,514.7,4300 WESTMINISTER AVE,19104,1967
+philadelphia,783532000,Medical Exam Building,85000.0,128.2,,1017.3,321 University Ave,19104,1970
+philadelphia,783631400,McMichael,100000.0,54.5,64.0,418.3,3543 FAIRMOUNT AVE,19104,1916
+philadelphia,783691500,Washington Martha,71300.0,89.8,19.0,378.1,766 N 44TH ST,19104,1930
+philadelphia,881108060,Vue32,193994.0,35.1,80.0,592.1,3201 Race Street,19104,2017
+philadelphia,881111120,382 - The Summit at University City,582682.0,62.7,68.0,2784.4,3400 Lancaster Ave,19104,2015
+philadelphia,881111127,The Old Quaker Building,85043.0,35.9,44.0,247.4,3514-30 Lancaster Ave.,19104,1870
+philadelphia,881111200,Link University City,147135.0,25.5,99.0,356.9,3600 Lancaster Ave,19104,2019
+philadelphia,881111200,Link University City,147135.0,25.5,99.0,356.9,3600 Lancaster Ave,19104,2019
+philadelphia,881115750,385 - University Crossings,489553.0,37.6,95.0,1697.0,3175 JFK Boulevard,19104,1926
+philadelphia,881115950; 881115975; 774517051,381 - Chestnut Square,368221.0,48.7,93.0,1441.3,3200 Chestnut Square,19104,2013
+philadelphia,881116111,DOMUS,430880.0,36.0,93.0,1404.6,3401 L Chestnut St,19104,2008
+philadelphia,881116125,3737 Chestnut,521869.0,29.9,86.0,1307.3,3737 Chestnut Street,19104,2015
+philadelphia,881117050,Wallingford Apts.,11620.0,15.1,,10.1,20 S. 39th St.,19104,1920
+philadelphia,881117100,Astor,19736.0,17.5,,20.8,123 S. 39th St,19104,1920
+philadelphia,881117500,Chestnut Hall (ch84),268381.0,95.7,10.0,1809.8,3900 Chestnut St.,19104,1923
+philadelphia,881117800,Chestnut Arms,43776.0,83.7,,203.6,4039 Chestnut St.,19104,1920
+philadelphia,881121500,Fairfax Apartments Association,42485.0,339.8,,897.8,4231-41 Locust Street ,19104,1927
+philadelphia,881121600,Surrey Hall,33600.0,90.5,,166.5,329 S. 42nd St.,19104,1920
+philadelphia,881122800,Webster Manor,22916.0,148.0,,186.2,4224 Osage Ave,19104,1920
+philadelphia,881437000,CSE Centennial Village,75972.0,106.1,29.0,642.2,4400 West Girard Ave,19104,1978
+philadelphia,881442752,4210-16 Chestnut Street,8940.0,,,0.0,4210-16 Chestnut Street,19104,2019
+philadelphia,881445700,4401 Haverford Avenue,93877.0,122.5,56.0,787.9,4401 Haverford Avenue,19104,1971
+philadelphia,881600113,40th Street Promenade,88949.0,67.3,,547.1,3943-45 Chestnut Street,19104,2006
+philadelphia,881601401,The Axis,65380.0,100.5,41.0,488.2,20 S. 36th Street,19104,1900
+philadelphia,881812305,Mantua Presbyterian Apartments,71357.0,59.6,50.0,269.6,600-18 N. 34th Street,19104,2008
+philadelphia,881822470,Left Bank (th111),672682.0,34.4,,1937.7,3131 Walnut St,19104,1999
+philadelphia,881822850 ; 774554000,"20,22-Calhoun & Towers Hall",217153.0,54.0,,1081.5,101 N 34th Street,19104,1972
+philadelphia,881822860 ; 774566000,17-Van Rensselaer,76594.0,94.6,40.0,566.7,229 N 34TH ST (3320 Powelton),19104,1931
+philadelphia,881822870 ; 774588100,19-Kelly Hall,91520.0,103.7,42.0,735.5,201 North 34th Street,19104,1967
+philadelphia,881822880 ; 774635000,26-Caneris Hall,110143.0,64.4,65.0,552.8,105-25 North 32nd Street,19104,2000
+philadelphia,881822890 ; 774546010,24-North Hall,167102.0,40.2,81.0,591.3,3200 Race Street,19104,1998
+philadelphia,881822890 ; 774552000,21-Myers Hall,93567.0,46.9,68.0,399.6,202-14 N 33RD ST,19104,1977
+philadelphia,881822900 ; 774547005,29-Race Hall,135389.0,64.0,47.0,746.9,3300 Race Street,19104,2006
+philadelphia,881822910 ; 774565000,31-Millenium Hall,104653.0,59.4,58.0,523.1,223 North 34th Street,19104,2009
+philadelphia,882937900,Hamilton Village,82452.0,68.4,,533.8,220 S. 40th Street,19104,1974
+philadelphia,883062400,CIRA CENTRE,788093.1,59.3,82.0,4474.5,2929 ARCH STREET,19104,2005
+philadelphia,883063100,2970 Market Street,60000.0,310.7,1.0,1784.0,2970 Market Street,19104,1895
+philadelphia,883063100,Cira Square (T165) (JV),1481088.0,70.4,82.0,5414.9,2970 Market Street,19104,1934
+philadelphia,883063410,FMC Tower at Cira Centre South,1041889.0,70.6,52.0,6342.7,2929 Walnut St.,19104,2016
+philadelphia,883071700,3020 MARKET,269854.0,177.4,39.0,3190.7,3020 MARKET STREET,19104,1959
+philadelphia,883071800; 885501140,The Bulletin Building,648371.0,64.2,70.0,3045.4,3001-3101R Market Street,19104,1956
+philadelphia,883072000,3401 Market St.,90817.0,99.6,15.0,770.6,3401 Market St.,19104,1930
+philadelphia,883073000,3535 Market,503408.0,38.3,94.0,1728.7,3535 Market Street,19104,1973
+philadelphia,883073300,3701 Market St.,140913.0,213.3,1.0,2876.4,3701 Market St.,19104,2000
+philadelphia,"883073610; 883073620; 883073630; 883073640; 883073650; 883073660;
+883073670; 883073680",3711 Market St.,155715.0,119.5,18.0,1647.8,3711 Market St,19104,2008
+philadelphia,883073690,3737 Market Street,357847.0,103.0,68.0,3007.2,3737 Market Street,19104,2014
+philadelphia,883073700,30 N 41st Street Philadelphia PA (2.0 University Place),108000.0,72.8,59.0,615.8,30 N 41st Street,19104,2013
+philadelphia,883076510,3440 Market St,117848.0,74.0,42.0,1797.1,3440 Market St,19104,1981
+philadelphia,"883076615; 883076635; 883076640; 883076675; 883076680; 883076685;
+883076690; 883076695; 883076700; 883076620; 883076625; 883076630;
+883076600; 883076645; 883076650; 883076605; 883076610",3600 Market St,189262.0,60.9,,1060.7,3600 Market St.,19104,1930
+philadelphia,883080550,4100 Chester / 4101 Woodland Avenue,55847.0,46.0,,218.1,4116-18 Chester Avenue,19104,1920
+philadelphia,883209520,3550 Market,96038.0,83.3,45.0,531.6,3550 Market Street,19104,1989
+philadelphia,883730000,Sheraton University City Hotel,252880.0,70.6,80.0,1131.9,3501 Chestnut Street,19104,1976
+philadelphia,883733000,169-HWSUniversityCity,110000.0,70.5,64.0,644.2,4109 Walnut Street,19104,2010
+philadelphia,884220000,Devon/Belmont LLC,150000.0,33.2,,389.4,1300 Belmont Ave.,19104,1950
+philadelphia,886506750,University Park Associate,325020.0,93.1,,2083.9,3901 Market Street,19104,1978
+philadelphia,771004000,Hall Mercer at PAH,70902.0,102.7,60.0,596.6,251 south 8th st,19106,1980
+philadelphia,771033000,700 Duncan Building,184383.0,109.4,,865.8,700 Duncan Building,19106,1979
+philadelphia,771523010;771751700,American College of Physicians Headquarters,322610.0,56.2,79.0,1269.3,190 N. Independence Mall West,19106,1998
+philadelphia,771613100,NMAJH,102000.0,164.5,,1254.1,101 S Independence Mall East,19106,2010
+philadelphia,771702500,Old City Presbyterian Apartments,58000.0,78.9,25.0,313.7,25 North 4th Street,19106,1970
+philadelphia,771735505,Science History Institute,115000.0,97.7,,822.5,315 Chestnut Street,19106,1953
+philadelphia,771737000,National Liberty Museum,84410.0,21.2,,132.8,321 Chestnut Street,19106,1905
+philadelphia,771738600,"WHYY, INC",83813.0,76.0,,568.0,170 N Independence Mall W,19106,1980
+philadelphia,781004550,African American Museum,32100.0,87.8,,209.3,700 Arch St,19106,1976
+philadelphia,781379300,Police Administration Building,126000.0,168.1,7.0,1865.1,750 Race Street,19106,1956
+philadelphia,781518600,McCall,68076.0,60.0,56.0,249.4,325 SOUTH 7TH ST,19106,1909
+philadelphia,881000437,Berger Building,72300.0,,,,229 Arch Street,19106,1874
+philadelphia,881003335,Mercantile Building,58000.0,23.9,87.0,129.2,20 North Front Street,19106,1831
+philadelphia,881006050,Pottery,51005.0,,,,105 N 2nd Street,19106,1940
+philadelphia,881006201,The Chocolate Works,109374.0,47.6,40.0,498.7,231 N Third Street,19106,1911
+philadelphia,881007100,Bridge on Race -CO (bg75),163749.0,49.2,50.0,635.2,205 Race Street,19106,2017
+philadelphia,8811006319,Boekel,58928.0,73.8,1.0,377.5,509 Vine St,19106,1952
+philadelphia,883002510,Curtis Center,1102992.0,62.2,65.0,4645.8,170 S Independence W ML,19106,1910
+philadelphia,883006500,One Washington Square,1108655.0,54.1,77.0,4780.6,510 Walnut Street,19106,1932
+philadelphia,883009505,03-1-Philadelphia Head Office,919707.0,123.9,33.0,7236.8,10 Independence Mall,19106,1976
+philadelphia,883009530,Cast Iron Building,124000.0,35.6,92.0,379.6,718 Arch Street,19106,1881
+philadelphia,883009700,Hotel Monaco Philadelphia,194128.0,93.4,45.0,1336.7,433 Chestnut Street,19106,2012
+philadelphia,883010310,One Independence Mall,446086.0,38.0,90.0,1545.0,615 Chestnut Street,19106,1981
+philadelphia,883011500,WTXF TV,84596.0,201.6,,1388.7,330 Market Street,19106,1971
+philadelphia,883012000,400 Market,201828.0,63.6,69.0,959.6,400 Market St.,19106,1971
+philadelphia,883013010,100 Independence- DOW Building,466088.0,67.2,55.0,2297.5,100 S Independence Mall West,19106,1965
+philadelphia,883014000,Colonial Penn Life Insurance,153376.0,72.3,,744.0,399 Market Street,19106,1974
+philadelphia,883014510,140399_Plaza,516562.2,170.6,27.0,6539.9,101 North Independence Mall E,19106,1972
+philadelphia,883101010,Bourse Building,413228.0,42.7,,1382.5,111 S. Independence Mall East,19106,1895
+philadelphia,883249500,The Lits Building,880000.0,53.0,71.0,4219.6,701 Market Street,19106,1986
+philadelphia,883300400,CHUBB Philadelphia,350577.0,51.1,86.0,1437.7,436 Walnut Street,19106,1925
+philadelphia,883400500,Walnut Towers,443793.0,156.6,11.0,3207.4,834 Walnut St,19106,1987
+philadelphia,883400500,Walnut Towers,443793.0,156.6,11.0,3207.4,834 Walnut St,19106,1987
+philadelphia,883409600,Bourse Garage,172322.0,7.2,,115.8,400 Ranstead St.,19106,1989
+philadelphia,883710005,Marriott Old City,285000.0,77.6,61.0,1629.0,One Dock Street,19106,1985
+philadelphia,883710500,Holiday Inn Express Penns Landing,87000.0,47.7,83.0,325.4,100 North Columbus Blvd.,19106,1986
+philadelphia,883710700,Hilton Pennslanding Philadelphia,607800.0,64.8,94.0,2578.0,201 S Columbus Blvd,19106,1999
+philadelphia,883711500,Renaissance Philadelphia,144500.0,71.8,38.0,828.1,401 Chestnut Street,19106,1989
+philadelphia,884018803,(PA2420) - Pier 3 Condominiums,343800.0,41.6,17.0,1175.1,3 North Columbus Blvd,19106,1923
+philadelphia,888035586,227-31 South 6th Street,61845.0,35.2,75.0,187.8,227-31 South 6th Street,19106,1900
+philadelphia,888036248,(PA2407) - Old City 108 Condominiums,66000.0,44.6,65.0,251.2,108 Arch St.,19106,2004
+philadelphia,888037050,(PA2414) - Metroclub Condominiums,167542.0,48.4,82.0,727.9,201 N 8th St,19106,2005
+philadelphia,888037672,421 Chestnut Street,54000.0,69.0,,307.1,421 Chestnut Street,19106,1857
+philadelphia,888051083,Hopkinson House,930000.0,33.6,100.0,1919.3,604 S Washington Square,19106,1963
+philadelphia,888051126,Independence Place Owners Association,663502.0,39.8,46.0,2527.2,241 S. 6th St.,19106,1981
+philadelphia,888056200,The WireWorks Historic Condominiums,68815.0,40.8,70.0,268.5,301 Race Street,19106,1899
+philadelphia,888056500,Bridgeview Place,170000.0,49.7,59.0,630.7,315 New St.,19106,1990
+philadelphia,888058116,National at Old City Condominiums,81616.0,37.1,95.0,250.0,113 N. Bread St. ,19106,2006
+philadelphia,888059176,(PA2418) - Ayer Condominium,107879.0,124.1,1.0,1037.3,210 W. Washington Square,19106,1929
+philadelphia,888060400,(PA2449) - Pier 5 COA,223950.0,28.5,80.0,560.1,7 N. Columbus Blvd,19106,1985
+philadelphia,888110000,York Square Condominium Association,108000.0,32.7,94.0,274.3,319 Vine Street,19106,2005
+philadelphia,771005500,Farm Journal,102855.0,186.7,30.0,1398.3,230 S. 7th St,19107,1910
+philadelphia,771006900,JHN Building,329142.0,253.6,59.0,4852.4,900 WALNUT STREET,19107,1980
+philadelphia,771016000,Hamilton Building,271786.0,94.4,67.0,1145.7,1001 Locust Street,19107,2007
+philadelphia,771017500,901 Walnut Street Building,85000.0,114.6,47.0,758.8,901 Walnut Street,19107,2010
+philadelphia,771035000  771005200,Parking Deck 1,220890.0,4.7,,100.4,317 south 8th st,19107,1963
+philadelphia,771524000,PODIATRIC - UNIVERSITY,146805.0,83.7,,1047.6,800 RACE STREET,19107,2000
+philadelphia,771618000,CO/GLC 16200/900 RACE ST/PHILADELPHIA/PA,488657.0,146.0,,6696.7,900 RACE ST,19107,1905
+philadelphia,771695000,Nevil Building,135825.0,60.8,70.0,681.3,919 Walnut Street,19107,1906
+philadelphia,771717000,"On Lok House, Inc.",51360.0,32.0,82.0,157.2,209-19 N. 10th Street,19107,1984
+philadelphia,771739000,Historical Society of Pennsylvania,71316.0,88.5,,494.8,1300 Locust Street,19107,1910
+philadelphia,772505410,Terra Hall,273901.0,82.3,,1819.2,201-11 South Broad Street,19107,1911
+philadelphia,772508050,Spruce Residence Hall,79412.0,47.2,,317.7,1224-34 Spruce Street,19107,1922
+philadelphia,772508070,Juniper Residence Hall,79233.0,43.0,76.0,300.8,311 South Juniper Street,19107,1923
+philadelphia,781005600,Exhibit Hall && Train Shed Bldg,1100000.0,56.6,,4837.0,1101 Arch Street,19107,1993
+philadelphia,781020810,PA Convention Center Annex,900000.0,39.0,,2884.2,111 N. Broad Street,19107,2011
+philadelphia,781092450,Criminal Justice Center (CJC),600000.0,89.5,37.0,4553.0,1301 Filbert Street,19107,1994
+philadelphia,881006372,Crane Chinatown,159485.0,33.8,92.0,462.3,1001 Vine Street,19107,2019
+philadelphia,881008225,American Postal Workers House,217980.0,37.2,53.0,769.4,801 Locust Street,19107,1979
+philadelphia,881008230,Saint George Senior Housing Corp,48000.0,141.7,6.0,486.4,850 Locust Street,19107,1973
+philadelphia,881008255,Orlowitz Building,206891.0,39.2,93.0,618.6,"1000 Walnut St, ",19107,1967
+philadelphia,881009435,Cosmopolitan Apartments,205200.0,37.1,73.0,622.8,205-27 S 12th Street,19107,1986
+philadelphia,881011115,1213 Walnut,300000.0,46.3,68.0,1161.0,1213 Walnut Street,19107,2017
+philadelphia,881014605,1011 Race St,50100.0,16.4,100.0,68.6,1011 Race St,19107,1980
+philadelphia,881015000,Chancellor Apartments,128337.0,77.0,79.0,630.9,206 S. 13th Street,19107,1920
+philadelphia,881519420,The Wolf Building,165000.0,18.5,100.0,283.0,330-48 N 12th Street,19107,1920
+philadelphia,881519440,Goldtex,140363.0,65.6,6.0,880.8,315-23 N. 12th Street,19107,2014
+philadelphia,"882018800, 881012001, 883401800",1102 Market,355718.0,72.5,20.0,1670.2,1100 Market Street,19107,2017
+philadelphia,"882018810, 881012002",1150 Market,214097.0,126.5,1.0,1953.9,1199 Ludlow St,19107,2018
+philadelphia,882497400,"Treeco Manor, LP",81423.0,56.4,,389.1,1330-1336 Chestnut Street,19107,1930
+philadelphia,882901100,Meritis Group LLC,60000.0,216.0,,745.0,"1209 Vine Street, Philadelphia",19107,1908
+philadelphia,883009600,801 Arch Street,195018.0,52.3,71.0,973.2,801 Arch Street,19107,1975
+philadelphia,883010900,125 S. 9th (Sheridan Building),98866.0,48.4,72.0,446.9,125 S. 9th St.,19107,1916
+philadelphia,883016200,"211 N. 13th Street Associates, LP",83059.0,58.5,27.0,384.2,211 N. 13th Street,19107,1920
+philadelphia,883017900,34 S. 11th,228110.0,44.8,76.0,959.2,34 S. 11th St.,19107,2017
+philadelphia,883021000,Goldman Properties - 1315 Walnut Street,246310.0,45.1,76.0,1026.3,1315 Walnut Street,19107,1923
+philadelphia,883024500,121 S. Broad,143776.0,64.2,45.0,883.6,121 S. Broad St.,19107,1900
+philadelphia,883026005,215 S. Broad,50456.0,80.7,29.0,359.9,215 S. Broad St.,19107,1930
+philadelphia,883102000,301 Duncan,43739.0,45.0,80.0,188.2,301 South 8th st alt 716-30 Spruce,19107,1959
+philadelphia,883308700,Jefferson Center,759072.0,60.3,80.0,3635.8,1101 Market Street,19107,1984
+philadelphia,883309000,SEPTA Headquarters,801840.0,27657.2,1.0,1313508.0,1234 Market Street,19107,1973
+philadelphia,883311000,1207 Chestnut,51676.0,69.3,48.0,313.5,1207-09 Chestnut Street,19107,1925
+philadelphia,883311500,1211 Chestnut,100572.0,59.7,67.0,508.2,1211 Chestnut St.,19107,1919
+philadelphia,883312000,The Widener Building,539110.0,62.8,49.0,2528.9,1327-39 Chestnut Street,19107,1914
+philadelphia,883313700,925 Chestnut Street,262308.0,83.8,76.0,1851.2,925 Chestnut Street,19107,1931
+philadelphia,883318500,One South Broad,517975.0,61.1,44.0,2770.9,1 South Broad Street,19107,1932
+philadelphia,883401700,Urban Growth Property,220000.0,8.7,,182.6,107 South 10th Street,19107,2005
+philadelphia,883402000,923 Walnut Street Garage,54575.0,7.1,,37.1,923 Walnut,19107,1960
+philadelphia,883402500,UGP Juniper/Locust LLC,100000.0,5.5,,52.9,1327 Locust St,19107,1950
+philadelphia,883430000,Stephen Pang,108108.0,26.7,,203.5,1030-38 Race Street,19107,1985
+philadelphia,883430501,Parametric Garage Associates,301036.0,10.9,,305.0,1027 Filbert Street,19107,1983
+philadelphia,883430501,Parametric Garage Associates,301036.0,10.9,,305.0,1027 Filbert Street,19107,1983
+philadelphia,883430700,12th and Filbert,316013.0,5397.9,,113530.5,1201 Filbert Street,19107,2002
+philadelphia,883700000,Holiday Inn Express Midtown,110000.0,52.1,68.0,486.7,1305 Walnut Street,19107,1964
+philadelphia,883702001,Doubletree Hotel,565764.0,42.8,96.0,2059.9,233 South Broad Street,19107,1983
+philadelphia,883704500,33703-Philadelphia,1294004.0,91.2,71.0,8548.4,1201 Market Street,19107,1995
+philadelphia,883704600,57164- Residence Inn Philadelphia - Center City,243058.0,94.3,32.0,1934.3,One East Penn Square,19107,1990
+philadelphia,883704700,The Notary Hotel - 27109,440000.0,71.9,85.0,2497.6,21 Juniper St. @ Filbert St.,19107,1999
+philadelphia,883704760,097-HXPhiladelphia,159885.0,41.3,95.0,561.7,1301 Race Street,19107,2001
+philadelphia,883704850,Aloft Philadelphia Downtown,101386.0,71.1,60.0,641.2,101 N Broad st,19107,1926
+philadelphia,883741600,3132B-Courtyard Philadelphia South,107000.0,73.2,73.0,594.1,1001 Intrepid Ave,19107,2014
+philadelphia,884033000,U-Haul Moving and Storage of Philadelphia (808042),97540.0,41.6,,326.9,31422 N 13th ST,19107,1910
+philadelphia,886617600,Francis House of Peace,55000.0,81.6,37.0,345.2,810 Arch St ,19107,2015
+philadelphia,886717500,Connelly House,60000.0,80.7,46.0,115.4,1212 Ludlow St,19107,2010
+philadelphia,886806500,John C. Anderson Apartments,62925.0,31.6,88.0,172.4,249-57 S. 13th Street,19107,2013
+philadelphia,886810726,Washington Square West (wh84),103673.0,38.7,86.0,319.6,220 S 11th Street,19107,1982
+philadelphia,888030546,1027 Arch Street Lofts in the Pitcairn Building,106100.0,38.6,58.0,373.7,1027 Arch Street,19107,2001
+philadelphia,888038054,Arch Street Exchange Condominium,60640.0,20.5,100.0,115.8,1230 Arch Street,19107,1912
+philadelphia,888038512,The White Building,53591.0,76.2,,369.2,105 S. 12th St. ,19107,1900
+philadelphia,888050493,Center City One,288000.0,49.2,79.0,903.9,1326 Spruce St,19107,1976
+philadelphia,888052314,Strickland Condos,79733.0,75.9,38.0,411.9,1014 Spruce St,19107,1815
+philadelphia,888053901,The Franklin Residences,478920.0,84.8,10.0,3289.8,834 Chestnut Street,19107,1925
+philadelphia,888071554,(PA2492) - Bentwood Condos,58620.0,74.2,50.0,340.2,1010 Race Street,19107,1916
+philadelphia,888071998,1100 Vine Street,248832.0,39.6,70.0,842.5,1100 Vine Street,19107,1900
+philadelphia,888072274,Lenox Condominiums,79923.0,49.0,84.0,288.7,250 S. 13th Street,19107,1920
+philadelphia,888110586,Victory Building,98656.0,69.8,,592.8,1001-13 CHESTNUT ST,19107,1891
+philadelphia,888112952,(PA2422) - The Pearl,160920.0,23.7,93.0,365.6,111 N 9th Street,19107,2007
+philadelphia,888115201,(PA2345) - Arts Condominium,232000.0,88.2,57.0,1335.3,1324 Locust Street,19107,1922
+philadelphia,778024500,Jeanes Hospital,551473.0,399.2,,14716.8,7600 Central Avenue,19111,1926
+philadelphia,778030510,Philadelphia,39600.0,304.0,1.0,889.2,6129 Palmetto St,19111,2000
+philadelphia,778531800,Tacony Academy Charter School,76500.0,44.8,99.0,124.9,1330 Rhawn Street,19111,1978
+philadelphia,778655005,CO/GLC 17120/7254 RISING SUN AVE/PHILADELPHIA/PA,55539.0,192.6,,992.7,7254 RISING SUN AVE,19111,1905
+philadelphia,778788965,Gloria Dei Estates,122728.0,57.5,54.0,576.5,1304 Rhawn,19111,1998
+philadelphia,786082200,Northeast,310296.0,76.9,53.0,1422.7,1601 COTTMAN AVE,19111,1957
+philadelphia,786082400,Wilson W,139500.0,19.0,97.0,198.8,1800 COTTMAN AVE,19111,1928
+philadelphia,786264650,Fels HS,249787.0,94.6,7.0,1880.2,1001 DEVEREUX AVE,19111,2009
+philadelphia,786455000,Fox Chase,52500.0,50.3,53.0,209.9,700 RHAWN ST,19111,1949
+philadelphia,786517600,Carnell,74885.0,3972.4,1.0,22074.7,1100 DEVEREAUX AVE,19111,1931
+philadelphia,786543400,Moore,67701.0,50.6,62.0,214.0,6900 Summerdale Ave,19111,1980
+philadelphia,881130500,Regency Park Apartments,298995.0,43.0,43.0,1066.9,800 Cottman Avenue,19111,1975
+philadelphia,881159500,Duffield House Apartments,306629.0,88.1,32.0,1525.4,3701 Conshohocken Avenue,19111,1964
+philadelphia,881168000,Algon Flats,83475.0,53.3,75.0,335.1,7810-20 Algon Ave,19111,1963
+philadelphia,881169000,7801 Algon,61876.0,82.3,27.0,313.0,7801 Algon Avenue,19111,1966
+philadelphia,881224350,Cedar Views Apartments,130300.0,11.8,100.0,77.6,300 Ernest Way,19111,2006
+philadelphia,881449400,The Philadelphia Protestant Home,647165.0,51.4,69.0,2292.0,6401 Martins Mill Road,19111,1965
+philadelphia,882172500,Sloane Toyota,231000.0,87.8,,351.1,1546 Cottman Ave,19111,1989
+philadelphia,882842425,Shop Rite Oxford Ave.,63342.0,252.9,27.0,1289.1,6301 Oxford Ave,19111,1996
+philadelphia,883812500,5 Crescent Drive,207000.0,41.2,82.0,791.7,5 Crescent Drive,19111,2013
+philadelphia,884220900,23216-Philadelphia / Oxford AVE,103528.0,3.6,,35.4,6225 Oxford Ave,19111,2000
+philadelphia,884220920,0981-Philadelphia - Oxford Ave.,62835.0,8.2,,49.6,6204 Oxford Ave,19111,2009
+philadelphia,,Barringer Building,140000.0,41.4,90.0,440.3,950 Walnut Street,19114,1976
+philadelphia,778017000,Torresdale Hospital,943136.0,252.5,67.0,9772.4,10800 Knights Road,19114,1970
+philadelphia,778113000,Christ the King,100012.0,26.7,99.0,160.1,3252 Chesterfield Rd.,19114,1963
+philadelphia,778501500,Nazareth Academy High School,88320.0,48.3,88.0,267.9,4001 Grant Avenue,19114,1920
+philadelphia,786002100,Holme,73000.0,54.3,41.0,273.7,9120 ACADEMY RD,19114,1950
+philadelphia,786332800,Hancock,66000.0,39.5,77.0,193.0,3700 MORRELL AVE,19114,1967
+philadelphia,786441600,Swenson CTE,171922.0,85.6,16.0,1096.0,2750 RED LION RD,19114,1976
+philadelphia,881189000,2555 Welsh Road - Atrium Apartments,148000.0,46.5,74.0,479.0,2555 Welsh Road,19114,1963
+philadelphia,881191500,Welshwood Apartments,208761.0,70.9,45.0,948.4,2661-2669 Willits Rd.,19114,1967
+philadelphia,881193500,Victoria Woods,256300.0,57.4,47.0,1108.0,9601 Ashton Rd.,19114,1971
+philadelphia,881233101,Beacon Pointe Apartments,138166.0,27.3,100.0,222.0,9503 State Road,19114,1980
+philadelphia,881233520,9951 Academy Road,133143.0,70.1,56.0,605.3,9951 Academy Road,19114,1960
+philadelphia,882069202,9490 BLUE GRASS ROAD LLC,100000.0,81.0,43.0,589.9,2500 Grant ave unit 1,19114,1950
+philadelphia,882069750,Giant Supermarket Grant Ave,74100.0,185.9,61.0,1130.1,2550 Grant Ave,19114,2011
+philadelphia,882093500,Northeast Shopping Center-Burlington Coat Factory,335033.0,31.7,,1007.9,9173-75 E Roosevelt Boulevard,19114,1961
+philadelphia,882097600,Acme at Academy Plaza,50918.0,231.6,48.0,954.0,3200 Red Lion Rd,19114,1981
+philadelphia,882131610,9125 Marshall Street,86775.0,111.1,,650.1,9125 Marshall Street,19114,1981
+philadelphia,882242000,Walmart Store #5130,141985.0,80.4,73.0,935.6,9745 Roosevelt Blvd.,19114,2004
+philadelphia,883088901,MRA Realty,208776.0,20.4,100.0,119.1,9501 Roosevelt Blvd,19114,1989
+philadelphia,883760000,Four Points Hotel/Richfield Hosipitality,270000.0,46.3,97.0,676.2,9461 Roosevelt Blvd,19114,1973
+philadelphia,884223000,24232-Philadelphia / Grant Avenue,111150.0,1.2,,13.3,2700 Grant Avenue,19114,2000
+philadelphia,884224004,"Muller, Inc.",214815.0,28.6,35.0,553.1,2800 Grant Ave.,19114,1984
+philadelphia,884224530,ASIAN WORLD OF MARTIAL ARTS,70000.0,21.0,72.0,117.7,9400 ASHTON RD,19114,2006
+philadelphia,884226000,Santay Realty of Bluegrass LLC,360000.0,15.3,87.0,359.2,9401 Blue Grass Road ,19114,1965
+philadelphia,884226510,Nora Lau,296169.0,34.2,45.0,698.2,9250 Ashton Rd,19114,1966
+philadelphia,884259100,"Measy Clyde & Etal, Paul Shcaly",139425.0,25.0,,304.4,9119 Frankford Ave,19114,1951
+philadelphia,884274000,"KRG Enterprises, Inc.",336000.0,36.4,,561.4,9901 Blue Grass Road,19114,1965
+philadelphia,884286000,2501 Grant Ave,121200.0,8.8,93.0,84.9,2501 Grant Ave,19114,1960
+philadelphia,884286500,2801 Grant Avenue,61240.0,30.8,91.0,148.2,2801 Grant Avenue,19114,1950
+philadelphia,884287005,2901 Grant Ave,63960.0,26.0,,136.1,2901 Grant Ave,19114,1965
+philadelphia,884287010,2951 Grant Avenue,364867.0,28.1,66.0,740.2,2951 Grant Avenue,19114,1968
+philadelphia,884288000,"Quaker Valley Foods, Inc.",250000.0,159.9,,3826.2,2701 Red Lion Road,19114,1974
+philadelphia,884288400,Marshalls Philadelphia DC,1436000.0,61.6,8.0,4705.8,2760 Red Lion Rd,19114,2000
+philadelphia,884288600,2801 RED LION ROAD,180271.0,39.5,37.0,484.5,2801 Red Lion Road,19114,1969
+philadelphia,884289001,3031 Red Lion Rd,91828.0,88.0,20.0,750.4,3031 Red Lion Rd,19114,1971
+philadelphia,778025205,Center One,127485.0,91.8,,677.4,9880 Bustleton Ave,19115,1980
+philadelphia,778038005,Paul's Run,331053.0,1270.5,1.0,21283.7,9896 Bustleton ave,19115,1981
+philadelphia,778653010,CO/GLC 17012/2210 LOTT ST/PHILADELPHIA/PA,52043.0,163.2,,812.8,2210 LOTT ST,19115,1905
+philadelphia,778799005; 778799020,Robert Saligman Apts_Saligman North fka Holiday House,247661.0,56.4,63.0,913.9,8900 Roosevelt Blvd,19115,1978
+philadelphia,786010200,Greenberg,90000.0,44.2,86.0,314.4,600 SHARON LANE,19115,1965
+philadelphia,786309400,Frank,74500.0,55.5,74.0,258.2,2000 BOWLER ST,19115,1961
+philadelphia,786546800,Baldi,185113.0,76.7,26.0,1160.3,8801 VERREE RD,19115,1974
+philadelphia,881177000,2101 Winchester Ave,70308.0,38.9,97.0,177.0,2101 Winchester Ave,19115,1960
+philadelphia,881435100,Oakwood Healthcare,75080.0,111.5,53.0,626.9,2109 Red Lion Road,19115,1967
+philadelphia,881435400,Genesis Chapel Manor Nursing & Rehabilitation,83838.0,104.1,67.0,639.9,1104 Welsh Rd,19115,1951
+philadelphia,881449000,Allegheny Valley School,60000.0,107.5,,442.1,9990 Verree Rd,19115,1970
+philadelphia,882069300,Northeast Racquet Club - NERC,117000.0,49.5,,454.7,1520 Grant Avenue,19115,1973
+philadelphia,882070230,Red Lion Shopping Center,1044206.0,19.1,,418.4,9898 Roosevelt Blvd.,19115,1962
+philadelphia,882174600,Sloane Honda,283546.0,102.2,,478.6,9903 Bustleton Avenue,19115,1957
+philadelphia,882875620,"07747- Philadelphia, PA",72048.0,214.2,72.0,1190.9,920 Red Lion Road,19115,1997
+philadelphia,883379260,AMHFCU- Carriage House,113948.0,,,0.0,2068 Red lion Road,19115,2003
+philadelphia,883379260,BJ's Wholesale Club 022,114710.0,,,,2054 Red Lion Road,19115,1987
+philadelphia,884227301,0774-Philadelphia - Grant Avenue,72755.0,6.7,,46.5,1553 Grant Avenue,19115,2009
+philadelphia,884266000,Auroras Encore LLC,78500.0,32.5,91.0,244.4,9815 E Roosevelt Blvd,19115,1971
+philadelphia,778253500,Calvary Chapel of Phila.,144000.0,42.2,43.0,581.0,13500 Philmont Av.,19116,1956
+philadelphia,778299100,Philadelphia Academy Charter High School,83007.0,39.0,86.0,235.4,1700 Tomlinson Rd.,19116,2004
+philadelphia,778495000,Finishing Trades Institute,98000.0,22.9,,126.5,2190 Hornig Rd,19116,1988
+philadelphia,778495000,Finishing Trades Institute,107000.0,,,,2190 Hornig Road,19116,1988
+philadelphia,778500305,Mast Charter School,225417.0,58.9,39.0,761.0,1800 Byberry Rd,19116,2001
+philadelphia,778728000; 778729000,Ephraim Goldstein Apartments aka Shalom/Arbor,251937.0,52.8,65.0,889.4,12003 Bustleton Avenue,19116,1980
+philadelphia,778770500,Rieder House aka Center Park House,77821.0,60.4,80.0,245.4,10102 Jamison Avenue,19116,1989
+philadelphia,786056200,Washington HS,346000.0,41.4,88.0,881.6,10175 BUSTLETON AVE,19116,1962
+philadelphia,786056400,Loesche,88000.0,45.3,76.0,248.4,595 TOMLINSON RD,19116,1967
+philadelphia,786057000,Comly,70200.0,65.6,28.0,279.5,1001 BYBERRY RD,19116,1928
+philadelphia,88-4-232400,ROOSEVELT BOULEVARD ASSOC.,207000.0,22.6,,319.9,1771 TOMLINSON ROAD,19116,1970
+philadelphia,88-4-242700,ROOSEVELT BOULEVARD ASSOC.,298627.0,16.2,,344.1,11500 E. ROOSEVELT BLVD.,19116,1956
+philadelphia,881201620,FOP Senior Citizens Inc.,80440.0,97.4,36.0,411.8,730 Byberry Road,19116,1971
+philadelphia,881202510,Lion's Gate Apartments (Red Lion Manor),82608.0,74.1,50.0,414.0,10101 Northeast Ave,19116,1965
+philadelphia,881206510,13109-51 Bustleton Ave,179718.0,19.6,100.0,223.0,13109-51 Bustleton Ave,19116,1974
+philadelphia,881448800,St John Neumann,84000.0,158.9,60.0,719.1,10400 E Roosevelt Blvd,19116,1973
+philadelphia,882070800,PHILADELPHIA NE (1809),446882.0,65.5,80.0,779.3,11000 ROOSEVELT BLVD STE 3,19116,2003
+philadelphia,882095030,6866 - BUSTLETON AVE,100000.0,100.2,25.0,735.8,815 Hendrix Street,19116,2007
+philadelphia,883033800,Nortech Data Center,178190.0,264.4,,3142.3,2000 Kubach Rd.,19116,1990
+philadelphia,883095110,PEI-Genesis,20000.0,66.3,,101.9,2180 Hornig Road,19116,1987
+philadelphia,883095110,PeiGenesis,69000.0,53.6,,284.7,2180 Hornig Rd,19116,1987
+philadelphia,883763500,RAMADA,173000.0,53.8,60.0,270.5,11550-11580 ROOSEVELT BLVD,19116,1964
+philadelphia,884228000,Auroras Encore LLC,77500.0,5.3,100.0,39.5,275-99 Geiger rd,19116,1984
+philadelphia,884233850,"fmi direct mail advertising, inc",60000.0,45.5,,207.9,2100 Kubach Road,19116,2000
+philadelphia,884235000,2030 Byberry Road,75370.0,,,0.0,2030 Byberry Road,19116,1968
+philadelphia,884235500,Ardex Laboratories Inc,75440.0,28.8,,158.4,2050 Byberry Road,19116,1968
+philadelphia,884236000,2100 Byberry Road,130500.0,14.2,85.0,137.5,2100 Byberry Road,19116,1954
+philadelphia,884236410,23103-Philadelphia / Byberry Road,90551.0,3.1,,23.0,1251 Byberry Road,19116,2000
+philadelphia,884237500,F P Woll & Company,52172.0,21.9,,83.5,10060 Sandmeyer Lane,19116,1978
+philadelphia,884239600,Auroras Encore LLC,50000.0,5.5,,26.3,10195 Northeast Blv,19116,1969
+philadelphia,884240500,10814 NE AVENUE,217560.0,34.6,61.0,508.5,10814 NE AVENUE,19116,1979
+philadelphia,884241004,Ivy Roosevelt Property LLC - 11000 Roosevelt Blvd,452374.0,102.2,,3724.1,11000 Roosevelt Blvd,19116,1960
+philadelphia,884242000,Metals USA,85000.0,,,,11200 Roosevelt Blvd.,19116,1966
+philadelphia,884243200,L3Harris Technologies,249262.0,23188.3,,349092.1,13500 Roosevelt Blvd,19116,1985
+philadelphia,884243500,Raymour and Flanigan Woodhaven CSC,98679.0,34.9,49.0,292.4,2001 Woodhaven Road,19116,1965
+philadelphia,884244700,13451 Damar Drive,66600.0,10.0,92.0,55.2,13451 Damar Drive,19116,1996
+philadelphia,886651800,Sidewater House,80252.0,49.5,90.0,172.1,780 Byberry Road,19116,1998
+philadelphia,888582201,Stonebridge Condominium Association,55000.0,79.1,35.0,287.6,300 W. Byberry Road,19116,1965
+philadelphia,,Chestnut Hill College/ Mount Saint Josephs Convent,962359.0,66.1,,4108.8,9601/9701 Germantown Ave,19118,1875
+philadelphia,775001000,Chestnut Hill Hospital,473062.0,205.1,87.0,6179.6,8835 Germantown Ave.,19118,1921
+philadelphia,775110000,Saint Pauls Church,59600.0,35.9,66.0,127.3,22 East Chestnuthill Avenue,19118,1928
+philadelphia,775510500,Springside,263500.0,60.8,67.0,901.6,500 West Willow Grove Ave.,19118,1900
+philadelphia,775519500,"Chestnut Hill College, Sugarloaf Hill",89731.0,39.6,,142.5,9230 Germantown Ave,19118,1929
+philadelphia,775535510,Chestnut Hill,279000.0,45.9,97.0,613.8,500 West Willow Grove Ave.,19118,1900
+philadelphia,77553700,Norwood-Fontbonne Academy,86394.0,37.3,72.0,227.8,201 Sunset Ave,19118,1920
+philadelphia,775619505,CO/GLC 14010/8318 GERMANTOWN AVE/PHILADELPHIA/PA,64512.0,119.1,,735.3,8318 GERMANTOWN AVE,19118,1905
+philadelphia,775780200,Philadelphia Cricket Club,82608.0,86.6,,542.6,415 W Willow Grove Ave,19118,1854
+philadelphia,784167600,Jenks John,54000.0,60.9,43.0,254.4,8301 GERMANTOWN AVE,19118,1924
+philadelphia,881043500,Chestnut Hill Tower,284900.0,91.2,28.0,1406.8,400 E Mermaid Lane,19118,1963
+philadelphia,"881046000, 881046025, 881046050",Chestnut Hill Village/Blossom Row -CO (ch85),638776.0,53.9,96.0,2071.6,7715 Crittenden St,19118,1963
+philadelphia,881052000,Star Enterprises IV,147952.0,79.9,51.0,644.2,7715 McCallum St,19118,1954
+philadelphia,882040300,"Market Square Plaza I , LLC",443316.0,41.3,,447.4,7700-7782 Crittenden Street,19118,1972
+philadelphia,775165500,New Covenant Manor - MICHAELS,72311.0,30.6,54.0,205.6,7500 Germantown Avenue,19119,2005
+philadelphia,775515000,Lutheran Theological Seminary of Philadelphia,259257.0,34.7,,654.9,7301 Germantown Ave.,19119,1889
+philadelphia,784003600,Houston,72000.0,91.5,17.0,384.4,7300 RURAL LANE,19119,1927
+philadelphia,784061400,Emlen,74500.0,61.5,68.0,262.9,6501 CHEW AVE,19119,1926
+philadelphia,785435800,Henry,65400.0,65.2,58.0,251.5,601 CARPENTER LN,19119,1908
+philadelphia,881098700,601 W Cliveden St,61508.0,84.0,19.0,324.0,601 West cliveden street,19119,1938
+philadelphia,881101500,Pelham Court,102796.0,86.3,35.0,532.8,6803 Emlen Street,19119,1911
+philadelphia,881103000,Vernon House Apartments,100000.0,54.0,59.0,304.2,6445 Greene Street,19119,1929
+philadelphia,881436651,Cliveden Nursing and Rehabilitation Center,63339.0,170.5,40.0,731.0,6400 Greene St.,19119,1964
+philadelphia,886653901; 886653905,Allegheny Apts Phase 1 & 2,102485.0,65.3,,540.6,1900 W Allegheny Ave,19119,2016
+philadelphia,888220042,Malvern Hall Condominium Association,55855.0,32.9,65.0,170.8,6655 McCallum St.,19119,1925
+philadelphia,888220202;888220203;888220204;888220205;888220206;888220207;888220208;888220209;888220210;888220211;888220212;888220213;888220214;888220215;888220216;888220217;888220218;888220219;888220220;888220221;888220222;888220223;888220224;888220225;888220226;888220227;888220228;888220229;888220230;888220231;888220232;888220233;888220234;888220235;888220236;888220237;888220238;888220239;888220240;888220241;888220242;888220243;888220244;888220245;888220246;888220201,Germantown Manor,51480.0,54.1,43.0,217.2,400-14 W. Hortter Street,19119,1925
+philadelphia,888220261;888220262;888220263;888220331;888220281;888220299;888220308;888220290;888220340;888220264;888220267;888220332;888220282;888220300;888220317;888220265;888220313;888220295;888220345;888220266;888220268;888220333;888220283;888220301;888220318;888220312;888220294;888220344;888220269;888220334;888220284;888220302;888220319;888220322;888220314;888220296;888220346;888220278;888220270;888220335;888220285;888220303;888220320;888220323;888220315;888220297;888220347;888220279;888220271;888220336;888220286;888220304;888220321;888220324;888220316;888220298;888220348;888220280;888220272;888220337;888220287;888220305;888220309;888220291;888220341;888220275;888220325;888220328;888220273;888220338;888220288;888220306;888220310;888220292;888220342;888220276;888220326;888220329;888220274;888220339;888220289;888220307;888220311;888220293;888220343;888220277;888220327;888220330,The McCallum,70951.0,67.4,14.0,403.0,6635 McCallum Street,19119,1926
+philadelphia,785127900,Feltonville Arts,113391.0,57.7,43.0,461.4,210 E Coutland St,19120,1995
+philadelphia,785177400,Morrison,83894.0,90.4,40.0,440.3,5100 N 3RD ST,19120,1924
+philadelphia,785202400,Finletter,62760.0,68.6,46.0,328.4,6101 N FRONT ST,19120,1930
+philadelphia,785345400,Olney HS,332185.0,20.9,94.0,573.4,100 W DUNCANNON AVE,19120,1931
+philadelphia,785373150,Washington Grover,149500.0,53.7,61.0,565.8,201 E OLNEY ST,19120,2000
+philadelphia,785531600,Feltonville Intermediate,84000.0,63.5,62.0,334.6,4901 RISING SUN AVE,19120,1936
+philadelphia,785531800,Barton,72200.0,139.6,8.0,760.9,4600 ROSEHILL ST,19120,1925
+philadelphia,785548000,Lowell,101507.0,55.2,52.0,386.3,450 W NEDRO AVE,19120,1914
+philadelphia,786458400,Franklin ES,87870.0,76.2,46.0,524.6,5735 RISING SUN AVE,19120,1916
+philadelphia,786529200,Creighton,63232.0,79.1,32.0,385.8,5401 TABOR AVE,19120,1930
+philadelphia,786687225,Marshall T,114000.0,87.4,6.0,763.7,5118-50 N 6TH ST,19120,1997
+philadelphia,881216000,6060 Crescentville Holdings LP,189000.0,66.1,54.0,770.9,6060 Crescentville Road,19120,1969
+philadelphia,881216525,Tacony Crossing (tc023),394548.0,111.8,14.0,2776.7,155 E Godfrey Ave,19120,1968
+philadelphia,882021110,ISMAEL LLC 2-RS,90000.0,21.8,98.0,149.1,5691 RISING SUN AVENUE,19120,1950
+philadelphia,882086000,Rising Sun Plaza,811980.0,51.2,,1192.8,5675 Rising Sun Avenue,19120,1979
+philadelphia,882136421,O & O Owner LLC,83512.0,187.9,57.0,1288.9,5675 N. Front Street,19120,1987
+philadelphia,883332000,Med Arts,110000.0,72.7,46.0,694.0,1601 Walnut Street,19120,1930
+philadelphia,883382000,Front and Olney,148494.0,56.1,53.0,367.5,101 East Olney Ave,19120,1980
+philadelphia,884116452,Tin K. Luu,52782.0,14.1,71.0,58.3,5697 Rising Sun Ave.,19120,1960
+philadelphia,884116500,Plant 11 & 12,122189.0,406.5,,3414.6,5660 Rising Sun Ave,19120,1982
+philadelphia,884117000,Plant 13,108020.0,83.5,,863.1,5670 Rising Sun Ave,19120,1957
+philadelphia,884185500,Lesco Paper & Box Co,115000.0,4.6,84.0,50.3,651 E. Wyoming Ave,19120,1921
+philadelphia,771637000,Philadelphia Opportunities Industrialization Center,100000.0,39.3,,300.0,1239 N. Broad St.,19121,1920
+philadelphia,772176000,2239 West Montgomery Ave,57200.0,33.7,97.0,128.2,2239 West Montgomery Ave,19121,1918
+philadelphia,772510000,Girard College,1000825.0,62.2,55.0,3602.6,2035 South College Avenue,19121,1848
+philadelphia,772616000,CO/GLC 19100/1601 JEFFERSON ST/PHILADELPHIA/PA,54931.0,140.5,,724.0,1601 JEFFERSON ST,19121,1905
+philadelphia,777505000,1700 N. BROAD,77382.0,79.2,,483.5,1700 N. BROAD,19121,2000
+philadelphia,777508005,Liacouras Center Forum,270316.0,116.3,,2391.5,1776 N. Broad St.,19121,2000
+philadelphia,777572705,IBC REC CTR,47433.0,79.9,,271.3,1449 C.B. MOORE,19121,2000
+philadelphia,777573005,PKG GAR_ LIACOURAS CTR,409339.0,1.1,,43.3,1700 N. 15TH STREET,19121,2000
+philadelphia,777574010,ASTARC Student Training and Recreation Complex,111700.0,73.9,,564.4,1816 N 15th Street,19121,2017
+philadelphia,782326200,Fleet Shop 258 / WHS,59962.0,81.6,,320.5,1481 N 26th St,19121,1970
+philadelphia,782405200,Meade,94000.0,60.3,72.0,330.4,1600 NORTH 18TH ST,19121,1937
+philadelphia,782565200,Morris,80000.0,57.8,52.0,284.5,2600 W THOMPSON ST,19121,1966
+philadelphia,782813600,Boone,56265.0,55.2,53.0,207.8,W Jefferson St,19121,1963
+philadelphia,782845201,Audenried,211515.0,55.3,30.0,901.2,3301 TASKER ST,19121,2008
+philadelphia,784035900,Blaine,88317.0,46.8,71.0,251.0,3001-29 WEST BERKS ST,19121,1967
+philadelphia,784093000,Duckrey,101115.0,110.1,16.0,856.6,1501 W DIAMOND ST,19121,1968
+philadelphia,784108400,Dick,71000.0,57.2,63.0,308.3,2498 W DIAMOND ST,19121,1954
+philadelphia,784168800,Gideon,67000.0,42.2,89.0,207.7,2817 W GLENWOOD AVE,19121,1952
+philadelphia,784321800,Douglas F,109651.0,68.8,32.0,463.5,2118 W NORRIS ST,19121,1940
+philadelphia,784516400,Carver,149810.0,33.7,72.0,450.4,1600 W NORRIS ST,19121,1949
+philadelphia,784611000,Kelley William,72000.0,44.6,75.0,200.1,1601 N. 28TH ST,19121,1966
+philadelphia,881070240,3018 W Thompson,115365.0,12.3,100.0,135.6,3018 W Thompson Street,19121,2016
+philadelphia,881070250,3100 W Thompson St,65864.0,26.2,88.0,165.4,3100 W Thompson St,19121,2015
+philadelphia,881070265,3101-27 West Glenwood Avenue,67000.0,37.6,,241.0,3101-27 West Glenwood Avenue,19121,2017
+philadelphia,881070310,1363 North 31st Street,146774.0,88.1,1.0,1225.4,1363 North 31st Street,19121,2006
+philadelphia,881070310,The Lofts At Brewerytown,131317.0,27.8,97.0,308.3,3000A West Master Street,19121,2005
+philadelphia,881070430,Girard Court Apartments,61000.0,65.7,62.0,249.7,2101 N College Ave,19121,1960
+philadelphia,881147875,Beech Interplex,75000.0,50.3,91.0,271.9,1520 Cecil B. Moore Avenue,19121,2010
+philadelphia,882921243,Ajile Properties LLC,38156.0,2.7,,5.6,2815 Ridge Ave,19121,2012
+philadelphia,884100600,Eastern Electrical Liquidators,100000.0,15.9,,112.4,1511 N 26th St,19121,1800
+philadelphia,886652700,Vernon House,55985.0,63.3,30.0,256.7,3226 Clifford Street,19121,2005
+philadelphia,886701000,Rowan Judson B,10948.0,13.4,,10.8,1900 N Judson St,19121,2000
+philadelphia,886701100,Rowan Judson A,31090.0,13.4,,30.9,1901 Judson St,19121,2000
+philadelphia,886810637,The Willows at Cecil B. Moore-Ingerman,36819.0,55.7,52.0,164.6,1614 N 16th St,19121,1997
+philadelphia,886903800,Blumberg Senior Apartments,61498.0,44.1,62.0,255.7,1515 N 24th Street,19121,2019
+philadelphia,771032100,801 Wellness,377120.0,67.9,,1641.9,801 W Girard Ave,19122,1929
+philadelphia,771524500,PODIATRIC - HOUSING,59253.0,89.9,,442.4,801 CHERRY STREET,19122,2000
+philadelphia,777502000,Morgan Hall,679622.0,83.1,48.0,4067.5,1601-3 N. Broad Street,19122,2000
+philadelphia,777507000,KLEIN,210819.0,71.2,,1111.9,1719 N. BROAD,19122,2000
+philadelphia,777508500,Pearson/Mcgonigle,508105.0,101.7,,3515.2,1800-38 N. Broad St.,19122,1969
+philadelphia,77750900,WACHMAN HALL,130655.0,156.6,,1488.3,1819 N. BROAD ST.,19122,2000
+philadelphia,777509000,CONWELL HALL,67644.0,123.9,,589.9,NE CORNER BROAD AND MONTGOMERY,19122,2000
+philadelphia,777509000,1810 LIACOURAS WALK,74630.0,251.5,,1271.9,1810 Liacouras Walk,19122,2000
+philadelphia,777509000,Alter Hall,213673.0,89.3,,1339.6,1801 Liacouras Walk,19122,2000
+philadelphia,777509000,CARNELL HALL,75931.0,107.0,,597.0,NE CORNER BROAD AND MONTGOMERY,19122,2000
+philadelphia,777509000,SULLIVAN,52800.0,127.1,,460.8,1330 W. POLETT WALK,19122,2000
+philadelphia,777509000,SPEAKMAN,110605.0,278.0,,1890.9,1801 N. 13TH,19122,2000
+philadelphia,777512010,MITTEN,112771.0,106.5,,860.3,1913 N. BROAD,19122,2000
+philadelphia,777512030,1940 Residence Hall,133399.0,168.9,,1405.0,1940 Liacouras Walk,19122,2000
+philadelphia,777523500,JOHNSON,143177.0,134.1,,1568.2,2029 N. BROAD,19122,2000
+philadelphia,777524100,JAMES S. WHITE HALL,154487.0,35.3,,436.1,2108 N. BROAD,19122,2000
+philadelphia,777538000,TEMPLE TOWERS,178596.0,34.9,,545.2,1200 COLUMBIA AVE.,19122,2000
+philadelphia,777539000,1300 C. B. Moore,325022.0,139.1,,3188.2,1300 Cecil B Moore Ave,19122,2001
+philadelphia,777540000,RITTER ANNEX,153050.0,108.0,,1202.1,1301 C.B. MOORE,19122,2000
+philadelphia,777556500,CHARLES LIBRARY,210000.0,246.9,,3618.9,1901 N. Park Ave,19122,2019
+philadelphia,777567005,380 - University Village-Temple,245287.0,42.3,72.0,825.5,1701 North Tenth Street,19122,2004
+philadelphia,777568800,ANDERSON,231660.0,149.9,,2430.6,1114 W. POLETT WALK,19122,2000
+philadelphia,777568800,ENGINEERING,160325.0,157.4,,1782.6,1947 N. 12TH,19122,2000
+philadelphia,777568800,GLADFELTER,181566.0,105.0,,1290.6,1115 W. POLETT WALK,19122,2000
+philadelphia,777568800,Science Education and Research Center (SERC),255183.0,316.8,,5568.3,1935 N 12th St.,19122,2014
+philadelphia,777568900,WEISS,159000.0,209.9,,2347.6,1701 N. 13TH,19122,2000
+philadelphia,777569000,STUDENT CTR II,86182.0,399.1,,2293.8,"13th St., 1800 block",19122,2000
+philadelphia,777569000,GITTIS STUDENT CENTER,216805.0,50.1,,843.3,1755 N. 13TH,19122,2000
+philadelphia,777570000,RITTER HALL,111090.0,132.9,,974.9,1301 C.B. MOORE,19122,2000
+philadelphia,777570200,PALEY,184644.0,154.4,,2064.1,1210 W. BERKS,19122,2000
+philadelphia,777570200,TUTTLEMAN LEARNING CENTER,117253.0,168.7,,1359.8,12TH STREET,19122,2000
+philadelphia,777570400,BIOLOGY,168651.0,559.8,,6276.0,1900 N. 12TH,19122,2000
+philadelphia,777570400,BEURY,174700.0,421.0,,4713.2,1901 N. 13TH,19122,2000
+philadelphia,777570600,PRESSER,54792.0,180.4,,670.4,2001 N. 13TH,19122,2000
+philadelphia,777570600,NEW TYLER SOA,245125.0,307.6,,4951.3,2020 N. 12th Street,19122,2000
+philadelphia,777570800,ANNENBERG and TOMLINSON THEATER,120576.0,65.3,,682.9,2020 N. 13TH,19122,2000
+philadelphia,777573005,ECEC,52849.0,237.9,,911.2,1710-50 N. 15th Street,19122,2000
+philadelphia,777634500,BELL BUILDING & GARAGE (Bldg 253000 Garage 84469),404680.0,203.7,,4958.8,1121 W. MONTGOMERY AVENUE,19122,1990
+philadelphia,781497200,Ludlow,70230.0,58.4,69.0,233.0,500 W MASTER ST,19122,1927
+philadelphia,781551800,Ferguson,99864.0,40.2,91.0,307.3,2000 N 7TH ST,19122,1922
+philadelphia,781641600,Dunbar,53200.0,75.6,36.0,308.8,1720-58 N 12 TH ST,19122,1932
+philadelphia,781654210,Elverson Military,74557.0,55.6,81.0,245.4,2118-60 N 13TH ST,19122,1930
+philadelphia,786525600,McKinley,74314.0,26.4,82.0,178.7,2101 ORKNEY ST,19122,1970
+philadelphia,881006631,"Olde Kensington, LP",90000.0,39.4,86.0,291.0,1250 N. 3rd Street,19122,1986
+philadelphia,881006745,Dwell at 2nd St.,277542.0,15.0,100.0,307.1,1300 N. 2nd St.,19122,2020
+philadelphia,881006775,Umbrella,212063.0,33.6,77.0,598.5,1401 N 5th St,19122,1950
+philadelphia,881006866,Liberty Square Building 2,59707.0,26.8,96.0,151.3,236 W Thompson Street,19122,2018
+philadelphia,881006867,Liberty Square Building 1,82858.0,21.6,98.0,169.0,1203 Germantown Avenue,19122,2018
+philadelphia,881006901,"1325 Associates, LP",58236.0,44.2,,240.1,1321-25 North 5th St,19122,1900
+philadelphia,881066605,Sewing Factory,118946.0,24.5,60.0,277.2,1730 North 5th St,19122,1931
+philadelphia,881147220,Vantage,471000.0,44.8,,1779.8,1101-37 Cecil B Moore Ave,19122,2019
+philadelphia,881147221,The View at Montgomery,320000.0,57.8,,1452.2,1100 W MONTGOMERY AVE,19122,2014
+philadelphia,881147275,Diamond Green,129330.0,42.5,95.0,473.9,1000 Diamond St,19122,2012
+philadelphia,881147295;886761137,Paseo Verde North and South,180882.0,40.8,91.0,565.0,1900 North 9th Street,19122,2013
+philadelphia,881299200,HARDWICK,84735.0,100.2,,563.6,2000 BLOCK N. BROAD ST.,19122,1970
+philadelphia,884080210,1801 N. 5th LLC,104976.0,111.3,34.0,1085.2,1801 N. 5th St.,19122,1939
+philadelphia,884080300,1801 N American,97500.0,16.6,82.0,104.6,1801 N American Street,19122,1986
+philadelphia,884588700,Crane Arts LLC,110000.0,20.2,100.0,142.2,1400 North American St,19122,1905
+philadelphia,884590710,1645 N American St,68066.0,1.2,,7.6,1645 N American St,19122,1935
+philadelphia,886603800,VILLAS DE HACE,27000.0,,,,1426 N. 6TH STREET,19122,1992
+philadelphia,886671100,Gloria Cazerez Residence,35308.0,30.1,,85.0,1315 N. 8th St,19122,2019
+philadelphia,888093220,444 Lofts,188000.0,14.9,100.0,189.7,444 N. 4th Street,19122,2007
+philadelphia,,Rodeph Shalom,137000.0,25.6,,171.5,615 North Broad St,19123,1927
+philadelphia,771023700,Gift of Life Donor Program,150681.0,92.4,55.0,765.1,401-35 N 03RD ST,19123,2003
+philadelphia,771065001; 771638001,Salvation Army Divisional Headquarters,97500.0,89.3,,751.5,701 North Broad Street,19123,1970
+philadelphia,771211200,St. Peter the Apostle Parish,85426.0,0.3,,2.1,1019 North 5th Street,19123,1843
+philadelphia,771517200,The City School Poplar Campus,52235.0,41.4,72.0,174.2,910 N 6th St.,19123,2006
+philadelphia,771688000,American Red Cross - B12436,245000.0,187.7,,3855.6,700 Spring Garden,19123,1995
+philadelphia,781088800,Kearny,49000.0,108.3,4.0,324.6,601 FAIRMOUNT AVE,19123,1922
+philadelphia,781398000,Fire Administration,50601.0,134.0,24.0,612.3,276 Spring Garden St,19123,1975
+philadelphia,781462800,Bodine,59000.0,93.0,25.0,320.3,1101 NORTH 4TH ST,19123,1935
+philadelphia,781646000,Stoddart-Fleisher,108393.0,113.6,12.0,919.5,540 N 13TH ST,19123,1926
+philadelphia,8.81E+17,Ascension Manor-Michaels Mgt,241560.0,63.7,62.0,1015.5,945-75 Franklin Street,19123,1968
+philadelphia,881006630,Erbe (rb83),134673.0,105.5,,1300.4,1001-13  N th 2nd Street,19123,2009
+philadelphia,881006665,Navona (nv63),163400.0,78.1,,1064.4,1050 North Hancock St,19123,2009
+philadelphia,881006805,The Becker Building,87000.0,35.9,92.0,186.3,1151-61 N 3rd St,19123,1700
+philadelphia,881041490,The Stable Lofts,58000.0,28.4,93.0,137.2,631 N Broad Street,19123,2018
+philadelphia,881041752; 881041753,1221 Fairmount Avenue,119128.0,75.1,48.0,614.7,1221 Fairmount Avenue,19123,1979
+philadelphia,881068250,The Residences at 1221,51000.0,27.2,89.0,132.9,1221 Mt Vernon Street,19123,2015
+philadelphia,881420116,Guild House East,66030.0,61.9,54.0,307.4,711-39 Spring Garden St,19123,1966
+philadelphia,881444100,Tucker House Nursing & Rehab,70299.0,109.1,47.0,630.6,1001 Wallace St,19123,1978
+philadelphia,881520650,Liberties Lofts,159556.0,15.1,,230.0,710-20 N 5th Street,19123,1930
+philadelphia,882017845,Ajax Building,80000.0,147.5,,828.6,1000-52 FRANKFORD AVE ,19123,1926
+philadelphia,882932476,"00291- Philadelphia, PA",51000.0,241.8,33.0,1066.5,180 W Girard Ave,19123,2004
+philadelphia,883009101,Miller Building,80000.0,45.0,86.0,290.6,441 n 5th st,19123,1956
+philadelphia,8830216000,841 N American Street,68000.0,26.3,95.0,150.4,841 N American Street,19123,1949
+philadelphia,883300500,Corn Exchange,50704.0,120.4,14.0,481.5,123 Chestnut St,19123,1923
+philadelphia,883522900,Riverview Place,188046.0,39.1,84.0,676.4,520 N. Christopher Columbus Boulevard,19123,1929
+philadelphia,884019025,CubeSmart - PA - Store 6786,59000.0,2.1,,12.1,456 North Christopher Columbus Boulevard,19123,1980
+philadelphia,884028510,CubeSmart - PA - Store 599,96318.0,23.0,,182.2,400-18 N. 5th Street,19123,2005
+philadelphia,884028602,456 N 5th Street,185421.0,132.8,,1829.5,456 N 5th Street,19123,1978
+philadelphia,884072000,900-58 N. 9TH STREET,360000.0,,,,900-58 N. 9TH STREET,19123,1929
+philadelphia,885042880,1002 N 2nd St,83500.0,56.4,1.0,394.0,1102 N. 2nd Street,19123,2017
+philadelphia,886904200,MT. TABOR SR. CYBER VILLAGE,59095.0,32.7,67.0,170.7,973 N 7TH ST,19123,2007
+philadelphia,888035756,Cigar Factory Condominium,59464.0,8.2,100.0,41.0,1147 N. 4th Street,19123,1900
+philadelphia,888039250,American Loft,69894.0,40.9,60.0,273.7,212 Brown St.,19123,2009
+philadelphia,888053785,(PA2509) - Beaux Arts,93600.0,29.5,71.0,264.6,1238 Callowhill Street,19123,1909
+philadelphia,888057285,429 N. 13th Street,70140.0,26.3,100.0,127.4,429 N. 13th Street,19123,1900
+philadelphia,888062668,Waterfront Square,1032000.0,42.1,65.0,2933.4,901 N Penn St,19123,2009
+philadelphia,888116634,1234 Lofts,42099.0,32.3,,105.3,1234 Hamilton Street,19123,2005
+philadelphia,888140126,"511, A Condominiums",73000.0,49.9,46.0,328.5,511 North Broad Street,19123,1930
+philadelphia,777575905,Community Academy of Philadelphia,158000.0,30.4,90.0,305.9,1100 East Erie Avenue,19124,1958
+philadelphia,777607000,PECO G and Luzerne Service Center,22230.0,94.8,,157.2,4000 G Street,19124,1951
+philadelphia,778010005; 884460955,Frankford Hospital,377764.0,176.3,96.0,3315.3,4900 Frankford Ave,19124,1987
+philadelphia,778031022,Friends Hospital,296945.0,154.7,,2890.1,4641 Roosevelt Boulevard,19124,1950
+philadelphia,778531801,First Philadelphia Charter School,478150.0,51.8,95.0,316.9,4300 Tacony St.,19124,2002
+philadelphia,778651005,CO/GLC 19008/4808 LEIPER ST/PHILADELPHIA/PA,79883.0,123.6,,941.5,4808 LEIPER ST,19124,1905
+philadelphia,783705200,Lea,70000.0,71.8,40.0,299.6,4700 LOCUST ST,19124,1914
+philadelphia,783804600,Communications Tech HS,66937.0,,,,8110 Lyons Ave,19124,1960
+philadelphia,784408400,Lankenau,74000.0,39.7,85.0,246.3,201 SPRING LANE,19124,1971
+philadelphia,786112400,Sullivan,65000.0,4370.0,1.0,21087.9,5300 DITMAN ST,19124,1929
+philadelphia,786182000,Edmunds HR,135208.0,57.7,41.0,619.8,1197 HAWORTH ST,19124,1923
+philadelphia,786334800,Smedley,51000.0,,,0.0,1790 BRIDGE ST,19124,1980
+philadelphia,786407400,Frankford HS,313765.0,60.0,77.0,1120.8,5000 OXFORD AVE,19124,1916
+philadelphia,786424600,Stearne,76150.0,53.6,71.0,266.3,1655 UNITY ST,19124,1966
+philadelphia,786487800,Marshall J,58450.0,43.2,82.0,194.0,4500 GRISCOM ST,19124,1909
+philadelphia,786550200,Harding,129264.0,76.9,48.0,586.0,2000 WAKELING ST,19124,1924
+philadelphia,881105000,Avondale Apartments,82600.0,64.5,22.0,406.0,4628 Leiper Street,19124,1960
+philadelphia,881106400; 881106500; 881220900,Oxford Portfolio LLC,70800.0,96.3,44.0,423.6,4925 Saul Street,19124,1920
+philadelphia,882058827,ShopRite of Bridge and Harbison,67846.0,231.3,50.0,1260.1,5597 Tulip Street,19124,2017
+philadelphia,882120009,castor,60000.0,28.5,96.0,128.2,1509 e erie ave,19124,1945
+philadelphia,882181540,Walmart Store #5103,109554.0,87.4,52.0,823.7,"4600 Roosevelt Blvd., Bldg G",19124,2003
+philadelphia,882181575,4112 - ROOSEVELT,163574.0,54.5,73.0,692.0,4640 S.E. Roosevelt Boulevard,19124,1995
+philadelphia,882885808,BHB Group Investments LLC,93132.0,,,,5300 Whitaker Ave.,19124,1940
+philadelphia,884044800,"Driscoll Construction Co., Inc.",61034.0,3.1,,18.3,3901 D Street,19124,1949
+philadelphia,884051000,Cousin's Philadelphia LLC,114900.0,14.9,94.0,164.0,101 E.Luzerne Street,19124,1931
+philadelphia,884089000,4201 Tacony St.,268125.0,65.1,52.0,239.5,633 W Rittenhouse St,19124,1950
+philadelphia,884110150,Bachmann Industries,115105.0,19.9,,167.1,1400 East Erie Avenue,19124,1950
+philadelphia,884114000,3901 G street,108000.0,31.0,,240.1,3901 G street,19124,1950
+philadelphia,884114510,4309 G Street,71509.0,22.4,48.0,142.7,4309 G Street,19124,1950
+philadelphia,884119600,CubeSmart - PA - Store 549,68479.0,11.5,,60.1,777 Mayfair Street,19124,2005
+philadelphia,884120510,CDC,1197220.0,37.2,64.0,3126.2,5600 Langdon St,19124,1964
+philadelphia,884184000,Dara 401 LLC,112.0,16737.5,,135.5,401-25 E Hunting Park Ave,19124,1935
+philadelphia,884184500,ECI Building,93000.0,8.3,96.0,48.8,4343 Whitaker Ave.,19124,1950
+philadelphia,884202100,"Barsky-Fleming Marketing, Inc.",104000.0,15.4,,119.3,2070-80  Wheatsheaf Lane,19124,1920
+philadelphia,884213645,Prime Storage - Aramingo,62600.0,,,,4415 Aramingo Ave,19124,1987
+philadelphia,884353875,Frankford Depot,102000.0,161.9,,1111.6,Bridge Street && Frankford Avenue,19124,1957
+philadelphia,884460965,Fleet Shop 134,62839.0,150.3,,613.0,100 E Hunting Park Ave,19124,1968
+philadelphia,884460970,Juniata Park,102300.0,102.1,10.0,706.5,801 E HUNTING PARK AVE,19124,2007
+philadelphia,884736525,175 DE NJ LLC,50126.0,13.5,80.0,51.7,1241 E Erie Ave,19124,1922
+philadelphia,886608600,CMH Development LP,268565.0,89.3,27.0,1442.7,1401 E Bristol Road,19124,1938
+philadelphia,886614100,Willows Apartments,56280.0,14.0,100.0,63.6,1338 Foulkrod Street,19124,1960
+philadelphia,777012002,Temple Episcopal Hospital,442145.0,318.9,11.0,8460.6,100 East Lehigh Avenue,19125,1940
+philadelphia,777141500,Kensington HS CAPA,88915.0,31.4,67.0,254.5,1901 N Front St,19125,2009
+philadelphia,777633005,CO/GLC 19040/2514 EMERALD ST/PHILADELPHIA/PA,57568.0,122.6,,672.5,2514 EMERALD ST,19125,1905
+philadelphia,781401800,Penn Treaty,144000.0,63.5,62.0,518.1,600 E THOMPSON ST,19125,1928
+philadelphia,786085600,Kensington HS Business-Urban,108000.0,68.0,58.0,553.1,2075 E CUMBERLAND ST,19125,1917
+philadelphia,786121075,Kensington HS Health,56394.0,47.1,83.0,177.1,2445 EMERALD ST,19125,2001
+philadelphia,786491000,Brown HA,67795.0,41.6,69.0,187.7,1900 E SERGEANT ST,19125,1959
+philadelphia,786594000,Hackett,108550.0,45.6,77.0,328.2,2161 E YORK ST,19125,1969
+philadelphia,881006090,Frankford Lofts,52000.0,22.4,88.0,108.3,1039-55 Frankford Avenue,19125,1930
+philadelphia,881069200,Hagert St Lofts LP,55500.0,,,,1821-45 E HAGERT ST,19125,1920
+philadelphia,881442763,Wolff Court,,,,0.0,501 E Girard Ave.,19125,2021
+philadelphia,882028200,SugarHouse Casino,754800.0,103.1,,7117.3,1001 North Delaware Ave,19125,2010
+philadelphia,883365000,1080 N Delaware Ave,137500.0,58.5,,680.8,1080 N Delaware Ave,19125,1960
+philadelphia,883365200,Penn Treaty Park Place,178680.0,48.2,89.0,630.1,1334-76 Beach st,19125,1911
+philadelphia,883376771,2424 Studios,87000.0,31.0,88.0,250.3,2424 E. York Street,19125,1870
+philadelphia,886652800,Neumann North - MICHAELS,181599.0,52.3,36.0,694.5,1741 Frankford Avenue,19125,1990
+philadelphia,776614005,CO/GLC 17110/6468 N BROAD ST/PHILADELPHIA/PA,57899.0,162.5,,900.6,6468 N BROAD ST,19126,1905
+philadelphia,784552600,Rowen,56400.0,89.3,35.0,378.1,6841 NORTH 19TH ST,19126,1938
+philadelphia,785097400,Wagner,81589.0,103.0,16.0,630.4,1701 CHELTEN AVE,19126,1929
+philadelphia,785360600,Ellwood,55621.0,265.1,1.0,1101.2,6701 N 13TH ST,19126,1957
+philadelphia,881053500,Windsor Terrace Apts,54332.0,76.7,34.0,261.4,7000 North Broad Street,19126,1966
+philadelphia,881054000,Bentley Manor,56200.0,61.8,68.0,225.4,1410 72nd Avenue,19126,1960
+philadelphia,881220000,Melrose Park Manor,60984.0,81.7,79.0,279.5,210 W. Cheltenham Avenue,19126,1965
+philadelphia,881447800,York Nursing & Rehabilitation Center,92445.0,129.7,64.0,795.2,7101 Old York Rd.,19126,1964
+philadelphia,881447900,600 West Cheltenham Ave,71096.0,135.8,,686.9,600 West Cheltenham Ave,19126,1950
+philadelphia,,The Glen at Shawmont Station - (gl140),192780.0,65.2,7.0,1043.4,300 Autumn River Run,19128,2006
+philadelphia,,Ivy Ridge Shopping Center,106353.0,123.4,,1015.2,7100-7162 Ridge Ave,19128,2006
+philadelphia,212381330,Shawmont,83510.0,54.0,55.0,272.0,535 SHAWMONT AVE,19128,1929
+philadelphia,7.84E+17,Levering Amy Northwest,69475.0,12.8,98.0,78.7,6000 RIDGE AVE,19128,1929
+philadelphia,775713501,Salvation Army,202397.0,34.5,66.0,427.7,4555 Pechin Street,19128,1940
+philadelphia,784190100,Saul CTE,104018.0,38.5,85.0,287.3,7100 HENRY AVE,19128,1980
+philadelphia,784378200,Roxborough HS,240000.0,68.6,72.0,976.3,6498 RIDGE AVE,19128,1924
+philadelphia,784378900,Cook-Wissahickon,73100.0,39.5,91.0,185.7,531 RIGHTER ST.,19128,1969
+philadelphia,881079800,Metropolitan Manayunk Hill,72900.0,65.0,67.0,298.7,450 Domino Lane,19128,1963
+philadelphia,881080050,Domino Lane Apartments,63918.0,55.7,92.0,215.7,477-89 Domino Ln,19128,1960
+philadelphia,881087500,Ridgeview Apartments,77182.0,55.7,78.0,291.1,6725 Ridge Avenue,19128,1964
+philadelphia,881090000,Metropolitan Roxborough,127615.0,64.8,58.0,527.6,7841 Ridge Avenue,19128,1964
+philadelphia,881090500,The Ridge Apartments,116269.0,51.8,71.0,406.0,7949 Ridge Avenue,19128,1961
+philadelphia,881091000,Colonial Village Townhomes,71040.0,1.1,,7.0,8875 Ridge Avenue,19128,1980
+philadelphia,881436400,Fairmont Hospital,89344.0,64.1,,445.8,561 Fairthorne Avenue,19128,1997
+philadelphia,881436500,The Renfrew Center - CURRENT,57784.0,,,,475 Spring Lane,19128,1985
+philadelphia,881447100,Cathedral Village,506974.0,83.0,1.0,2998.3,600 E Cathedral Rd,19128,1979
+philadelphia,881962001,The View at Manayunk,62300.0,25.2,99.0,145.9,4136 Mitchell St. ,19128,2019
+philadelphia,882116500,Andorra Shopping Center-Kohl's,80200.0,120.8,1.0,923.0,"701 E Cathedral Rd ""Henry Avenue && Cathedral Road""",19128,1953
+philadelphia,882116500,10274-Andorra - Solar,82784.0,25.9,100.0,178.3,8500 Henry Avenue,19128,1997
+philadelphia,882117000,Shop Rite of Roxborough,54844.0,261.7,61.0,1160.7,6901 Ridge Avenue,19128,1990
+philadelphia,882348400,Green Woods Charter School,115650.0,45.8,62.0,232.1,468 Domino Lane,19128,2014
+philadelphia,884083010,Riverside Mr. Storage,18000.0,11.9,,19.3,5026 Ridge Ave,19128,2000
+philadelphia,884083200,21808-Philadelphia / Ridge AVE,70581.0,10.2,,68.9,7571 Ridge Avenue,19128,2000
+philadelphia,884630430,401 Domino Lane,303224.0,15.3,94.0,186.7,401 Domino Lane,19128,1970
+philadelphia,888210002;888210003;888210004;888210005;888210006;888210007;888210008;888210009;888210010;888210011;888210012;888210013;888210014;888210015;888210016;888210017;888210018;888210019;888210020;888210021;888210022;888210023;888210024;888210025;888210026;888210027;888210028;888210029;888210030;888210031;888210032;888210033;888210034;888210035;888210036;888210037;888210038;888210039;888210040;888210041;888210042;888210043;888210044;888210045;888210046;888210047;888210048;888210049;888210050;888210051;888210052;888210053;888210054;888210055;888210056;888210057;888210058;888210059;888210060;888210061;888210062;888210063;888210064;888210065;888210066;888210067;888210068;888210069;888210070;888210071;888210072;888210073;888210074;888210075;888210076;888210077;888210078;888210079;888210080;888210081;888210082;888210083;888210084;888210085;888210086;888210087;888210088;888210089;888210090;888210091;888210092;888210093;888210094;888210095;888210096;888210097;888210098;888210099;888210100;888210101;888210102;888210103;888210104;888210105,Dupont Towers,92114.0,90.3,12.0,582.3,6100 Henry Avenue,19128,1969
+philadelphia,774010200,DUMed-Queen Lane Campus,262085.0,195.4,,3883.7,2900 Queen Lane,19129,1988
+philadelphia,775069000,Mercy Vocational High School,61320.0,91.8,42.0,333.8,2900 W Hunting Park Ave,19129,1910
+philadelphia,776293510,Salvation Army Kroc Center,130620.0,168.8,,1610.4,4200 Wissahickon Ave,19129,2010
+philadelphia,784188400,Randolph CTE,121579.0,114.8,11.0,896.7,3101 HENRY AVE,19129,1975
+philadelphia,784249400,Mifflin,62100.0,117.9,11.0,427.3,3624 CONRAD ST,19129,1937
+philadelphia,881045000,The Residences at 219,85000.0,51.6,70.0,335.1,219 E Willow Grove Avenue,19129,1954
+philadelphia,881136900,Falls Center,884471.0,54.5,,3302.7,3300 Henry Avenue,19129,1920
+philadelphia,881137200,Scotts Mills,126339.0,32.1,87.0,326.6,3510-30 Scotts Lane,19129,1940
+philadelphia,881137425,Dobson Mills,752225.0,21.6,86.0,1558.3,4055 Ridge Avenue,19129,2007
+philadelphia,882064855,Cottman & Bustleton Center,68642.0,83.3,,455.8,2101-41 Cottman Ave.,19129,1964
+philadelphia,882066190,ShopRite of Fox Street,75488.0,260.5,48.0,1543.9,2800 Fox Street,19129,2013
+philadelphia,882066190,Bakers Centre (bk008),235750.0,298.8,,4836.4,2800 Fox Street ,19129,2015
+philadelphia,882066200,ROBERTS AVE,113132.0,108.4,11.0,848.1,2950 ROBERTS AVE,19129,2017
+philadelphia,884067451,Fox Street LLC,224848.0,5.8,90.0,113.6,2325 -2339 W Allegheny Ave,19129,1920
+philadelphia,884069525,Midvale Depot,443000.0,72.6,,2437.9,4301 Wissahickon Avenue,19129,1996
+philadelphia,884128504,U-Haul Moving & Storage Of Allegheny West (808059),456611.0,12.0,,487.4,2801 W Hunting Park Ave.,19129,1923
+philadelphia,884131060,"4250 Wissahickon Avenue, Inc.",77456.0,24.1,39.0,146.3,4250 Wissahickon Ave.,19129,1938
+philadelphia,884131500,"Altomare Precast, Inc.",146508.0,9.4,,132.2,4300 Wissahickon Avenue,19129,1910
+philadelphia,884461920,Collectors HQ,65000.0,115.2,27.0,502.7,3190 W Stokley St /  3201 Fox St,19129,1959
+philadelphia,884461930; 884461925,Queen Lane WTP,110000.0,180.8,,1562.3,3110 W Queen Lane,19129,1953
+philadelphia,886761710,Falls Ridge,66123.0,41.0,78.0,197.9,4349 Ridge Avenue,19129,2004
+philadelphia,772018000,1600-50 West Girard Avenue,134000.0,55.9,,589.5,1600-50 West Girard Avenue,19130,1927
+philadelphia,772147500,St. Francis Xavier Church,57540.0,25.8,,85.8,2319-2331 Green Street,19130,1906
+philadelphia,772510500,Saint Josephs Prep,285178.0,95.9,17.0,1601.2,1733 West Girard Ave,19130,1851
+philadelphia,782025600,Franklin HS,242293.0,45.4,91.0,671.1,550 NORTH BROAD ST,19130,1958
+philadelphia,782513600,Masterman,105000.0,59.0,67.0,434.4,1699 SPRING GARDEN ST,19130,1933
+philadelphia,782513700; 782513701; 888073174,Art Museum Main Bldg & Perelman Bldg,804000.0,167.5,,10295.7,2600 Ben Franklin Pkwy,19130,1928
+philadelphia,782640200,Franklin Learning Center,150000.0,65.9,69.0,693.7,616 N 15TH ST,19130,1909
+philadelphia,881030930,Park Towne Premier (pt79),747444.0,85.3,29.0,4837.0,2200 Benjamin Franklin Pkwy,19130,1959
+philadelphia,881041400,Packard Motor Car Building,165000.0,55.7,11.0,879.7,317 N Broad Street,19130,1910
+philadelphia,881444600,Philadelphia Nursing Home,347543.0,98.6,2.0,2421.4,2100 W Girard Ave,19130,1950
+philadelphia,881551130,The Granary,310417.0,40.7,73.0,983.8,1901-39 Callowhill St.,19130,2013
+philadelphia,881553270;881553260,Dalian on the Park,536000.0,34.5,86.0,1330.5,500 North 21st Street,19130,2016
+philadelphia,881561625,Spring Garden Towers - MICHAELS,194062.0,37.8,78.0,639.6,1818-20 ,19130,1979
+philadelphia,"881561900, 881561800","North XNorthwest (nr083, nr082)",485155.0,20.7,83.0,943.7,450 N 18th St,19130,1988
+philadelphia,881799800,1617 Poplar Street,17000.0,11.0,,17.3,1617-33 Poplar Street,19130,2017
+philadelphia,882017900,R Investment Five LP,55000.0,424.2,7.0,1775.5,2101 Pennsylvania Avenue,19130,2016
+philadelphia,883026600,1500 Spring Garden,1205490.0,168.2,19.0,18695.1,1500 Spring Garden Street,19130,1948
+philadelphia,883524700,642 N. Broad St.,341146.0,35.4,86.0,755.3,642 N. Broad St.,19130,1903
+philadelphia,884062510,Admin - Education Center,835000.0,40.5,78.0,3141.8,440 N BROAD ST,19130,2005
+philadelphia,886652600,4400 Fairmount Ave,132266.0,52.0,21.0,587.8,4400 Fairmount Ave,19130,1980
+philadelphia,886806600,JBJ Soul Homes,75000.0,19.2,,103.9,1415 Fairmount Avenue,19130,2014
+philadelphia,886856402,The Willows at Mount Vernon-Ingerman,29170.0,54.2,42.0,128.2,1702 Mt Vernon St,19130,2018
+philadelphia,888073251,(PA2284) - 2601 Parkway Condos,506636.0,44.5,55.0,2003.7,2601 Pennsylvania Ave,19130,1940
+philadelphia,888088060,The Lofts at Logan View,97011.0,35.8,75.0,332.2,1666 Callowhill St.,19130,1900
+philadelphia,888091015,(PA2141 - 2244) - City View North & South,529000.0,56.0,54.0,2259.1,2001 Hamilton Street,19130,1990
+philadelphia,888111120,Tivoli Condos,225200.0,38.8,76.0,601.3,1900 Hamilton Street,19130,2006
+philadelphia,888150532,The Philadelphian,1208034.0,56.0,79.0,4485.5,2401 Pennsylvania Ave,19130,1964
+philadelphia,888152672,Brewery Condominiums- Main House,69000.0,21.7,98.0,126.9,825 N 29th St,19130,1875
+philadelphia,888152826,Brewery Condominiums- Brewery House,61000.0,36.7,67.0,134.3,870 N 28th St.,19130,1900
+philadelphia,,Hamilton Court,157304.0,9.8,100.0,147.3,101 39th St.,19131,1910
+philadelphia,,PC - Sora Pool,84202.0,58.3,,300.7,3900 City Avenue,19131,2015
+philadelphia,521034500,Overbrook Shop,200000.0,50.6,,722.1,5320 West Jefferson Street,19131,1994
+philadelphia,77-4-5021-00,Mandeville Hall (MV),89373.0,65.1,,488.5,5600 City Avenue,19131,1997
+philadelphia,774010040,Philadelphia College of Osteopathic Medicine,409268.0,229.6,,6087.3,4190 City Ave,19131,1972
+philadelphia,774016000,List Associates,127785.0,41.9,90.0,454.5,3905 Ford Rd,19131,1956
+philadelphia,774214500,4655-4661 Lancaster Avenue,108358.0,13.8,94.0,112.0,4655-4661 Lancaster Avenue,19131,1970
+philadelphia,774500800,Lannon/Rashford,158239.0,88.7,,1104.4,5320 City Ave,19131,2004
+philadelphia,774502100,Aggregate Excluding MV,981145.0,99.5,,6991.4,5600 City Avenue,19131,1927
+philadelphia,774510100,Hawks' Landing Parking Facility,149640.0,4.6,,65.6,2461 N. 54th Street,19131,2008
+philadelphia,774579500,Overbrook Campus,84311.0,45.3,,292.0,6051 Overbrook Avenue,19131,1891
+philadelphia,774606005,CO/GLC 13030/5160 LANCASTER AVE/PHILADELPHIA/PA,52021.0,150.6,,728.8,5160 LANCASTER AVE,19131,1905
+philadelphia,783042600,Belmont WTP,95000.0,183.7,,1236.7,4300 Ford Rd,19131,1965
+philadelphia,783175200,Blankenburg,64000.0,86.5,34.0,310.5,4612-72 W GIRARD AVE,19131,1925
+philadelphia,783257800,Heston,81640.0,62.0,51.0,338.1,1621 N 54TH ST,19131,1971
+philadelphia,783258200,Overbrook HS,323316.0,47.7,94.0,1155.9,5898 LANCASTER AVE,19131,1926
+philadelphia,783288200,Beeber,139000.0,61.5,59.0,643.0,5925 MALVERN AVE,19131,1933
+philadelphia,783318200,Bluford,78257.0,97.9,7.0,604.1,5720 MEDIA ST,19131,1909
+philadelphia,783736600,Shoemaker,132000.0,,,,5301 MEDIA ST,19131,1927
+philadelphia,783744200,Mann,64200.0,9.4,100.0,56.3,5376 W BERKS ST,19131,1980
+philadelphia,783766600,Gompers,56000.0,182.6,1.0,770.7,5701 WYNNEFIELD AVE,19131,1949
+philadelphia,881155152,Mansion at Bala,444073.0,29.6,51.0,1256.2,4700 City Avenue,19131,2010
+philadelphia,881155500,Metropolitan Wynnefield,59540.0,120.4,4.0,427.4,5000 Woodbine Avenue,19131,1953
+philadelphia,881156500,4401 Conshohocken,80000.0,83.3,15.0,420.4,4401 Conshohocken Avenue,19131,1931
+philadelphia,881157000,the metropolitan bala,188087.0,57.7,82.0,455.7,2746 Belmont Avenue,19131,1965
+philadelphia,881157500,3040 Vista Apartment Homes - CO (rq01),132109.0,51.4,11.0,620.1,2805 N 47th St,19131,1968
+philadelphia,881161000,Greenbriar Club Apartments,510612.0,100.0,26.0,2532.9,3901 Conshohocken Ave.,19131,1970
+philadelphia,"881162420, 881162600, 881162520",PC - 4 Towers,806870.0,47.9,73.0,3159.5,3900 City Avenue,19131,2015
+philadelphia,881162530,Lincoln Green 2018 LLC,605638.0,37.8,66.0,1666.2,4000 Presidential Blvd,19131,1989
+philadelphia,881446000,Simpson House Inc.,275276.0,152.6,24.0,2412.3,2101 Belmont Ave.,19131,1899
+philadelphia,"881446350, 886740291, 881446400",Kearsley,216723.0,71.8,68.0,1087.0,2100 North 49th Street,19131,1995
+philadelphia,881446600,Hayes Manor,54902.0,774.7,1.0,2312.0,2210 Belmont Avenue,19131,1886
+philadelphia,882092500,Monument Ave Fresh Grocer,56615.0,281.0,39.0,1213.0,4160 Monument Rd.,19131,1960
+philadelphia,882150610,PHILADELPHIA WEST (2124),449031.0,69.0,76.0,917.2,4000 MONUMENT RD,19131,2007
+philadelphia,883080200,WPVI-TV,156198.0,344.1,1.0,2267.0,4100 City Avenue,19131,2009
+philadelphia,883086101,PC - Monroe,72250.0,38.2,81.0,264.0,1 Winding Drive,19131,2015
+philadelphia,883371900,Philadelphia Business and Technology Center,267805.0,49.5,88.0,975.3,5070 Parkside Avenue,19131,1930
+philadelphia,883753000,Hilton Philadelphia-Homewood Suites,258000.0,56.9,91.0,1158.9,4200 City Avenue,19131,2000
+philadelphia,884220500,59th street,750000.0,3.9,76.0,274.1,2001 north 59th street,19131,1953
+philadelphia,884462220,5001 Lancaster Avenue,22151.0,45.8,7.0,97.1,5001 Lancaster Avenue,19131,1920
+philadelphia,886651600,Birchwood at Brooks (Brooks School)-Ingerman,25000.0,53.2,40.0,108.5,5630-40 Wyalusing Ave,19131,1999
+philadelphia,886651700,Park Towers Apartments,67241.0,202.8,1.0,1014.0,4001 Conshokocken Ave,19131,1982
+philadelphia,886666500,Wynne Senior,56530.0,25.2,87.0,130.6,2001 N. 54th Street,19131,2017
+philadelphia,886907010,4051 W Ford Rd,112064.0,72.5,4.0,654.4,4051 W Ford Rd,19131,1980
+philadelphia,888520668,River Park House Condominium,483235.0,73.7,55.0,1999.2,3600 Conshohocken Ave.,19131,1965
+philadelphia,776185400,Deliverance Evangelistic Church,160000.0,,,,2001-49 West Lehigh Ave.,19132,1992
+philadelphia,777692850,TECH Freire Charter School,52850.0,39.7,55.0,186.0,2221 N. Broad St.,19132,1924
+philadelphia,784063000,Rhodes EW,180000.0,48.7,41.0,616.4,2900 W CLEARFIELD ST,19132,1972
+philadelphia,784081400,Fitzsimon,133000.0,,100.0,0.0,2601 W CUMBERLAND ST,19132,1927
+philadelphia,784224400,Allen Ethel,83197.0,75.8,34.0,421.5,3200 WEST LEHIGH AVE,19132,1971
+philadelphia,784374200,Strawberry Mansion & Hill,320920.0,16.1,99.0,401.8,3133 RIDGE AVE,19132,1964
+philadelphia,784615800,Wright,82000.0,36.5,88.0,201.3,2700 W DAUPHIN ST,19132,1905
+philadelphia,785053000,Garage - Broad St,128600.0,80.3,,599.3,2600 N. Broad St.,19132,1980
+philadelphia,785314800,Dobbins CTE,312395.0,80.1,33.0,1576.9,2100-50 W LEHIGH AVE,19132,1938
+philadelphia,785727200,Pratt,59000.0,73.6,44.0,336.3,2200 N 22ND ST,19132,1952
+philadelphia,785735000,Peirce TM,62000.0,7.3,100.0,36.6,2300 W CAMBRIA ST,19132,1909
+philadelphia,881427010,2815 N. 17TH STREET,60000.0,25.6,99.0,119.8,2815 N. 17TH STREET,19132,1945
+philadelphia,881427020,2900-12 N. 17TH STREET,60000.0,27.3,,133.1,2900-12 N. 17TH STREET,19132,1926
+philadelphia,882042235,Hope Plaza,115000.0,40.4,,401.9,2101-49 West Lehigh Ave,19132,1986
+philadelphia,882286600,2709 N. BROAD STREET,60000.0,1.0,,5.9,2709 N. BROAD STREET,19132,1923
+philadelphia,882962800,1300 W. LEHIGH AVENUE,60000.0,3.7,,12.7,1300 W. LEHIGH AVENUE,19132,1964
+philadelphia,883361500,2701 N. BROAD STREET,200000.0,29.3,,561.5,2701 N. BROAD STREET,19132,1923
+philadelphia,883361600,1701 W Lehigh,76500.0,24.8,,128.0,1701 W Lehigh Avenue,19132,1900
+philadelphia,884067430,Devon SS Allegheny,75000.0,87.0,,554.4,1831-41 W Allegheny Ave,19132,1950
+philadelphia,884352645,Allegheny Depot,208000.0,45.3,,762.8,2600 W. Allegheny Avenue,19132,1986
+philadelphia,886602600,Edgewood Apartments,58354.0,29.8,81.0,155.8,1508 W Allegheny Ave,19132,1920
+philadelphia,886669500,Ruth Williams House,51248.0,52.5,,180.5,2415 N. Broad Street,19132,2017
+philadelphia,777766301,Tabernacle Corps,53500.0,48.7,,201.8,3150 Mascher Street,19133,1914
+philadelphia,785137405,Hartranft,85000.0,52.6,66.0,299.2,720 WEST CUMBERLAND ST,19133,1968
+philadelphia,785547740,Admin - Rivera Building,60464.0,63.9,81.0,256.3,2603 N 5TH ST,19133,1980
+philadelphia,785556400,Fairhill,75800.0,,100.0,0.0,601 W SOMERSET ST,19133,1968
+philadelphia,785631800,Clymer,72643.0,14.1,99.0,95.2,1201 W RUSH ST,19133,1964
+philadelphia,786154910,Hunter,98500.0,69.0,29.0,493.7,2400-54 N FRONT ST,19133,2004
+philadelphia,786272100,deBurgos,131500.0,39.2,75.0,391.7,401 W LEHIGH AV,19133,2002
+philadelphia,786646000,Welsh,71000.0,56.9,29.0,273.8,2331 N 4TH ST,19133,1966
+philadelphia,786687200,Potter-Thomas,79933.0,60.5,68.0,300.8,3001 N 6TH ST,19133,1969
+philadelphia,881134805,1007-15 W. LEHIGH AVENUE,60000.0,50.9,84.0,227.2,1007-15 W. LEHIGH AVENUE,19133,1940
+philadelphia,881448410,Casa Caribe,71095.0,35.3,87.0,163.1,173 Allegheny Avenue,19133,1998
+philadelphia,884343790,American Supply Co,130000.0,1.1,100.0,13.7,2411 N. American Street,19133,1930
+philadelphia,886604105,700 Somerset LP,67500.0,43.6,67.0,241.3,700 Somerset,19133,2018
+philadelphia,886609000,LEHIGH PARK I,22103.0,7.4,100.0,15.6,2600 N. Lawrence Street,19133,1934
+philadelphia,886609000,LEHIGH PARK II,73675.0,46.2,98.0,226.8,2622-46 N. LAWRENCE STREET,19133,1962
+philadelphia,,Pine Tree Silk Mill,71318.4,30.9,,162.0,426-36 E Allegheny Avenue,19134,1908
+philadelphia,0777011000; 0777010000,St. Christophers Hospital for Children,1043572.0,188.0,73.0,10786.8,Erie Avenue at Front St.,19134,1989
+philadelphia,777075000,Nativity BVM Place,30000.0,106.8,1.0,271.5,3255 Belgrade Street,19134,1916
+philadelphia,786010400,Stetson,140000.0,57.4,36.0,667.4,3200 B ST,19134,1917
+philadelphia,"786010800, 885747300",Elkin,53200.0,108.5,15.0,457.5,3199 D ST,19134,1973
+philadelphia,786072800,Conwell,55600.0,78.0,44.0,326.8,1849 E CLEARFIELD AVE,19134,1926
+philadelphia,786118700,Willard,97261.0,75.9,16.0,523.1,1930 E Elkhart St,19134,1907
+philadelphia,786124800,660 East Erie,53000.0,51.0,77.0,177.0,660 E Erie Ave,19134,1982
+philadelphia,786145800,Mastbaum CTE,221000.0,37.5,86.0,550.7,3116 FRANKFORD AVE,19134,1929
+philadelphia,786146001,Webster,92275.0,57.4,49.0,436.8,3400 FRANKFORD AVE,19134,1968
+philadelphia,786324800,Jones,118000.0,38.6,86.0,353.9,2950 MEMPHIS ST,19134,1924
+philadelphia,786350400,Sheridan,64767.0,80.3,31.0,296.7,800 E ONTARIO ST,19134,1900
+philadelphia,786456000,Amy at Martin,62251.0,45.9,84.0,164.8,3380 RICHMOND ST,19134,1899
+philadelphia,881164285,Frame Factory,52000.0,83.9,1.0,362.5,3560-62 Sepviva St,19134,1950
+philadelphia,882059510,4150 - PORT RICHMOND,135304.0,65.5,47.0,735.4,2539 Castor Avenue,19134,2001
+philadelphia,882059600,Kawin LLC,97261.0,1.6,,7.7,3501 Cedar Street,19134,1983
+philadelphia,882070900,PHILA-BRIDESBURG (2075),367782.0,63.7,80.0,743.1,2701 CASTOR AVE,19134,2005
+philadelphia,883376890,Commonwealth Campus,237472.0,83.3,66.0,1705.6,2301 E. Allegheny Ave.,19134,1910
+philadelphia,884047200,VENANGO 101 ASSOCIATES LLC,86000.0,26.7,,151.1,101 EAST VENANGO STREET,19134,1930
+philadelphia,884047900,The Common Market Mid-Atlantic,70483.0,,,,428 E Erie Ave,19134,1934
+philadelphia,884048000,500 Erie Ave,130000.0,,,,500-50 E Erie Ave,19134,1930
+philadelphia,884191590,2701 E Tioga st,93000.0,49.8,,303.1,2701 E Tioga St,19134,1910
+philadelphia,884193500,25765-Philadelphia/Castor Ave OC,104450.0,19.4,,170.7,2345 Castor,19134,2000
+philadelphia,884199700,3450 Salmon st,100000.0,15.0,,125.4,3450 Salmon st ,19134,1910
+philadelphia,884201450,Westmoreland 2150 LP,53000.0,4.7,96.0,24.0,2150 E Westmoreland St,19134,1929
+philadelphia,884201600,"Richard Hoffman, LLP",100000.0,4.2,85.0,39.3,2100 E. Venango Street,19134,1922
+philadelphia,884201700,Active Radiator,65000.0,106.8,,403.0,2101 E. Venango Street,19134,1921
+philadelphia,884202540,Walnut St Theatre Scene Shop,76150.0,41.9,,197.5,3340 Frankford Avenue,19134,1971
+philadelphia,884203500,2045 Wheatsheef Lain,187238.0,100.7,13.0,1052.4,2045 Wheatsheef Lain,19134,1960
+philadelphia,884340880,SOMERSET WAREHOUSE,65000.0,5.8,98.0,27.2,2801-31 A ST,19134,1945
+philadelphia,884523300,B Street,55000.0,,,0.0,3039-51 B Street ,19134,1940
+philadelphia,884526200,laundry mall,47136.0,59.1,8.0,150.0,413 E. Allegheny Ave.,19134,1905
+philadelphia,884671900,"CRAMCO, INC. WEIKEL STREET BUILDING",67550.0,3.1,,20.0,2916 Weikel Street,19134,1930
+philadelphia,884839110;884839115,Active Radiator Building 2,75000.0,67.2,,287.9,2242-54 East Venango Street,19134,1950
+philadelphia,884840501,Melvale Street LP,43000.0,0.2,,0.7,3411-25 East Melvale Street,19134,1930
+philadelphia,884843600;884843500,"PP Loom, LLC",189500.0,35.2,,459.5,2095 - 2100 E Willard St,19134,1905
+philadelphia,886671150,Maguire Residence,,,,,1920 East Orleans Street,19134,2020
+philadelphia,886905900,Somerset Villas Inc,79355.0,43.5,97.0,234.8,200 E.Somerset Street,19134,1991
+philadelphia,778636100,Taccony,20000.0,230.7,1.0,397.2,6501 New State Road,19135,2017
+philadelphia,786033600,Lawton,79856.0,49.4,21.0,345.0,6100 JACKSON ST,19135,1973
+philadelphia,786081400,Disston,67842.0,61.4,54.0,316.6,6801 COTTAGE ST,19135,1923
+philadelphia,"882972045, 874533790",State 6225 LP,67187.0,14.1,,90.5,6201 Tacony St,19135,1929
+philadelphia,884177825,Eastern Surplus,167745.0,15.7,,90.0,5825 Tacony St,19135,1950
+philadelphia,884178700,24417-Philadelphia / Tacony Street,50050.0,2.6,,12.4,6301 Tacony Street,19135,2000
+philadelphia,884179500,Freedom International,358386.0,73.8,23.0,266.5,6601 New State Rd,19135,1965
+philadelphia,884180500,Mar Vick Bren INC,125000.0,3.8,,44.1,5101-49  unruh ave.,19135,1950
+philadelphia,884182000,MARJAM SUPPLY,106400.0,8.9,78.0,75.9,6951 NEW STATE ROAD,19135,1945
+philadelphia,884213400,"Brenntag Specialties, Inc.",96381.0,17.9,66.0,110.0,5700 Tacony Street,19135,1950
+philadelphia,884249500,7th Heaven Investments,70000.0,6.7,96.0,33.0,4219 Van Kirk St.,19135,1940
+philadelphia,884351865,NATIONAL GREYHOUND ADOPTION PROGRAM,66786.0,7.9,,28.0,6801 NEW STATE ROAD,19135,1956
+philadelphia,778301000,Saint Hubert's Catholic High School for Girls,186940.0,42.1,86.0,424.5,7300 Torresdale Avenue,19136,1924
+philadelphia,778508000,Father Judge High School,216211.0,47.3,77.0,486.0,3301 Solly Avenue,19136,1954
+philadelphia,778512302,New Foundations Charter Elementary School,72134.0,,,,8001 Torresdale Avenue,19136,1999
+philadelphia,786039800,Forrest,63250.0,54.4,70.0,264.9,7300 COTTAGE ST,19136,1928
+philadelphia,786071000,Baxter WTP 9001,232000.0,139.9,,2301.8,9001 State Rd,19136,1959
+philadelphia,786152400,Brown JH,54623.0,77.4,44.0,241.9,3600 STANWOOD ST,19136,1937
+philadelphia,786482600,Lincoln HS,260200.0,120.5,7.0,2197.2,3201 RYAN AVE,19136,2009
+philadelphia,786504751,Curran Fromhold Correctional Facility,436250.0,239.2,,7628.6,7901 State Rd,19136,1995
+philadelphia,786504751,Philadelphia Industrial Correction Center,200000.0,202.1,,3081.7,8203 State Rd,19136,1979
+philadelphia,786504751,Riverside Correctional Facility,220000.0,104.9,,1757.3,8001 State Rd,19136,2004
+philadelphia,786504751,Detention Center,108960.0,315.2,,2293.1,8201 State Rd,19136,1963
+philadelphia,786504751; 881449900,HOC-House of Corrections Complex,830754.0,66.4,,3587.8,8001 State Rd,19136,1927
+philadelphia,786537201,HBG-Holmesburg Prison Complex,716651.0,13.9,,680.8,8201 Torresdale Ave,19136,1900
+philadelphia,88-2-369810,TORRESDALE PLAZA LP,506181.0,20.7,,311.9,8803-35 TORRESDALE AVE,19136,1969
+philadelphia,88-4-259500,Wolf Investments Corp. #3,143000.0,32.7,,333.6,8301 Torresdale Ave.,19136,1963
+philadelphia,881014620,Haddington Elderly - MICHAELS,111676.0,51.2,59.0,452.2,5600 Race Street,19136,1982
+philadelphia,881231500,Downing Park Terrace LLC,172200.0,52.8,71.0,620.0,8040 Rowland Ave,19136,1964
+philadelphia,881448700,Immaculate Mary Center,100100.0,60.1,,334.1,8132 Colfax Street,19136,1975
+philadelphia,882069010,Frankford Ave SC - Mealey's Furniture,166909.0,33.5,95.0,233.1,8800 Frankford Ave,19136,1962
+philadelphia,884253000,Waste Management of PA - Phila MRF & Forge,366000.0,65.0,,1588.8,5245 Bleigh Ave,19136,1920
+philadelphia,884254500,Edmund Street,210000.0,7.5,45.0,131.8,7701 Edmund Street,19136,1969
+philadelphia,884255450,Gershel Brothers,102000.0,9.9,,74.2,7500 State Road,19136,1940
+philadelphia,884255520,Northeast Treatment Center,52924.0,50.3,,193.9,7520 State Road,19136,1950
+philadelphia,884256025,ez storage,85350.0,45.7,,369.4,7245 state road,19136,2006
+philadelphia,884260000,Wolf Investment Corp. #7,170000.0,26.4,,363.0,8701 TORRESDALE AVE,19136,1956
+philadelphia,884260600,Lannett Company,68000.0,142.0,,790.8,9001 Torresdale Ave,19136,1966
+philadelphia,884265000,Clear Channel Outdoor,53814.0,22.6,94.0,100.3,9130 State Rd ,19136,1980
+philadelphia,777285900,Franklin Towne Charter Elementary School,110000.0,43.2,71.0,389.8,4259 Richmond Street,19137,2011
+philadelphia,786236600,Bridesburg,126440.0,22.1,96.0,167.8,2824 JENKS ST,19137,1957
+philadelphia,882059425,ShopRite of Aramingo Avenue,212888.0,273.9,64.0,1686.2,3745 Aramingo Avenue,19137,1995
+philadelphia,882125404,Walmart Supercenter #5891,92185.0,111.7,54.0,837.4,2200 WHEATSHEAF LN,19137,2012
+philadelphia,884201375,JM Auto Spot,48000.0,2.3,,10.7, 3711 Sepviva Street,19137,1910
+philadelphia,884204500,29145-Philadelphia / Wheatsheaf Lane,67600.0,14.6,,75.1,2190 Wheatsheaf Lane,19137,2000
+philadelphia,884206500,3000 Orthodox St.,265663.0,37.1,83.0,145.9,3000 Orthodox St. ,19137,1964
+philadelphia,884209570,RICHMOND WATERFRONT INDUSTRIAL PARK,256000.0,19.4,,395.9,2950 KIRKBRIDE STREET,19137,1963
+philadelphia,884463045,Northeast WPCP,240000.0,789.7,68.0,12678.5,3895 Richmond St,19137,1944
+philadelphia,122226915,Fresh Grocer,50000.0,359.9,33.0,1313.4,5301 Chew Avenue,19138,2009
+philadelphia,775745400,Green Tree School & Services,63000.0,57.7,22.0,347.7,1196 E. Washington Lane,19138,2013
+philadelphia,784226200,Kinsey,89200.0,83.2,25.0,416.0,6501 LIMEKILN PIKE,19138,1915
+philadelphia,784421900,King HS,370000.0,70.4,46.0,1834.7,6100 STENTON AVE,19138,1972
+philadelphia,784453600,Lewis,187000.0,,,0.0,6199 ARDLEIGH,19138,1980
+philadelphia,784453800,Hill-Freedman,168259.0,,,,6200 CRITTENDEN ST,19138,1980
+philadelphia,785099400,Pastorius,75318.0,59.6,65.0,276.3,5650 SPRAGUE ST,19138,1967
+philadelphia,3766953,Church of God Non Sectarian,86052.0,2.4,100.0,11.6,5101 Haverford Ave,19139,1910
+philadelphia,3782840,Church of God Fellowship House,1560.0,94.5,11.0,8.0,5101 Aspen St,19139,1910
+philadelphia,774569000,West Catholic,198665.0,44.0,86.0,438.9,4501 Chestnut St.,19139,1926
+philadelphia,774605005,CO/GLC 13080/5650 CHESTNUT ST/PHILADELPHIA/PA,75676.0,106.9,,758.0,5650 CHESTNUT ST,19139,1905
+philadelphia,774608200,IS3 Team LLC,1094384.0,,,0.0,4601 Market St,19139,1927
+philadelphia,782808000,Vare EH,120000.0,133.4,9.0,1207.5,2101 S 24TH ST,19139,1980
+philadelphia,783094900,West Philadelphia New,170013.0,,,,4901 Chestnut St,19139,2011
+philadelphia,783097300,Cobbs Creek Rec Center & Ice Rink,66000.0,40.7,,219.3,280 Cobbs Creek Pky,19139,1904
+philadelphia,783394400,Rhoads J,70000.0,63.2,46.0,337.1,4901 PARRISH ST,19139,1960
+philadelphia,783431200,Barry,99287.0,50.0,49.0,388.5,5900 RACE ST,19139,2008
+philadelphia,783499600,Hamilton,89500.0,42.9,80.0,256.2,5640 SPRUCE ST,19139,1968
+philadelphia,783541800,Daroff,85080.0,52.6,60.0,321.6,5630 VINE ST,19139,1972
+philadelphia,783568200,Sayre,200000.0,61.1,74.0,745.4,5800 WALNUT ST,19139,1950
+philadelphia,783707500,Juvenile Justice Center - N 48th St (YSC),160000.0,202.8,,2257.0,91 N 48th St,19139,2013
+philadelphia,783707600,Sulzberger,120000.0,75.9,36.0,522.4,4725 FAIRMOUNT AVE,19139,1924
+philadelphia,881004800,Praveen Chestnut LLC,50544.0,17.4,100.0,55.0,6235 CHESTNUT ST,19139,1926
+philadelphia,881144025,Madison Avenue A LLC,66336.0,14.2,100.0,87.5,216 S 48th ST,19139,1940
+philadelphia,881145100,Breslyn House: Breslyn House - Winn,41105.0,33.3,95.0,128.0,4640 Walnut Street,19139,1913
+philadelphia,881145500,Croydon Hall Apartments,116000.0,32.1,85.0,347.1,241 S 49th St. ,19139,1900
+philadelphia,881215555,Terrace Apartments,68550.0,18.6,100.0,111.9,4935 Spruce St,19139,1940
+philadelphia,881215700,Verona Plaza,58656.0,33.8,100.0,118.9,4701-4723 Walnut Street,19139,1925
+philadelphia,881446200,Care Pavilion of Walnut Park,144900.0,107.5,82.0,1019.3,6212 Walnut St,19139,1975
+philadelphia,881450820,Salvation Army- Booth Facility,98060.0,100.8,1.0,709.2,5522 Arch Steet,19139,2007
+philadelphia,882884810,The Fresh Grocer,51568.0,300.1,42.0,1179.5,5601 Chestnut Street,19139,2005
+philadelphia,883081705,111 North 49th Street,366910.0,145.6,,3607.5,111 North 49th Street,19139,1889
+philadelphia,886600600,Walnut Park Plaza,233372.0,81.9,31.0,1238.4,6250 Walnut Street,19139,1921
+philadelphia,886613700,The Willows at Walnut Hill (Chatham Courts)-Ingerman,44700.0,39.7,76.0,164.3,242-252 S 49th St,19139,1998
+philadelphia," 785374200, 777528325, 777528320, 777528315, 777528310, 777528305",FSU,139460.0,111.2,,1112.2,3340 N BROAD ST,19140,2000
+philadelphia,193077311,Munoz Marin,119250.0,62.8,37.0,537.3,3300 N 3RD ST,19140,1997
+philadelphia,776274500,Tioga Presbyterian Apartments,97964.0,76.7,31.0,527.0,1531 West Tioga street,19140,1995
+philadelphia,776545000,The Arc of Philadelphia,100000.0,40.9,,152.1,2350 W Westmoreland Street,19140,1940
+philadelphia,776615005,CO/GLC 14340/3429 N 17TH ST/PHILADELPHIA/PA,60607.0,93.0,,535.7,3429 N 17TH ST,19140,1905
+philadelphia,777014000,PARKINSON PAVILION,123772.0,424.9,,3907.2,3401-41 N. Broad Street,19140,2000
+philadelphia,777014000,"Rock, Ancillary, PAP",506955.0,383.5,,13983.8,3401-41 N. Broad Street,19140,1970
+philadelphia,777014000,AMBULATORY CARE CENTER,136023.0,177.0,,2094.7,1340 W. Tioga St.,19140,2005
+philadelphia,777014000,OUTPATIENT BUILDING,88439.0,332.3,,1929.7,3401-41 N. Broad Street,19140,2000
+philadelphia,777247000,Little Flower Catholic High School,232269.0,23.4,99.0,334.6,1000 W. Lycoming Avenue,19140,1939
+philadelphia,777526000,KORNBERG DENTISTRY,133302.0,195.1,,1841.0,3201 N BROAD ST,19140,1980
+philadelphia,777527000,DENTAL SCHOOL (ORIG),197099.0,259.2,,3920.5,3223 N BROAD ST,19140,2000
+philadelphia,777528500,PNAH,169976.0,340.1,,4200.9,3307 N. Broad St.,19140,2000
+philadelphia,777531000,MEDICAL RESEARCH BLDG,117508.0,467.2,,3537.7,3400 N. Broad Street,19140,2000
+philadelphia,777531100,KRESGE SCIENCE HALL,129260.0,298.6,,2689.0,3440 N. Broad Street,19140,2000
+philadelphia,777532000,MERB,485000.0,486.9,,15947.5,3500 N Broad Street,19140,2000
+philadelphia,777532901,BOYER PKG GAR on Tioga Street,188099.0,10.8,,193.6,3501 N BROAD ST,19140,2000
+philadelphia,777533001,BOYER PAVILION,344000.0,230.2,95.0,5073.2,BROAD && VENANGO,19140,2000
+philadelphia,777533101,Shriners Hospital for Children,172340.0,352.2,,4501.9,3551 North Broad St.,19140,1997
+philadelphia,777557000,JONES HALL,105924.0,159.7,72.0,1190.3,1316 W ONTARIO ST,19140,2000
+philadelphia,777574550,ONTARIO WEST PKG GAR,482002.0,7.6,,316.0,1450 W. Ontario St,19140,2000
+philadelphia,777577905,Esperanza Academy,71440.0,83.3,7.0,492.7,301 W Hunting Park Ave,19140,1930
+philadelphia,777634005,GWC/GLC 19070/160 W ERIE AVE/PHILADELPHIA/PA,60158.0,31.8,62.0,183.4,160 W ERIE AVE,19140,1905
+philadelphia,785367600,Bethune,99420.0,64.5,56.0,420.2,3301 OLD YORK RD,19140,1970
+philadelphia,785405400,Taylor,56600.0,92.0,23.0,406.5,3698 NORTH RANDOLPH ST,19140,1908
+philadelphia,785508805,Steel,85350.0,98.9,23.0,663.6,4301 WAYNE AVE,19140,1973
+philadelphia,785558600,McClure,57500.0,74.7,31.0,263.7,4134 N 6TH ST,19140,1916
+philadelphia,785657200,Kenderton,91008.0,55.0,73.0,382.7,1500 W ONTARIO ST,19140,1962
+philadelphia,785694200,Gratz,345000.0,14.3,99.0,458.6,1798 HUNTING PARK AVE,19140,1927
+philadelphia,786125000,Clemente,232815.0,56.7,57.0,909.9,122 W ERIE AVE,19140,1994
+philadelphia,786160485,Alt Ed Center Hunting Park,164000.0,41.5,69.0,522.6,120 W HUNTING PARK AV,19140,2004
+philadelphia,786211400,Cramp,80088.0,57.5,10.0,418.6,3449 N MASHER ST,19140,1970
+philadelphia,786309550,Edison,316000.0,61.9,57.0,1389.4,151 W LUZERNE ST,19140,1985
+philadelphia,881426260,Caribe Towers,155168.0,38.0,88.0,244.3,3231 N. 2nd St.,19140,2005
+philadelphia,881448300,Sacred Heart,44000.0,81.9,,244.9,1315 W Hunting Park Ave,19140,1930
+philadelphia,883003900,Esperanza,261073.0,40.8,,924.3,4231-4261 N 5th Street,19140,1930
+philadelphia,884126550,6th and Glenwood LLC,239685.0,,,,3308 N 6th St.,19140,1928
+philadelphia,884188402,3300N9 PROPERTIES LLC,197290.0,1.2,100.0,22.0,3310 N 9TH STREET,19140,1937
+philadelphia,884351660,Courtland Shop,53000.0,71.7,,211.9,4529 North 3rd Street,19140,1952
+philadelphia,884353345,Berridge Shop,475000.0,59.2,,2294.3,200 West Wyoming Avenue,19140,1955
+philadelphia,884563000,West Hunting Park LLC,64430.0,3.5,96.0,21.1,2066 W Hunting Park Ave,19140,1910
+philadelphia,884822730,American Box & Recycling Co.,211489.0,11.2,,179.4,3900 North 10th Street,19140,1913
+philadelphia,886620000,Nicetown Court I,44781.0,52.2,36.0,199.6,4340 Germantown Ave,19140,2011
+philadelphia,886620000;886620100;886620201;886620301,Nicetown Court I and II Campus,110013.0,57.2,55.0,468.5,4340 Germantown Ave. & 4428-4470 & 4413-4451 Germantown Ave. ,19140,2011
+philadelphia,886650800,Venango House,84897.0,76.9,47.0,411.9,2104 W. Venango St.,19140,1982
+philadelphia,886650801,Ray Homes,39155.0,50.3,,147.3,2101 W. Venango St,19140,2011
+philadelphia,886856500,Roberto Clemente Homes,56893.0,36.0,56.0,196.2,3921-61 N 5th Street,19140,2018
+philadelphia,776009000;776013000,Einstein Medical Center Philadelphia,2537000.0,147.3,97.0,18510.7,5501 Old York Rd,19141,1950
+philadelphia,776012000,Gratz Data Center,78240.0,248.4,,839.9,1000 W Tabor Rd,19141,1962
+philadelphia,776012000,Community House,73712.0,71.3,29.0,371.9,5501 N 11th Street,19141,2003
+philadelphia,776516000,La Salle #2 (Katherine's and B&G),80106.0,48.0,,304.9,2006-50 W Olney Ave,19141,1983
+philadelphia,776553600,Salus University,135000.0,15.7,100.0,102.3,1200 W. Godfrey Avenue,19141,1976
+philadelphia,785056600,Widener & Girls HS,317507.0,,,,1450 WEST OLNEY AVE,19141,1953
+philadelphia,785056600,Girls High,233372.0,12.6,100.0,228.8,1400 WEST OLNEY AVE,19141,1958
+philadelphia,785259000,Prince Hall,79000.0,64.6,46.0,410.3,6101-6167 N GRATZ,19141,1973
+philadelphia,785317200,Birney,59200.0,95.6,13.0,363.0,900 WEST LINDLEY AVE,19141,1913
+philadelphia,785356200,Pennell,70498.0,59.2,62.0,321.1,1800 NEDRO AVE,19141,1927
+philadelphia,785372800,Cooke,117600.0,45.0,84.0,409.3,1300 W LOUDON ST,19141,1923
+philadelphia,785373600,Central HS,212097.0,76.9,46.0,995.7,1700 W OLNEY AVE,19141,1939
+philadelphia,785689600,Logan,65000.0,60.4,64.0,295.2,1700 LINDLEY AVE,19141,1924
+philadelphia,881074500,5600 Ogontz Ave,201130.0,50.2,86.0,661.6,5600 Ogontz Ave,19141,1941
+philadelphia,881074500,Regency Village,234260.0,,,,5600 Ogontz Ave,19141,1940
+philadelphia,881149000,DB Champlost LP - 901 W Champlost Ave,51728.0,73.4,42.0,239.0,901 W Champlost Avenue ,19141,1962
+philadelphia,881150000,Stevenson Terrace Apts,156816.0,44.8,95.0,492.1,6201 N. 10th Street,19141,1967
+philadelphia,881150650,Lindley Towers,63728.0,28.3,,170.5,1220 Lindley Ave,19141,1938
+philadelphia,881150800,Spencer Arms,62895.0,61.3,59.0,243.0,920 W Spencer St,19141,1960
+philadelphia,881451120,Philip Murray House II,53253.0,112.8,3.0,370.8,6302 Old York Road,19141,2005
+philadelphia,882938075,Burgess Center,169000.0,18.7,,115.4,200 W. Chelten Ave,19141,1990
+philadelphia,883084801; 883084802; 883084803; 883084803; 883084805,Logan Plaza,323000.0,41.5,,1074.5,5201 Old York Rd,19141,1974
+philadelphia,886662700,Philip Murray House I,225000.0,70.8,10.0,1376.7,6300 Old York Road,19141,1967
+philadelphia,783072600,Patterson,72876.0,76.1,32.0,423.8,7001 BUIST AVE,19142,1921
+philadelphia,783094200,Catherine,57500.0,77.2,65.0,252.0,6600 CHESTER AVE,19142,1937
+philadelphia,783130400,Morton,87000.0,51.8,71.0,285.4,2501 S 63rd St,19142,1972
+philadelphia,783130800,Tilden,181273.0,3.5,,33.4,6601 ELMWOOD AVE,19142,1980
+philadelphia,783130800,Bartram HS,451273.0,72.6,67.0,1888.8,2401 S 67TH ST,19142,1939
+philadelphia,882052200,6000 Woodland Partners LP,97029.0,3.6,,33.1,6000 Woodland Avenue,19142,1972
+philadelphia,884161700,6900 Lindbergh Blvd.,224684.0,32.6,59.0,489.6,6900 Lindbergh Blvd.,19142,1975
+philadelphia,886616900,HELP USA 6100,51456.0,57.0,55.0,198.1,6100 Eastwick Ave ,19142,2007
+philadelphia,773071000,Independence Charter School West,105628.0,25.6,88.0,229.2,5600 Chester Ave,19143,1909
+philadelphia,773629501,Woodland Shop,262000.0,32.0,,521.2,4901 Woodland Avenue,19143,1985
+philadelphia,783029800,Harrington,66500.0,65.0,44.0,246.7,5300-34 BALTIMORE AVE,19143,1926
+philadelphia,783030800,Turner,190000.0,34.1,75.0,453.9,5900 BALTIMORE AVE,19143,1971
+philadelphia,783087800,Bryant,94235.0,83.0,35.0,451.4,6001 CEDAR AVE,19143,1904
+philadelphia,783096200,Harrity,71907.0,,,,5601 CHRISTIAN ST,19143,1980
+philadelphia,783181200,Bartram Transfer Station- Fleet Shop 290,160963.0,18.2,,234.6,5014 Grays Avenue,19143,1959
+philadelphia,783183400,Comegys,70644.0,67.6,45.0,286.6,5001 GREENWAY AVE,19143,1911
+philadelphia,783251000,Mitchell,90000.0,86.2,12.0,474.9,5500 KINGSESSING AVE,19143,1915
+philadelphia,783588600,Longstreth,85350.0,35.6,86.0,219.4,5700 WILLOWS AVE,19143,1970
+philadelphia,783732400,Huey,88183.0,114.3,8.0,764.5,5200 PINE ST,19143,1963
+philadelphia,783782600,Anderson,68235.0,132.7,4.0,680.3,1034 SOUTH 6OTH ST,19143,1963
+philadelphia,784463600,Dobson,52500.0,79.9,27.0,240.7,4667 UMBRIA,19143,1930
+philadelphia,881145000,Garden Court,311376.0,44.2,87.0,894.6,4701 Pine St.,19143,1929
+philadelphia,881444900,Holy Family Home,148401.0,65.6,91.0,681.8,5300 Chester Ave.,19143,1972
+philadelphia,881445105,4703-15 Kingsessing Ave,70800.0,106.8,33.0,636.5,4703-15 Kingsessing Ave,19143,2015
+philadelphia,881445400,Witherspoon Senior Apartments,64677.0,27.0,88.0,150.1,2050 S. 58th Street,19143,2018
+philadelphia,881445450,Greenway Presbyterian Apartments,59626.0,44.9,57.0,211.3,2001 S. 59th Street,19143,2005
+philadelphia,881713810,The Irvine Apartments (rv059),136871.0,12.5,100.0,131.4,780 S 52nd St,19143,2019
+philadelphia,884100500,5000 PASCHALL AVENUE ASSOCIATES,110000.0,51.3,,370.1,5000 paschall avenue,19143,1940
+philadelphia,884217500,Greys and Grays LLC,180000.0,15.7,68.0,228.4,5213 grays ave.,19143,1940
+philadelphia,884218809,U-Haul Moving & Storage Of Kingsessing (808073),79787.0,28.6,,162.9,5744 Woodland Ave,19143,2010
+philadelphia,884219000,5400 Grays Avenue Philadelphia,115973.0,17.9,,167.9,5400 Grays Ave,19143,1940
+philadelphia,886614200,South 55th (The Willows at Cobbs Creek)-Ingerman,20423.0,60.0,61.0,96.0,800 S 55th St,19143,1994
+philadelphia,886650400,Bernice Arms,42190.0,58.0,73.0,168.6,6000 Baltimore Ave,19143,1998
+philadelphia,886810607,Cobbs Creek: Cobbs Creek,59430.0,7.9,100.0,42.8,5256 Larchwood Avenue,19143,1925
+philadelphia,888461228,Garden Court Condominium Association,227000.0,107.0,29.0,1409.7,"4637 Pine Street, D103",19143,1922
+philadelphia,775501010,Philadelphia University (Main HT Account),160254.0,42.9,,452.3,3243 W School House Lane,19144,1950
+philadelphia,775533000,William Penn Charter School,408325.0,74.2,67.0,1618.1,3000 West School House Lane,19144,1925
+philadelphia,776008010,La Salle #6,371736.0,153.1,,4044.4,625-635 E Wister St,19144,1904
+philadelphia,776008020; 776008030,GT Penn & LTSR,182687.0,87.3,52.0,1258.6,625 East Wisteria St,19144,1980
+philadelphia,776506000,La Salle #3 (Connelly Library),104498.0,38.0,,330.7,2101 W Clarkson St,19144,1988
+philadelphia,776512000,La Salle #5 (Hayman/Gola),94000.0,59.0,,507.5,2140 Cottage Lane,19144,1972
+philadelphia,776515000; 776520000,La Salle #4,747912.0,31.3,,2239.4,1924 W Olney Ave.,19144,1899
+philadelphia,776516000,La Salle #1 (Resid Halls),117005.0,75.1,,523.9,2006-2050 W. Olney Ave,19144,1953
+philadelphia,776670714,Interfaith House in Germantown,79800.0,69.2,3.0,528.5,18 W. Chelten Avenuye,19144,1989
+philadelphia,784471600,Roosevelt MS,135315.0,157.0,2.0,1598.2,430 E WASHINGTON LANE,19144,1924
+philadelphia,784473200,Pickett,187604.0,,,,5700-5812 WAYNE AVE,19144,1980
+philadelphia,784473400,Lingelbach,64963.0,47.7,67.0,190.6,6340 WAYNE AVE,19144,1956
+philadelphia,785046000,Wister,93715.0,13.3,98.0,116.1,67 E BRINGHURST ST,19144,1958
+philadelphia,785401600,Kelly John,101976.0,66.1,47.0,452.1,5116 PULASKI AVE,19144,1970
+philadelphia,785435800,Fitler,38000.0,91.3,10.0,266.6,140 WEST SEYMOUR ST,19144,1899
+philadelphia,881057500,Penn Lee Apartments,56184.0,57.8,70.0,207.0,557 E Church Lane,19144,1941
+philadelphia,881060000,Birchwood Hill Apts,65340.0,93.6,32.0,371.2,5115 Wissahickon Avenue,19144,1966
+philadelphia,881061350,5215 Schuyler,51000.0,38.1,95.0,130.7,5215 Schuyler Street,19144,1910
+philadelphia,881062010,Fairfax Apartments,77000.0,44.1,97.0,174.7,5501 Wayne Avenue,19144,1912
+philadelphia,881062500,Marchwood Realty Co LP,85000.0,82.9,53.0,413.2,5515 Wissahickon Avenue,19144,1929
+philadelphia,881063000,Park Heights Apartments,291509.0,61.2,83.0,1087.0,5555 Wissahickon Ave. ,19144,1958
+philadelphia,881064600,Fernhill Park Holdings LLC,50946.0,64.4,57.0,215.2,5008 McKean Ave,19144,1961
+philadelphia,881083000,Alden Park Manor - Kenilworth,474304.0,46.7,93.0,1210.9,2979 W School House Ln,19144,1925
+philadelphia,881083500,Alden Park Manor - Cambridge,311774.0,63.3,60.0,1174.0,2967 W School House Ln,19144,1950
+philadelphia,881085300,Alden Park Manor - Manor,485635.0,50.9,78.0,1675.8,5702 Wissahickon Ave,19144,1925
+philadelphia,881210500,Hathaway House Apts.,225493.0,48.2,83.0,607.6,515 W Chelten Ave ,19144,1968
+philadelphia,881211010,Rittenhouse Hill,520280.0,57.2,45.0,2397.2,600 Harvey Street,19144,2014
+philadelphia,881211800,"Tulpehocken Apartments, Inc.",57353.0,92.3,,290.2,6134-46 Wayne Avenue,19144,1929
+philadelphia,881211900,6200 Wayne,71432.0,75.7,25.0,344.9,6200 Wayne Avenue,19144,1926
+philadelphia,881422820,Fishers Crossing Rlty LP,76728.0,28374.0,1.0,194242.8,4901 Stenton Ave,19144,1965
+philadelphia,881447201,Maplewood Nursing & Rehabilitation,79844.0,110.2,98.0,577.8,125 W School House Ln,19144,1975
+philadelphia,881451115;881451110,Philadelphia University (Ronson Dorms),67370.0,40.7,,230.9,3464 W School House Lane,19144,1950
+philadelphia,882072200,5627-33 GERMANTOWN AVENUE,60000.0,3.7,,15.5,5627-33 GERMANTOWN AVENUE,19144,1930
+philadelphia,883377060,GWC/GLC 14130/100 E ARMAT ST/PHILADELPHIA/PA,65685.0,143.1,,241.0,100 E ARMAT ST,19144,1905
+philadelphia,883550200,301 E. CHELTEN AVENUE,85000.0,46.6,,361.5,301 E. CHELTEN AVENUE,19144,1930
+philadelphia,884071500,0542-Philadelphia - Wayne Ave.,108210.0,13.9,,137.4,4433 Wayne Ave.,19144,2009
+philadelphia,884132005,4700 Wissahickon Ave.,851000.0,58.5,45.0,2623.5,4700 Wissahickon Ave.,19144,1929
+philadelphia,884246680,Rays Properties,79516.0,5.3,7.0,40.2,5704 Musgrave St.,19144,1960
+philadelphia,884563800,Roberts,65863.0,0.9,,5.6,240 W Roberts Ave,19144,1915
+philadelphia,886603500,The Willows at Wissahickon (Cricket Court)-Ingerman,172628.0,75.1,51.0,871.9,549 Manheim St,19144,1998
+philadelphia,886653700,Nugent Senior Apartments,54015.0,33.5,52.0,173.3,221 W. Johnson Street,19144,2013
+philadelphia,886671500,Four Freedoms House of Philadelphia,191391.0,58.3,86.0,772.9,6101 Morris Street,19144,1967
+philadelphia,886700900,Maple Village,67900.0,45.0,69.0,222.4,22 West Rittenhouse Street,19144,2002
+philadelphia,886761616,"NewCourtland Apartments at Cliveden, L.P.",57209.0,50.0,43.0,224.7,315 West Johnson Street,19144,2009
+philadelphia,773010000,Constitution Health Plaza,289700.0,128.6,,2731.3,1930 South Broad Street,19145,1920
+philadelphia,773143500,St. Monica Church,76863.0,43.2,,219.9,1700 Ritners st.,19145,1971
+philadelphia,773200000,St. Monica Sr. School,53616.0,17.7,,66.7,2500 S 16th st,19145,1971
+philadelphia,773224000,City Life Church,53259.0,25.3,,96.7,3301 S. 20th. St.,19145,1965
+philadelphia,773235000/2,St. Edmond Church,85086.0,28.3,75.0,140.5,2130 So. 21st St.,19145,1936
+philadelphia,773619000,CO/GLC 12170/2000 S BROAD ST/PHILADELPHIA/PA,91810.0,143.0,,1222.4,2000 S BROAD ST,19145,1905
+philadelphia,773628000,Southern Depot,217000.0,83.4,,1209.0,1900 Johnston Street,19145,1924
+philadelphia,782008600,Bregy,66000.0,63.1,55.0,249.1,1700 BIGLER ST,19145,1923
+philadelphia,782462200,GAMP,83460.0,95.5,27.0,500.3,22ND & RITNER ST,19145,1914
+philadelphia,782720400,Girard,66685.0,47.1,76.0,239.6,1801 SNYDER AVE,19145,1957
+philadelphia,782791400,McDaniel,61000.0,102.4,10.0,421.5,2100 Moore St,19145,1937
+philadelphia,882046400,Shoprite in South Philadelphia,129388.0,291.3,38.0,1314.0,2301 Oregon Ave,19145,1990
+philadelphia,882245100,4166 - PHIL/OREGON AVE,114840.0,68.6,60.0,652.3,2200 Oregon Avenue,19145,2004
+philadelphia,882245200,BJs Wholesale - Quartermaster Plaza,118076.0,113.9,12.0,1122.9,2300 W Oregon Ave,19145,1980
+philadelphia,"884095075, 884095090, 884095077, 884095079",The Kinderman Family LP,1198283.0,5.1,,565.2,2900 South 20th Street,19145,1940
+philadelphia,884124500,1600 S Warfield St,420000.0,26.3,91.0,179.0,1600 S Warfield St,19145,1950
+philadelphia,885701140,BJ's Wholesale Club 162,118867.0,,,,2200 W. Oregon Ave.,19145,2004
+philadelphia,886664500,ST JOHN NEUMANN PLACE II SR. HOUSING,76000.0,21.2,95.0,135.2,2627 Mifflin Street,19145,2017
+philadelphia,886760957,St. John Neumann Place,80740.0,45.3,45.0,281.3,2600 Moore Street,19145,2008
+philadelphia,886900850,Anthony Wayne Senior Housing,79200.0,54.5,,298.2,1701 S/ 28th Street,19145,2004
+philadelphia,3698642,Grays Ferry Shopping Center,417652.0,214.0,,1438.4,2815 Grays Ferry Avenue,19146,1989
+philadelphia,772032010,Penn Medicine At Rittenhouse,272165.0,146.3,75.0,3446.4,1800 Lombard St,19146,1980
+philadelphia,772035000,Tuttleman Parking Garage,156232.0,6.7,,100.8,1700 South St,19146,1985
+philadelphia,772036205,Tuttleman Building,74460.0,194.8,6.0,1211.1,1844 South. St,19146,1989
+philadelphia,772607000,PECO Christian Street Service Center,70644.0,68.6,30.0,463.7,830 Schuylkill Avenue,19146,1951
+philadelphia,772614900,CO/GLC 16600/423 S 17TH ST/PHILADELPHIA/PA,59101.0,215.7,,1216.3,423 S 17TH ST,19146,1905
+philadelphia,772668500,Scottish Rite House,105815.0,16.4,100.0,157.1,1525 Fitzwater Street,19146,1985
+philadelphia,772706250,Scottish Rite Tower,69705.0,80.3,42.0,394.9,1530 Fitzwater Street,19146,1996
+philadelphia,773198500,Reed Street Presbyterian Apartments,63665.0,64.1,,307.6,1401 South 16th Street,19146,2001
+philadelphia,773259000,St. Gabriel Church,54839.0,44.7,,138.5,1432 S. 29th St.,19146,1895
+philadelphia,773262100,PENNOVATION 6176,53047.0,91.5,,464.5,3401 Gray's Ferry Avenue,19146,2014
+philadelphia,782026200,Health Administration Building,77688.0,109.8,,734.4,500 S Broad St,19146,1959
+philadelphia,782094400,Peirce WS,76630.0,6.8,100.0,33.4,2400 CHRISTIAN ST,19146,1929
+philadelphia,782671300,Independence Charter School,50286.0,42.7,54.0,204.9,1600 Lombard Street,19146,1909
+philadelphia,782673800,Barratt New Childs,134000.0,102.1,22.0,791.0,1599 WHARTON ST,19146,1928
+philadelphia,782843800,Alcorn,63000.0,79.3,29.0,292.2,3200 DICKINSON ST,19146,1932
+philadelphia,784472600,Pennypacker,62600.0,64.9,82.0,237.8,1858 E WASHINGTON LANE,19146,1930
+philadelphia,881020430,The Pepper Building,199587.0,42.7,54.0,745.6,1830 Lombard Street,19146,1927
+philadelphia,881111438,Lincoln Square,443064.0,68.3,,2054.5,1000 S Broad St,19146,2018
+philadelphia,884006394,1829-Philadelphia - Washington Ave,73100.0,11.3,,72.3,2300 Washington Ave,19146,2017
+philadelphia,884122536,"Aero Phil FE, LLC - 3600 Grays Ferry Avenue",113409.0,51.5,19.0,413.3,3600 Grays Ferry Avenue,19146,2001
+philadelphia,884124000,PHPA,58887.0,88.6,23.0,348.8,1550 South Warfield St,19146,1962
+philadelphia,886650200,The Landreth,66619.0,24.0,91.0,144.1,1201 S 23rd St,19146,1930
+philadelphia,886800100,Birchwood at Grays Ferry (St Anthony's)-Ingerman,71308.0,38.3,60.0,235.9,2309 Carpenter St,19146,1897
+philadelphia,888088402,Symphony House,642000.0,39.9,84.0,2069.3,440 South Broad St.,19146,2005
+philadelphia,888304534,(PA3558) - 2400 South,229044.0,6.0,100.0,112.4,2400 South Street,19146,1987
+philadelphia,771179000,Wharton Street Lofts,69175.0,27.0,62.0,179.0,1148 Wharton Street,19147,1910
+philadelphia,771501000,Arts Bank,25006.0,39.0,,89.5,601 South Broad Street,19147,1994
+philadelphia,771637200,Gershman Hall,75000.0,65.3,,347.2,401-11 South Broad Street,19147,1923
+philadelphia,781021910,CAPA,166630.0,60.1,58.0,719.5,901 S BROAD ST,19147,1997
+philadelphia,781042400,Nebinger,59000.0,143.5,5.0,639.3,601 CARPENTER ST,19147,1925
+philadelphia,781043800,Palumbo,185206.0,13.4,99.0,210.7,1122 CATHARINE ST,19147,1980
+philadelphia,781082800,Kirkbride,57000.0,147.5,3.0,630.2,1501 S 7TH ST,19147,1926
+philadelphia,781092000,Jackson,58000.0,56.0,70.0,192.7,1213 S. 12 ST,19147,1925
+philadelphia,781485800,Meredith,55437.0,61.0,53.0,212.3,725 SOUTH 5TH ST,19147,1930
+philadelphia,781486600,Washington ES,68000.0,59.6,50.0,248.6,1198 S 5TH ST,19147,1937
+philadelphia,881008215,Casa Farnese,137400.0,63.5,92.0,613.2,1300 Lombard Street,19147,1964
+philadelphia,881010120,910 Cherry Street,64000.0,25.7,97.0,157.4,910 Cherry Street,19147,2016
+philadelphia,881576550,777 South Broad (st031),218753.0,37.1,38.0,772.9,777 S Broad St,19147,2016
+philadelphia,881576560,SouthStar Lofts (st032),118616.0,56.9,3.0,575.2,521 S Broad St,19147,2016
+philadelphia,883359300,1163-65 S. BROAD STREET,52258.0,50.3,64.0,247.2,1163-65 S. BROAD STREET,19147,2012
+philadelphia,883406500,420 s. Second Street,195154.0,0.2,,1.5,420 South 2nd Street,19147,1950
+philadelphia,884005160,U-Haul Moving and Storage of South Philadelphia (1135) (808066),70200.0,49.4,,269.0,1135 WASHINGTON AVE,19147,1907
+philadelphia,884005170,U-Haul Moving and Storage of South Philadelphia (1201-21) (808066),99140.0,23.8,,207.5,1201-21 Washington Ave,19147,1907
+philadelphia,886930205,Birchwood at Cedars Village-Ingerman,53300.0,35.5,56.0,181.0,921 Ellsworth St,19147,2013
+philadelphia,888064986,Dockside Condominium Association,502070.0,33.2,98.0,1083.4,717 S. Columbus Blvd,19147,2001
+philadelphia,888113214,Bella Vista Condos,180000.0,44.6,65.0,568.7,1101 Washington Avenue,19147,1935
+philadelphia,888303359,1352 Lofts,150433.0,35.1,92.0,429.6,1352 South Street,19147,2007
+philadelphia,888500908,(PA2497) - 410 South Hill Condominium,85498.0,55.2,21.0,387.9,410 South Front Street ,19147,2015
+philadelphia,,"02771- Philadelphia, PA",54415.0,227.2,59.0,987.3,29 East Snyder Avenue,19148,2017
+philadelphia,771010000,Methodist Hospital,367678.0,261.1,36.0,6744.7,2301 South Broad Street,19148,1888
+philadelphia,771251200,SS Neumann Goretti High School,316125.0,25.7,99.0,446.8,1730 S 10th St,19148,1955
+philadelphia,771251500,Stella Maris Church and School,69630.0,43.5,84.0,199.7,2901 S 10th Street,19148,1954
+philadelphia,771528000,Pier 74 Annex,115000.0,7.3,44.0,80.7,1901 S. Columbus Blvd,19148,2007
+philadelphia,771601005,PECO Oregon Shops,155863.0,48.6,,619.6,2610 S DELAWARE AVE,19148,1955
+philadelphia,781022700,South Philadelphia,331440.0,41.5,91.0,839.7,2101 SOUTH BROAD ST,19148,1956
+philadelphia,781053600,Pier 82 South,125000.0,16.5,92.0,189.6,2201 S. Columbus Blvd,19148,1980
+philadelphia,781358000,Southeast WPCP,80064.0,881.0,69.0,6266.9,100 Packer Ave/25 E Pattison Ave,19148,1900
+philadelphia,781432200,Sharswood,73000.0,76.2,44.0,315.5,2300 S 2ND ST,19148,1906
+philadelphia,781458200,Furness HS,145000.0,71.4,71.0,602.5,1900 S 3RD ST,19148,1914
+philadelphia,781490600,Taggart,66000.0,55.1,78.0,280.2,400 W PORTER ST,19148,1916
+philadelphia,781609000,Southwark,138000.0,38.3,92.0,310.3,1835 S 9TH ST,19148,1909
+philadelphia,781609400,Fell,61000.0,87.8,30.0,313.1,900 W OREGON AVE,19148,1924
+philadelphia,788020010,Citizens Bank Park [New],1250000.0,87.2,,8250.9,1 Citizens Bank Way,19148,2004
+philadelphia,788023020,Lincoln Financial Field,1700000.0,23.0,,3748.8,One Lincoln Financial Field Way,19148,2003
+philadelphia,881000110,Jackson Place,59639.0,59.3,27.0,292.5,501 Jackson Street,19148,2004
+philadelphia,881444210,St. Monica Center,100000.0,30.2,100.0,170.0,2509 S. Fourth Street,19148,1960
+philadelphia,882055160,4101 - S PHILADELPHIA,152681.0,53.5,86.0,646.7,1651 Christopher Columbus Blvd,19148,1994
+philadelphia,882055181,Walmart Supercenter #2141,149398.0,114.5,40.0,1280.0,1675 S. Christopher Columbus Blvd.,19148,1995
+philadelphia,882055480,PHILADELPHIA SE (1443),268266.0,71.9,71.0,786.7,1 MIFFLIN ST,19148,2002
+philadelphia,882087505,Colligas Family Markets,58696.0,,,,330 W Oregon Av,19148,1980
+philadelphia,882087505,Burlington Coat Factory 815,125000.0,29.4,,163.4,424 West Oregon Avenue,19148,1982
+philadelphia,882241000,Philadelphia - 215,1161500.0,49.8,99.0,1012.1,2206 South Columbus Blvd,19148,2004
+philadelphia,884004000,"Betty, Inc",410000.0,5.6,95.0,114.0,1801 S Swanson Street,19148,1948
+philadelphia,884136200,UPS Oregon Ave,509119.0,99.4,16.0,2967.7,15 E Oregon Ave,19148,1967
+philadelphia,884139010,Westport Philadelphia Self Storage,108281.0,8.0,,82.4,1910 S. Christopher Columbus Blvd,19148,2005
+philadelphia,884140525,U-Haul Moving & Storage of Riverview (808071),297313.0,12.9,,282.1,8 E Oregon Ave,19148,1920
+philadelphia,884140610,Devon/Oregon LLC,150000.0,8.6,,112.2,10 - 12 Oregon Ave,19148,1950
+philadelphia,884142260,Sysco Philadelphia Food Service Warehouse,530160.0,43.4,67.0,2101.0,600 packer avenue,19148,1964
+philadelphia,884142500,700 PACKER AVENUE,125000.0,43.3,,485.9,700 PACKER AVENUE,19148,1964
+philadelphia,884143300,Ivy Pattison - 200 Pattison Avenue,100000.0,46.2,,420.6,200 Pattison Avenue,19148,1970
+philadelphia,884149000,Procacci Brothers Sales Corp.,315000.0,96.0,27.0,2621.1,3333 S. Front Street,19148,1958
+philadelphia,884153000,Procacci Brothers Sales Corp. B1,192054.0,70.8,18.0,1282.6,3655 S. Lawrence Street,19148,1967
+philadelphia,884153505,Samuels and Son Seafood,151054.0,192.9,,1118.7,3400 S. Lawrence St.,19148,2009
+philadelphia,884154000,Novick Brothers Corp.,172229.0,57.4,30.0,339.5,3660 S Lawrence St.,19148,1962
+philadelphia,884463825,Pier 84,540000.0,5.1,,254.2,2401 south columbus boulevard,19148,1919
+philadelphia,884463830,Pier 78 South Annex,208000.0,7.6,44.0,150.5,2001 S. Columbus Blvd,19148,1996
+philadelphia,884463835,Pier 80 South,410587.0,4.4,,174.1,2101 S. Columbus Blvd,19148,1930
+philadelphia,786076410,Ziegler,59025.0,61.0,32.0,238.7,5935 SAUL ST,19149,1956
+philadelphia,786082700; 786082800,NE Reg Library/ Health Center #10,58009.0,91.5,,412.2,2230 Cottman Ave,19149,1963
+philadelphia,786304600,Spruance,102143.0,60.9,47.0,382.2,6401 HORROCKS ST,19149,1950
+philadelphia,786438600,Mayfair,72000.0,87.8,10.0,427.2,3001 PRINCETON AVE,19149,1949
+philadelphia,786461400,Allen Ethan,66482.0,63.8,40.0,259.2,3001 ROBBINS AVE,19149,1929
+philadelphia,786543600,Solis-Cohen,91000.0,39.2,73.0,239.1,7001 HORROCKS ST.,19149,1948
+philadelphia,881222000,Oakland Terrace 2012 LP,72840.0,56.6,74.0,274.2,6063 Roosevelt Blvd.,19149,2012
+philadelphia,882064855,"00299- Philadelphia, PA",67305.0,270.6,40.0,1491.7,2101-41 Cottman Ave.,19149,1996
+philadelphia,882065500,(71155A) NORTHEAST,311186.0,21.0,99.0,549.7,2399 COTTMAN AVENUE,19149,1995
+philadelphia,882074000,3527,70110.0,25.2,,119.4,7101 Roosevelt Blvd,19149,1980
+philadelphia,882129500,"07704- Philadelphia, PA",52380.0,260.1,62.0,1100.2,6601 Roosevelt Blvd.,19149,1980
+philadelphia,884353910,Comly Depot,105000.0,151.8,,1049.6,6000 Penn Street,19149,1921
+philadelphia,778806010,Samuel Tabas Apartments fka Federation Apartments,368515.0,61.1,42.0,1127.6,2101 Strahle Street,19152,1974
+philadelphia,786066200,Rhawnhurst,46000.0,30.9,76.0,103.0,7809 CASTOR AVE,19152,1949
+philadelphia,786066400,Farrell,73882.0,44.3,57.0,260.9,8300 CASTOR AVE,19152,1958
+philadelphia,786482200,Meehan,204093.0,33.4,88.0,499.6,3001 RYAN AVE,19152,1973
+philadelphia,786569600,Pollock,73000.0,63.4,49.0,285.8,2850 WELSH RD,19152,1962
+philadelphia,881170000,7701 Bustleton,64768.0,76.6,40.0,303.6,7701 Bustleton Avenue,19152,1963
+philadelphia,881170500,7801 Bustleton,60727.0,74.3,34.0,288.3,7801 Bustleton Avenue,19152,1969
+philadelphia,881171500,2101 Glendale,85253.0,81.9,14.0,462.5,2101 Glendale Avenue,19152,1965
+philadelphia,881172000,2121 Glendale,58893.0,100.1,1.0,412.9,2121 Glendale Avenue,19152,1961
+philadelphia,881173000,2450 Hartel Ave/Roosevelt,50000.0,62.0,39.0,213.5,2450 Hartel Avenue,19152,1955
+philadelphia,881183500,8020 Algon,50840.0,38.0,96.0,137.8,8020 Algon Avenue,19152,1964
+philadelphia,881230301,WWR Premier Holdings LLC,208400.0,85.8,41.0,646.6,7801-7901 Roosevelt Blvd,19152,1954
+philadelphia,881449200,Deer Meadows,380000.0,88.2,,1748.8,8301 Roosevelt Blvd.,19152,1925
+philadelphia,881449300,Wesley Enhanced Living Pennypack Park,216320.0,72.7,83.0,1143.4,8401 Roosevelt Boulevard,19152,1931
+philadelphia,882064500,Castor Place - All Stores,366411.0,59.4,,829.6,7301 Castor Avenue,19152,1935
+philadelphia,882067050,"07725- Philadelphia, PA",50256.0,227.9,74.0,942.4,8200 Roosevelt Blvd,19152,2002
+philadelphia,882093000,8318 Bustleton Ave,75812.0,77.7,,402.8,8318 Bustleton Avenue,19152,1955
+philadelphia,882131101,PHILA-COTTMAN (2418),351832.0,56.8,84.0,664.3,7400 BUSTLETON AVE,19152,2009
+philadelphia,883090500,2607 Rhawn St,54666.0,135.3,4.0,707.7,2607 Rhawn St,19152,1973
+philadelphia,884265300,U-Haul Moving & Storage At Roosevelt Blvd (808074),72000.0,18.4,,126.8,7750 Roosevelt Blvd,19152,1978
+philadelphia,888560998,Valmont Towers Condo Assn.,85480.0,74.1,6.0,553.5,7600 Roosevelt Blvd.,19152,1974
+philadelphia,,33737-Philadelphia Airport,293781.0,96.8,46.0,2177.3,One Arrivals Road,19153,1995
+philadelphia,773102500,Distribution Center #9001,385000.0,51.4,39.0,1411.5,8201 Enterprise Avenue,19153,1969
+philadelphia,773300001,DOA Warehouse,88022.0,64.2,21.0,397.6,8401 Executive Ave,19153,1970
+philadelphia,773300001,Main Airport Terminal Complex,7757470.0,184.2,,56007.7,8000 Essington Ave,19153,1925
+philadelphia,773681500,UNICO Village II,84125.0,119.8,19.0,627.5,7199 Brant Place,19153,1972
+philadelphia,783131000,Southwest WPCP,220000.0,1010.1,1.0,21269.3,8200 Enterprise Ave,19153,1975
+philadelphia,783805401,Pepper,200000.0,,,,2901 S 84TH ST,19153,1974
+philadelphia,882090000,Shop Rite of Island Avenue,59502.0,320.5,47.0,1479.2,2946 Island Avenue,19153,1995
+philadelphia,882148910,Penrose Plaza,1210806.0,2.1,,50.3,2900-3000 Island Avenue,19153,1978
+philadelphia,882167505,Pacifico Ford,55000.0,,,,6701 Essington Ave,19153,1970
+philadelphia,883742500,Philadelphia PA FP,88956.0,87.6,60.0,606.5,4101 Island Ave,19153,1980
+philadelphia,883742500,Philadelphia PA SHNS,162250.0,66.9,73.0,901.2,4101 B Island Avenue,19153,1980
+philadelphia,883742800,Philadelphia PA AH,75000.0,72.7,32.0,438.8,4301 Island Ave,19153,1980
+philadelphia,883743000,1233 - Sonesta Select Philadelphia Airport 8900 Bartram Avenue,78490.0,72.2,79.0,431.8,8900 Bartram Avenue,19153,1991
+philadelphia,883743500,ES Philadelphia Airport - PHI,211000.0,62.8,74.0,1114.6,9000 Bartram Ave,19153,2006
+philadelphia,883744000,0547-Philadelphia - Airport,78155.0,55.3,62.0,348.7,9000 Tinicum Blvd.,19153,1998
+philadelphia,883745200,2526-Philadephia - Airport,44737.0,63.5,46.0,230.7,8880 Bartram Ave.,19153,1998
+philadelphia,883745500,Residence Inn Philadelphia Airport,95000.0,62.5,94.0,441.6,3701 Island Ave,19153,2016
+philadelphia,884161920,08128-Airport,98825.0,3.8,,35.7,7000 Lindbergh,19153,2000
+philadelphia,884162600,7625 Suffolk Ave,157246.0,22.0,71.0,146.3,7625 Suffolk Ave,19153,1981
+philadelphia,884163400,Simeone Foundation Automotive Museum,33000.0,26.4,,63.5,6825 Norwitch Drive,19153,2012
+philadelphia,884165500,7777 Brewster Avenue,107076.0,50.2,,423.5,7777 Brewster Avenue,19153,1978
+philadelphia,884167016,DHL/PHL,216640.0,47.3,52.0,318.4,7600 Holstein Ave,19153,2005
+philadelphia,884167024,7400 Holstein Ave.,52800.0,88.8,,374.8,7400 Holstein Ave.,19153,2003
+philadelphia,884167500,3250 S 76th St,247447.0,41.2,36.0,682.9,3250 S 76th Street,19153,2007
+philadelphia,884167800,Ottens Flavors,90000.0,,,,7800 Holstein Avenue,19153,1999
+philadelphia,778017200,Torresdale Medical Building,60122.0,109.6,15.0,630.7,10810 Knights Road,19154,1985
+philadelphia,778069000,Archbishop Ryan High School,436825.0,50.1,78.0,892.9,11201 Academy Road,19154,1965
+philadelphia,778144000,ST. ANSELM ANNEX,10764.0,89.5,54.0,56.1,12700 DUNKS FERRY RD.,19154,1970
+philadelphia,778144000,ST. ANSELM PARISH AND SCHOOL,208415.0,46.8,84.0,225.2,12670 DUNKS FERRY RD,19154,1963
+philadelphia,778144000,OUR LADY OF VICTORY HALL,11869.0,44.0,,33.0,12645 DUNKS FERRY RD,19154,1996
+philadelphia,786001800,Decatur,89247.0,56.6,36.0,407.8,3500 ACADEMY RD,19154,1965
+philadelphia,786076005,Philadelphia Police BRAC - Woodhaven,82850.0,53.1,,357.6,2838 Woodhaven Rd,19154,2015
+philadelphia,786249100,Fitzpatrick,85550.0,55.2,45.0,383.3,11061 KNIGHTS RD,19154,1959
+philadelphia,786249200,Rush,173550.0,126.6,4.0,1555.1,11901 Knights Rd,19154,1980
+philadelphia,786442010,LaBrum,66000.0,33.4,47.0,201.9,10800 HAWLEY ST,19154,1974
+philadelphia,786590000,Shallcross,67938.0,69.3,23.0,391.2,3901 WOODHAVEN RD,19154,1929
+philadelphia,88-2-078060,Parkwood Shopping Center,360537.0,168.9,,955.8,12301-75 Academy Road,19154,1964
+philadelphia,881234700,RSW Premier Holdings LLC,567800.0,56.9,70.0,1534.2,10825 E. Keswick Road,19154,1971
+philadelphia,882693016,08700 - Franklin Mills 14,68174.0,12.8,,46.2,1149 Franklin Mills Cir,19154,1990
+philadelphia,882693050,Walmart Supercenter #2650,176191.0,90.9,61.0,1329.2,4301 Byberry Road,19154,2014
+philadelphia,882693100,Sam's Club #6332,356437.0,122.9,18.0,1270.6,1000 Franklin Mills Circle,19154,2000
+philadelphia,884233841,"Wakanek Prop MGMT, Lp.",10950.0,213.5,,223.8,2101 Hornig Road,19154,1986
+philadelphia,884267500,United Refrigeration Inc. Headquarters,181508.0,73.5,19.0,762.7,11401 Roosevelt Blvd.,19154,1960
+philadelphia,884268000,United Refrigeration Inc. Warehouse 90,253386.0,13.2,90.0,167.8,11451 Roosevelt Blvd.,19154,1959
+philadelphia,884269000,Pepsi Bottling Group,333526.0,204.0,,3760.0,11701 Roosevelt Blvd,19154,1969
+philadelphia,884269100,1198-Philadelphia - Roosevelt BL,108232.0,9.7,,80.1,12005 Roosevelt Blvd,19154,2009
+philadelphia,884269500,Auroras Encore LLC,100000.0,11.1,,106.0,11600 Caroline Rd,19154,1974
+philadelphia,884270000,Auroras Encore LLC,70814.0,13.3,100.0,90.0,11620 Caroline Rd,19154,1970
+philadelphia,884275000,Monarch Global Brands,309254.0,7.3,,216.7,11350 Norcom Road,19154,1965
+philadelphia,884278500,Decatur Rd,118036.0,56.7,75.0,426.8,10551 Decatur Rd,19154,1995
+philadelphia,884280000,10981 Decatur Partners LP,250000.0,7.8,,187.0,10981 Decatur Rd,19154,1975
+philadelphia,884280500,Advanced Sports,70000.0,21.4,76.0,105.9,10940 Dutton Rd,19154,1965
+philadelphia,884282500,DUTTON ROAD ASSOC.,96000.0,29.7,,201.0,10901 DUTTON ROAD,19154,1975
+philadelphia,884283501,Auroras Encore LLC,99000.0,35.2,,333.8,10350 Drummond Rd,19154,1973
+philadelphia,884284000,"Arbill Industries, Inc.",117538.0,83.6,45.0,438.2,10450 Drummond Road,19154,1968
+philadelphia,884284500,DRUMMOND ROAD,51024.0,48.0,33.0,196.5,10500 Drummond Road ,19154,1963
+philadelphia,884290000,Auroras Encore LLC,92000.0,4.0,100.0,35.4,2800-48 Comly Rd,19154,1981
+philadelphia,884290500,2828 Charter Rd.,306000.0,37.2,,744.1,2828 Charter Rd.,19154,1957
+philadelphia,884291500,Computer Components Corp,73515.0,144.2,,727.3,2751 Southampton Road,19154,1980
+philadelphia,884292000,Holts Cigar Company,65347.0,35.5,81.0,197.9,12270 Townsend Rd,19154,1970
+philadelphia,884292513,US Treasury Building,172910.0,81.4,11.0,903.8,13000 Townsend Rd,19154,1994
+philadelphia,884292538,onyx glentov,100000.0,37.4,97.0,191.4,12285 mcnulty rd,19154,1988
+philadelphia,884292540,Main Warehouse,56947.0,27.5,72.0,100.2,12300 McNulty Road,19154,1985
+philadelphia,884292544,Westinghouse Lighting,229755.0,30.1,76.0,487.1,12401 McNulty Rd.,19154,1988
+philadelphia,884292570,2800 Black Lake Place,58372.0,47.3,67.0,190.4,2800 Black Lake Place,19154,1988
+philadelphia,884292573,Elliott-Lewis Corporate HQ,124000.0,62.0,43.0,291.2,2900 Black Lake Place,19154,2000
+philadelphia,884292580,Almo Corporation,159200.0,34.2,81.0,361.7,2709 Commerce Way,19154,2001
+philadelphia,884292596,Select Nutrition-Philadelphia,100000.0,58.1,2.0,504.7,2722 Commerce Way,19154,2000
+philadelphia,884292604,Philadelphia Station ZPHI/191 – 14300 Townsend Road,154048.0,62.9,12.0,694.2,14300 Townsend Road  19154,19154,1996
+philadelphia,884292608,Steamfitter Union 420,83000.0,71.7,70.0,407.4,14400 Townsend Rd,19154,2000
+philadelphia,884292800,Origlio Property Holding,568000.0,16.3,100.0,233.5,3000 Meeting House Road,19154,2001
+philadelphia,886761652,Charles Simon Trust,63708.0,85.2,22.0,389.8,4200 woodhaven rd,19154,1973
