@@ -1,0 +1,32 @@
+{
+  "city": "nyc",
+  "seed": 42,
+  "dtype": "float32",
+  "layout": "row-major",
+  "feature_cols": [
+    "site_eui",
+    "energy_star_score",
+    "gross_floor_area_sqft"
+  ],
+  "target_col_raw": "total_ghg_mtco2e",
+  "n_features": 3,
+  "splits": {
+    "train": {
+      "n_rows": 18165
+    },
+    "val": {
+      "n_rows": 2270
+    },
+    "test": {
+      "n_rows": 2272
+    }
+  },
+  "files": {
+    "X_train": "X_train.bin",
+    "y_train_raw": "y_train_raw.bin",
+    "X_val": "X_val.bin",
+    "y_val_raw": "y_val_raw.bin",
+    "X_test": "X_test.bin",
+    "y_test_raw": "y_test_raw.bin"
+  }
+}
