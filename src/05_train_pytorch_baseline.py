@@ -50,9 +50,10 @@ def main():
 
     # Features (numeric only)
     feature_cols = ["site_eui", "energy_star_score", "gross_floor_area_sqft"]
-    # If floor area is missing for some cities, fill with median (simple baseline)
     if "gross_floor_area_sqft" in df.columns:
-        df["gross_floor_area_sqft"] = df["gross_floor_area_sqft"].fillna(df["gross_floor_area_sqft"].median())
+        df["gross_floor_area_sqft"] = df["gross_floor_area_sqft"].fillna(
+            df["gross_floor_area_sqft"].median()
+        )
 
     X = df[feature_cols].to_numpy(dtype=np.float32)
     y = df["y_log_ghg"].to_numpy(dtype=np.float32).reshape(-1, 1)
@@ -92,12 +93,14 @@ def main():
 
     model = MLP(in_dim=X.shape[1]).to(device)
     opt = torch.optim.Adam(model.parameters(), lr=1e-3)
-    loss_fn = nn.MSELoss()
+
+    # 🔹 CHANGED: Huber loss for robust baseline training
+    loss_fn = nn.HuberLoss(delta=1.0)
 
     best_val = float("inf")
     best_state = None
 
-    for epoch in range(1, 21):  # 20 epochs baseline
+    for epoch in range(1, 21):
         model.train()
         train_losses = []
         for xb, yb in train_loader:
@@ -119,15 +122,14 @@ def main():
                 pred = model(xb)
                 val_losses.append(loss_fn(pred, yb).item())
 
-        train_mse = float(np.mean(train_losses))
-        val_mse   = float(np.mean(val_losses))
-        print(f"epoch {epoch:02d} | train_mse={train_mse:.4f} | val_mse={val_mse:.4f}")
+        train_loss = float(np.mean(train_losses))
+        val_loss   = float(np.mean(val_losses))
+        print(f"epoch {epoch:02d} | train_loss={train_loss:.4f} | val_loss={val_loss:.4f}")
 
-        if val_mse < best_val:
-            best_val = val_mse
+        if val_loss < best_val:
+            best_val = val_loss
             best_state = {k: v.cpu().clone() for k, v in model.state_dict().items()}
 
-    # Load best
     if best_state is not None:
         model.load_state_dict(best_state)
 
@@ -139,11 +141,9 @@ def main():
     y_true_log = y_test.reshape(-1)
     y_pred_log = preds
 
-    # Convert back to original scale for readable metrics
     y_true = np.expm1(y_true_log)
     y_pred = np.expm1(y_pred_log)
 
-    # --- diagnostics for heavy tails ---
     def median_ae(a, b) -> float:
         return float(np.median(np.abs(a - b)))
 
@@ -162,9 +162,6 @@ def main():
     for i in worst:
         print(f"  true={y_true[i]:,.0f}  pred={y_pred[i]:,.0f}")
 
-
-    
-
     results = {
         "n_rows_total": int(n),
         "n_train": int(len(train_idx)),
@@ -172,6 +169,7 @@ def main():
         "n_test": int(len(test_idx)),
         "features": feature_cols,
         "target": "total_ghg_mtco2e (log1p during training)",
+        "train_loss": "HuberLoss(delta=1.0)",
         "test_rmse": rmse(y_true, y_pred),
         "test_mae": mae(y_true, y_pred),
         "test_rmse_log": rmse(y_true_log, y_pred_log),
@@ -191,6 +189,7 @@ def main():
     print("\nSaved:")
     print(" -", METRICS_PATH)
     print(" -", MODEL_PATH)
+
     print("\nMetrics:")
     for k, v in results.items():
         if isinstance(v, float):
